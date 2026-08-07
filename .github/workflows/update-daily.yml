@@ -1,0 +1,43 @@
+name: Update Daily Curio
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 0 * * *"
+      timezone: "Asia/Shanghai"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-curio-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out the data repository
+        uses: actions/checkout@v4
+
+      - name: Use Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch official feeds and choose today's signal
+        run: node scripts/update-daily.mjs
+
+      - name: Save the new daily data
+        shell: bash
+        run: |
+          if git diff --quiet -- daily.json history.json; then
+            echo "No data change to publish."
+            exit 0
+          fi
+          git config user.name "daily-curio-bot"
+          git config user.email "daily-curio-bot@users.noreply.github.com"
+          git add daily.json history.json
+          git commit -m "chore: update daily curio $(date -u +%F)"
+          git push
