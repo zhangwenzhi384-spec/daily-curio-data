@@ -1,16 +1,16 @@
 {
   "version": 1,
   "date": "2026-08-07",
-  "generatedAt": "2026-08-07T15:03:06.894Z",
+  "generatedAt": "2026-08-07T15:06:32.291Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "fd1d3404324380f7",
-    "topic": "technology",
-    "title": "NIST Researchers Correct Common Error Confounding Nanotech Measurements",
-    "summary": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products.",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-correct-common-error-confounding-nanotech-measurements",
-    "publishedAt": "2026-08-06T12:00:00.000Z"
+    "id": "310c610b601bb9ba",
+    "topic": "biology",
+    "title": "Development and in vivo pharmacokinetic evaluation of a phospholipid complex self-nanoemulsifying drug delivery system (PLC-SNEDDS) for enhanced oral bioavailability of cannabidiol.",
+    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
+    "sourceName": "NIH · PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42487275/",
+    "publishedAt": ""
   },
   "digest": [
     {
@@ -38,7 +38,7 @@
       "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
       "sourceName": "NIH · PubMed",
       "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42535765/",
-      "publishedAt": "2026-12-30T16:00:00.000Z"
+      "publishedAt": ""
     },
     {
       "id": "d98507a48f3b8415",
@@ -63,6 +63,6 @@
     "nist",
     "sep",
     "world-bank",
-    "nasa-apod"
+    "pubmed"
   ]
 }

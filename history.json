@@ -1,5 +1,6 @@
 {
   "seen": [
+    "310c610b601bb9ba",
     "fd1d3404324380f7",
     "6656d806f0dd96c9",
     "502873571c49b1ab",
@@ -8,8 +9,8 @@
   "days": [
     {
       "date": "2026-08-07",
-      "id": "fd1d3404324380f7",
-      "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-correct-common-error-confounding-nanotech-measurements"
+      "id": "310c610b601bb9ba",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42487275/"
     }
   ]
 }
