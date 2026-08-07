@@ -1,5 +1,6 @@
 {
   "seen": [
+    "41a6fb819e931bdd",
     "310c610b601bb9ba",
     "fd1d3404324380f7",
     "6656d806f0dd96c9",
@@ -7,6 +8,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-08-08",
+      "id": "41a6fb819e931bdd",
+      "sourceUrl": "https://plato.stanford.edu/entries/capitalism/"
+    },
     {
       "date": "2026-08-07",
       "id": "310c610b601bb9ba",

@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-08-07",
-  "generatedAt": "2026-08-07T15:06:32.291Z",
+  "date": "2026-08-08",
+  "generatedAt": "2026-08-07T17:05:37.107Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "310c610b601bb9ba",
-    "topic": "biology",
-    "title": "Development and in vivo pharmacokinetic evaluation of a phospholipid complex self-nanoemulsifying drug delivery system (PLC-SNEDDS) for enhanced oral bioavailability of cannabidiol.",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42487275/",
-    "publishedAt": ""
+    "id": "41a6fb819e931bdd",
+    "topic": "philosophy",
+    "title": "Capitalism",
+    "summary": "[New Entry by Chiara Cordelli on August 5, 2026.] The case can be made that a more contested concept than capitalism does not exist. There is no agreement upon how or whether to define it. Many would identify capitalism with an economic system where productive assets are privately owned, labor is hired for money wages through market contracts, commodities…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/capitalism/",
+    "publishedAt": "2026-08-05T10:09:58.000Z"
   },
   "digest": [
     {
@@ -62,7 +62,7 @@
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
-    "pubmed"
+    "pubmed",
+    "nasa-apod"
   ]
 }
