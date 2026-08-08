@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-08-08",
-  "generatedAt": "2026-08-07T17:05:37.107Z",
+  "date": "2026-08-09",
+  "generatedAt": "2026-08-08T16:50:22.839Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "41a6fb819e931bdd",
-    "topic": "philosophy",
-    "title": "Capitalism",
-    "summary": "[New Entry by Chiara Cordelli on August 5, 2026.] The case can be made that a more contested concept than capitalism does not exist. There is no agreement upon how or whether to define it. Many would identify capitalism with an economic system where productive assets are privately owned, labor is hired for money wages through market contracts, commodities…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/capitalism/",
-    "publishedAt": "2026-08-05T10:09:58.000Z"
+    "id": "1bb9ef4ea2a31223",
+    "topic": "cosmos",
+    "title": "A Messier Moment for Tempel 2",
+    "summary": "Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's catalog of things which are not comets. The well-known 18th…",
+    "sourceName": "NASA · Astronomy Picture of the Day",
+    "sourceUrl": "https://apod.nasa.gov/apod/ap260808.html",
+    "publishedAt": "2026-08-08T05:00:00.000Z"
   },
   "digest": [
     {
@@ -50,13 +50,13 @@
       "publishedAt": "2026-08-06T23:02:07.000Z"
     },
     {
-      "id": "502873571c49b1ab",
+      "id": "1bb9ef4ea2a31223",
       "topic": "cosmos",
-      "title": "Rubin's COSMOS field",
-      "summary": "There are more than half a million galaxies in the central panel of this image from the NSF-DOE Vera C. Rubin Observatory in Chile. This is the COSMOS field, a patch of sky several times larger than the full moon, first observed by Hubble. It has also been observed by Webb and other telescopes because it contains comparatively few bright stars from our own…",
+      "title": "A Messier Moment for Tempel 2",
+      "summary": "Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's catalog of things which are not comets. The well-known 18th…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260807.html",
-      "publishedAt": "2026-08-07T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260808.html",
+      "publishedAt": "2026-08-08T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
