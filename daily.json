@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-08-09",
-  "generatedAt": "2026-08-08T16:50:22.839Z",
+  "date": "2026-08-10",
+  "generatedAt": "2026-08-09T16:52:34.474Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "1bb9ef4ea2a31223",
-    "topic": "cosmos",
-    "title": "A Messier Moment for Tempel 2",
-    "summary": "Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's catalog of things which are not comets. The well-known 18th…",
-    "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap260808.html",
-    "publishedAt": "2026-08-08T05:00:00.000Z"
+    "id": "6f095f30744dc988",
+    "topic": "economy",
+    "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+    "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+    "sourceName": "World Bank Open Data",
+    "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+    "publishedAt": "2025-12-31T00:00:00.000Z"
   },
   "digest": [
     {
-      "id": "b9ed39b8df84cdc8",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
-      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,27 +41,28 @@
       "publishedAt": ""
     },
     {
-      "id": "d98507a48f3b8415",
+      "id": "b36182ee7c0ec341",
       "topic": "philosophy",
-      "title": "Wesley Salmon",
-      "summary": "[Revised entry by Maria Carla Galavotti on August 6, 2026. Changes to: Main text, Bibliography] Wesley Charles Salmon (1925 - 2001) was a central figure in twentieth century philosophy of science. Working in the tradition of Hume, Salmon developed a sophisticated version of empiricism combining a genuinely probabilistic approach with realism about…",
+      "title": "Anaxagoras",
+      "summary": "[Revised entry by John Sisko and Patricia Curd on August 9, 2026. Changes to: Main text, Bibliography] When [Anaxagoras] said that nous is present - in nature just as it is in animals - as the cause of the cosmos and of all its order, he appeared as a sober man among the random chatterers who preceded him. (Aristotle, Metaphysics I.3 984b15) Anaxagoras of…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/wesley-salmon/",
-      "publishedAt": "2026-08-06T23:02:07.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/anaxagoras/",
+      "publishedAt": "2026-08-09T08:19:48.000Z"
     },
     {
-      "id": "1bb9ef4ea2a31223",
+      "id": "b45466776066a2f7",
       "topic": "cosmos",
-      "title": "A Messier Moment for Tempel 2",
-      "summary": "Which of these is not a comet? You guessed it - the one on the right is a globular star cluster. The diffuse greenish coma of periodic comet 10P/Tempel 2 is at left in the frame. In fact the globular star cluster is Messier 30, also known as M30, or the 30th entry in astronomer Charles Messier's catalog of things which are not comets. The well-known 18th…",
+      "title": "Contemplating the Sun",
+      "summary": "Have you contemplated your home star recently? Featured here, a Sun partially eclipsed on the top left by the Moon is also seen eclipsed by earthlings contemplating the eclipse below. This spectacular menagerie of silhouettes was taken in 2012 from the Glen Canyon National Recreation Area near Page, Arizona, USA, where park rangers and astronomers expounded…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260808.html",
-      "publishedAt": "2026-08-08T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260809.html",
+      "publishedAt": "2026-08-09T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
+    "world-bank",
     "pubmed",
     "nasa-apod"
   ]

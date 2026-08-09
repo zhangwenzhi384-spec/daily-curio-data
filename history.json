@@ -1,5 +1,6 @@
 {
   "seen": [
+    "6f095f30744dc988",
     "1bb9ef4ea2a31223",
     "41a6fb819e931bdd",
     "310c610b601bb9ba",
@@ -9,6 +10,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-08-10",
+      "id": "6f095f30744dc988",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD"
+    },
     {
       "date": "2026-08-09",
       "id": "1bb9ef4ea2a31223",
