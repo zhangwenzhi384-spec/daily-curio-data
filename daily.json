@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-08-10",
-  "generatedAt": "2026-08-09T16:52:34.474Z",
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-10T17:07:00.538Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "6f095f30744dc988",
-    "topic": "economy",
-    "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-    "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
-    "sourceName": "World Bank Open Data",
-    "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
-    "publishedAt": "2025-12-31T00:00:00.000Z"
+    "id": "e74ad3d4adf386ce",
+    "topic": "technology",
+    "title": "‘Spooky’ Particles Transit DC Suburbs, a Step Toward a Quantum Network",
+    "summary": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/spooky-particles-transit-dc-suburbs-step-toward-quantum-network",
+    "publishedAt": "2026-08-05T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -32,12 +32,12 @@
       "publishedAt": "2026-08-06T12:00:00.000Z"
     },
     {
-      "id": "6656d806f0dd96c9",
+      "id": "ba8dc79a693e87ee",
       "topic": "biology",
-      "title": "CHAF1A identified as a candidate biomarker and potential therapeutic target in Burkitt lymphoma through integrated bioinformatics and histopathological analysis.",
+      "title": "A quasi-experimental crossover study on student engagement and performance in a gamified team-based learning module in physiology.",
       "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
       "sourceName": "NIH · PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42535765/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573602/",
       "publishedAt": ""
     },
     {
@@ -50,13 +50,13 @@
       "publishedAt": "2026-08-09T08:19:48.000Z"
     },
     {
-      "id": "b45466776066a2f7",
+      "id": "055870598e354827",
       "topic": "cosmos",
-      "title": "Contemplating the Sun",
-      "summary": "Have you contemplated your home star recently? Featured here, a Sun partially eclipsed on the top left by the Moon is also seen eclipsed by earthlings contemplating the eclipse below. This spectacular menagerie of silhouettes was taken in 2012 from the Glen Canyon National Recreation Area near Page, Arizona, USA, where park rangers and astronomers expounded…",
+      "title": "Three Galaxy Pairs",
+      "summary": "ch of these pairs of galaxies is different. The two galaxies at the top are likely not interacting, at least presently. However, the top galaxy with the blue stripe, NGC 4650A, is a polar ring galaxy and may be the result of a past galaxy collision. The two galaxies in the middle of the featured image appear like they could be interacting gravitationally --…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260809.html",
-      "publishedAt": "2026-08-09T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260810.html",
+      "publishedAt": "2026-08-10T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [

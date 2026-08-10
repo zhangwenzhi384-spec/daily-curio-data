@@ -1,5 +1,6 @@
 {
   "seen": [
+    "e74ad3d4adf386ce",
     "6f095f30744dc988",
     "1bb9ef4ea2a31223",
     "41a6fb819e931bdd",
@@ -10,6 +11,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-08-11",
+      "id": "e74ad3d4adf386ce",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/spooky-particles-transit-dc-suburbs-step-toward-quantum-network"
+    },
     {
       "date": "2026-08-10",
       "id": "6f095f30744dc988",
