@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-08-11",
-  "generatedAt": "2026-08-10T17:07:00.538Z",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-11T17:11:09.906Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "e74ad3d4adf386ce",
-    "topic": "technology",
-    "title": "‘Spooky’ Particles Transit DC Suburbs, a Step Toward a Quantum Network",
-    "summary": "The achievement shows that fragile quantum entanglement can survive even in tough, real-world conditions.",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/spooky-particles-transit-dc-suburbs-step-toward-quantum-network",
-    "publishedAt": "2026-08-05T12:00:00.000Z"
+    "id": "b6672515eb4526f5",
+    "topic": "biology",
+    "title": "Unveiling the skin-protective material basis of Coreopsis tinctoria Nutt.: Ethnopharmacology-Guided discovery of multi-target enzyme inhibitors using a ligand-fishing approach.",
+    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
+    "sourceName": "NIH · PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42508546/",
+    "publishedAt": ""
   },
   "digest": [
     {
@@ -32,12 +32,12 @@
       "publishedAt": "2026-08-06T12:00:00.000Z"
     },
     {
-      "id": "ba8dc79a693e87ee",
+      "id": "b6672515eb4526f5",
       "topic": "biology",
-      "title": "A quasi-experimental crossover study on student engagement and performance in a gamified team-based learning module in physiology.",
+      "title": "Unveiling the skin-protective material basis of Coreopsis tinctoria Nutt.: Ethnopharmacology-Guided discovery of multi-target enzyme inhibitors using a ligand-fishing approach.",
       "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
       "sourceName": "NIH · PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42573602/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42508546/",
       "publishedAt": ""
     },
     {
@@ -62,8 +62,6 @@
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
-    "pubmed",
-    "nasa-apod"
+    "pubmed"
   ]
 }
