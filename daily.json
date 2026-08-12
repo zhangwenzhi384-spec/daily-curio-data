@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-08-12",
-  "generatedAt": "2026-08-11T17:11:09.906Z",
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-12T17:10:13.655Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "b6672515eb4526f5",
-    "topic": "biology",
-    "title": "Unveiling the skin-protective material basis of Coreopsis tinctoria Nutt.: Ethnopharmacology-Guided discovery of multi-target enzyme inhibitors using a ligand-fishing approach.",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42508546/",
-    "publishedAt": ""
+    "id": "1d14e2a168351d36",
+    "topic": "philosophy",
+    "title": "George Berkeley",
+    "summary": "[Revised entry by Lisa Downing and David Hilbert on August 12, 2026. Changes to: Main text, Bibliography, activism.html, meaning.html, notes.html] George Berkeley, Bishop of Cloyne, was one of the great philosophers of the early modern period. He was a brilliant critic of his predecessors, particularly Descartes, Malebranche, and Locke. He was a talented…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/berkeley/",
+    "publishedAt": "2026-08-12T23:43:39.000Z"
   },
   "digest": [
     {
@@ -41,27 +41,28 @@
       "publishedAt": ""
     },
     {
-      "id": "b36182ee7c0ec341",
+      "id": "1d14e2a168351d36",
       "topic": "philosophy",
-      "title": "Anaxagoras",
-      "summary": "[Revised entry by John Sisko and Patricia Curd on August 9, 2026. Changes to: Main text, Bibliography] When [Anaxagoras] said that nous is present - in nature just as it is in animals - as the cause of the cosmos and of all its order, he appeared as a sober man among the random chatterers who preceded him. (Aristotle, Metaphysics I.3 984b15) Anaxagoras of…",
+      "title": "George Berkeley",
+      "summary": "[Revised entry by Lisa Downing and David Hilbert on August 12, 2026. Changes to: Main text, Bibliography, activism.html, meaning.html, notes.html] George Berkeley, Bishop of Cloyne, was one of the great philosophers of the early modern period. He was a brilliant critic of his predecessors, particularly Descartes, Malebranche, and Locke. He was a talented…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/anaxagoras/",
-      "publishedAt": "2026-08-09T08:19:48.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/berkeley/",
+      "publishedAt": "2026-08-12T23:43:39.000Z"
     },
     {
-      "id": "055870598e354827",
+      "id": "73c97eeec0c4b7d9",
       "topic": "cosmos",
-      "title": "Three Galaxy Pairs",
-      "summary": "ch of these pairs of galaxies is different. The two galaxies at the top are likely not interacting, at least presently. However, the top galaxy with the blue stripe, NGC 4650A, is a polar ring galaxy and may be the result of a past galaxy collision. The two galaxies in the middle of the featured image appear like they could be interacting gravitationally --…",
+      "title": "Perseids Over a little Planet",
+      "summary": "It looks like a view from the Little Prince's planet. The featured image is a throwback to the 2024 Perseid meteor shower, surrounded in this projection by the Bieszczady Mountains in Poland. Visible in the sky is the arch of the Milky Way, along with several nebulas in red and over a hundred meteors pointing to the radiant. The Perseids are easily visible…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260810.html",
-      "publishedAt": "2026-08-10T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260812.html",
+      "publishedAt": "2026-08-12T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
-    "pubmed"
+    "pubmed",
+    "nasa-apod"
   ]
 }

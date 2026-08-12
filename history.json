@@ -1,5 +1,6 @@
 {
   "seen": [
+    "1d14e2a168351d36",
     "b6672515eb4526f5",
     "e74ad3d4adf386ce",
     "6f095f30744dc988",
@@ -12,6 +13,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-08-13",
+      "id": "1d14e2a168351d36",
+      "sourceUrl": "https://plato.stanford.edu/entries/berkeley/"
+    },
     {
       "date": "2026-08-12",
       "id": "b6672515eb4526f5",
