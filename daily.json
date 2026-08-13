@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-08-13",
-  "generatedAt": "2026-08-12T17:10:13.655Z",
+  "date": "2026-08-14",
+  "generatedAt": "2026-08-13T17:10:24.646Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "1d14e2a168351d36",
-    "topic": "philosophy",
-    "title": "George Berkeley",
-    "summary": "[Revised entry by Lisa Downing and David Hilbert on August 12, 2026. Changes to: Main text, Bibliography, activism.html, meaning.html, notes.html] George Berkeley, Bishop of Cloyne, was one of the great philosophers of the early modern period. He was a brilliant critic of his predecessors, particularly Descartes, Malebranche, and Locke. He was a talented…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/berkeley/",
-    "publishedAt": "2026-08-12T23:43:39.000Z"
+    "id": "f541327bcdaaf1f8",
+    "topic": "cosmos",
+    "title": "Total Solar Eclipse Over Spain",
+    "summary": "On August 12th, 2026, the Moon totally eclipsed the Sun and cast its shadow across Siberia, Greenland, Iceland, Spain, and Portugal. Today’s image features two total solar eclipses viewed from Zaragoza, Spain, one over the Cathedral-Basilica of Our Lady of the Pillar and the other reflecting in the Ebro River. For a few moments, Spain saw its first major…",
+    "sourceName": "NASA · Astronomy Picture of the Day",
+    "sourceUrl": "https://apod.nasa.gov/apod/ap260813.html",
+    "publishedAt": "2026-08-13T05:00:00.000Z"
   },
   "digest": [
     {
-      "id": "37dbadf5bf452e08",
+      "id": "c4a14ef28eba6e28",
       "topic": "economy",
-      "title": "全球人口的最新记录：2025 年 82.15 亿人",
-      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
+      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
-      "publishedAt": "2025-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
+      "publishedAt": "2024-12-31T00:00:00.000Z"
     },
     {
-      "id": "fd1d3404324380f7",
+      "id": "12c1ae7bebfe8f1e",
       "topic": "technology",
-      "title": "NIST Researchers Correct Common Error Confounding Nanotech Measurements",
-      "summary": "The scientists offer a practical solution that relies on accounting for measurement errors before testing materials or developing products.",
+      "title": "NIST National Construction Safety Team Advisory Committee Meeting Scheduled for Sept. 23 and 24, 2026",
+      "summary": "Anyone wishing to attend the virtual meeting must register by 5 p.m. EDT on Wednesday, Sept. 16.",
       "sourceName": "NIST",
-      "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-correct-common-error-confounding-nanotech-measurements",
-      "publishedAt": "2026-08-06T12:00:00.000Z"
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-national-construction-safety-team-advisory-committee-meeting-scheduled",
+      "publishedAt": "2026-08-13T12:00:00.000Z"
     },
     {
       "id": "b6672515eb4526f5",
@@ -41,27 +41,28 @@
       "publishedAt": ""
     },
     {
-      "id": "1d14e2a168351d36",
+      "id": "598550a2294fdd53",
       "topic": "philosophy",
-      "title": "George Berkeley",
-      "summary": "[Revised entry by Lisa Downing and David Hilbert on August 12, 2026. Changes to: Main text, Bibliography, activism.html, meaning.html, notes.html] George Berkeley, Bishop of Cloyne, was one of the great philosophers of the early modern period. He was a brilliant critic of his predecessors, particularly Descartes, Malebranche, and Locke. He was a talented…",
+      "title": "Sense Data",
+      "summary": "[Revised entry by Gary Hatfield on August 13, 2026. Changes to: Main text, Bibliography, notes.html] \"Sense data\", or \"sense datum\" in the singular, is a technical term in philosophy that means \"what is given to sense\". Sense data putatively constitute what we, as perceiving subjects, are directly aware of in perceptual experience, prior to cognitive acts…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/berkeley/",
-      "publishedAt": "2026-08-12T23:43:39.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/sense-data/",
+      "publishedAt": "2026-08-14T01:00:14.000Z"
     },
     {
-      "id": "73c97eeec0c4b7d9",
+      "id": "f541327bcdaaf1f8",
       "topic": "cosmos",
-      "title": "Perseids Over a little Planet",
-      "summary": "It looks like a view from the Little Prince's planet. The featured image is a throwback to the 2024 Perseid meteor shower, surrounded in this projection by the Bieszczady Mountains in Poland. Visible in the sky is the arch of the Milky Way, along with several nebulas in red and over a hundred meteors pointing to the radiant. The Perseids are easily visible…",
+      "title": "Total Solar Eclipse Over Spain",
+      "summary": "On August 12th, 2026, the Moon totally eclipsed the Sun and cast its shadow across Siberia, Greenland, Iceland, Spain, and Portugal. Today’s image features two total solar eclipses viewed from Zaragoza, Spain, one over the Cathedral-Basilica of Our Lady of the Pillar and the other reflecting in the Ebro River. For a few moments, Spain saw its first major…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260812.html",
-      "publishedAt": "2026-08-12T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260813.html",
+      "publishedAt": "2026-08-13T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
+    "world-bank",
     "pubmed",
     "nasa-apod"
   ]
