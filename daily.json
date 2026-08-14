@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-08-14",
-  "generatedAt": "2026-08-13T17:10:24.646Z",
+  "date": "2026-08-15",
+  "generatedAt": "2026-08-14T17:09:25.534Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "f541327bcdaaf1f8",
+    "id": "6c77720731cf64f9",
     "topic": "cosmos",
-    "title": "Total Solar Eclipse Over Spain",
-    "summary": "On August 12th, 2026, the Moon totally eclipsed the Sun and cast its shadow across Siberia, Greenland, Iceland, Spain, and Portugal. Today’s image features two total solar eclipses viewed from Zaragoza, Spain, one over the Cathedral-Basilica of Our Lady of the Pillar and the other reflecting in the Ebro River. For a few moments, Spain saw its first major…",
+    "title": "Total Solar Eclipse from Greenland",
+    "summary": "On August 12, the Moon's shadow reached out to touch our fair planet. Beginning in the Arctic Ocean, it swept along a narrow track that led the dark lunar umbra across parts of Greenland, Iceland, the Atlantic, Portugal, and northern Spain. And for a moment, denizens of Earth who found themselves with clear skies under the shadow of the Moon could witness a…",
     "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap260813.html",
-    "publishedAt": "2026-08-13T05:00:00.000Z"
+    "sourceUrl": "https://apod.nasa.gov/apod/ap260814.html",
+    "publishedAt": "2026-08-14T05:00:00.000Z"
   },
   "digest": [
     {
@@ -50,19 +50,18 @@
       "publishedAt": "2026-08-14T01:00:14.000Z"
     },
     {
-      "id": "f541327bcdaaf1f8",
+      "id": "6c77720731cf64f9",
       "topic": "cosmos",
-      "title": "Total Solar Eclipse Over Spain",
-      "summary": "On August 12th, 2026, the Moon totally eclipsed the Sun and cast its shadow across Siberia, Greenland, Iceland, Spain, and Portugal. Today’s image features two total solar eclipses viewed from Zaragoza, Spain, one over the Cathedral-Basilica of Our Lady of the Pillar and the other reflecting in the Ebro River. For a few moments, Spain saw its first major…",
+      "title": "Total Solar Eclipse from Greenland",
+      "summary": "On August 12, the Moon's shadow reached out to touch our fair planet. Beginning in the Arctic Ocean, it swept along a narrow track that led the dark lunar umbra across parts of Greenland, Iceland, the Atlantic, Portugal, and northern Spain. And for a moment, denizens of Earth who found themselves with clear skies under the shadow of the Moon could witness a…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260813.html",
-      "publishedAt": "2026-08-13T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260814.html",
+      "publishedAt": "2026-08-14T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
     "pubmed",
     "nasa-apod"
   ]
