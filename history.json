@@ -1,5 +1,6 @@
 {
   "seen": [
+    "12c1ae7bebfe8f1e",
     "6c77720731cf64f9",
     "f541327bcdaaf1f8",
     "1d14e2a168351d36",
@@ -15,6 +16,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-08-16",
+      "id": "12c1ae7bebfe8f1e",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-national-construction-safety-team-advisory-committee-meeting-scheduled"
+    },
     {
       "date": "2026-08-15",
       "id": "6c77720731cf64f9",

@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-08-15",
-  "generatedAt": "2026-08-14T17:09:25.534Z",
+  "date": "2026-08-16",
+  "generatedAt": "2026-08-15T16:39:04.270Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "6c77720731cf64f9",
-    "topic": "cosmos",
-    "title": "Total Solar Eclipse from Greenland",
-    "summary": "On August 12, the Moon's shadow reached out to touch our fair planet. Beginning in the Arctic Ocean, it swept along a narrow track that led the dark lunar umbra across parts of Greenland, Iceland, the Atlantic, Portugal, and northern Spain. And for a moment, denizens of Earth who found themselves with clear skies under the shadow of the Moon could witness a…",
-    "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap260814.html",
-    "publishedAt": "2026-08-14T05:00:00.000Z"
+    "id": "12c1ae7bebfe8f1e",
+    "topic": "technology",
+    "title": "NIST National Construction Safety Team Advisory Committee Meeting Scheduled for Sept. 23 and 24, 2026",
+    "summary": "Anyone wishing to attend the virtual meeting must register by 5 p.m. EDT on Wednesday, Sept. 16.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-national-construction-safety-team-advisory-committee-meeting-scheduled",
+    "publishedAt": "2026-08-13T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
       "id": "12c1ae7bebfe8f1e",
@@ -50,18 +50,19 @@
       "publishedAt": "2026-08-14T01:00:14.000Z"
     },
     {
-      "id": "6c77720731cf64f9",
+      "id": "cfa16279e997b673",
       "topic": "cosmos",
-      "title": "Total Solar Eclipse from Greenland",
-      "summary": "On August 12, the Moon's shadow reached out to touch our fair planet. Beginning in the Arctic Ocean, it swept along a narrow track that led the dark lunar umbra across parts of Greenland, Iceland, the Atlantic, Portugal, and northern Spain. And for a moment, denizens of Earth who found themselves with clear skies under the shadow of the Moon could witness a…",
+      "title": "Bright Perseids from Sweden",
+      "summary": "Known for its bright and fast meteors, the annual Perseid Meteor Shower comes to planet Earth's skies from a radiant in the heroic constellation Perseus. The popular northern summer celestial spectacle is created as grains of dust cast off along the orbit of periodic comet 109P/Swift-Tuttle vaporize in Earth's dense atmosphere, tracing brief, but beautiful…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260814.html",
-      "publishedAt": "2026-08-14T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260815.html",
+      "publishedAt": "2026-08-15T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
+    "world-bank",
     "pubmed",
     "nasa-apod"
   ]
