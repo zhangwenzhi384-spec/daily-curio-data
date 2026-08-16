@@ -1,5 +1,6 @@
 {
   "seen": [
+    "298e999b24fe0340",
     "12c1ae7bebfe8f1e",
     "6c77720731cf64f9",
     "f541327bcdaaf1f8",
@@ -16,6 +17,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-08-17",
+      "id": "298e999b24fe0340",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497599/"
+    },
     {
       "date": "2026-08-16",
       "id": "12c1ae7bebfe8f1e",
