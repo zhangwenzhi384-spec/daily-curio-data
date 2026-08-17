@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-08-17",
-  "generatedAt": "2026-08-16T16:39:53.975Z",
+  "date": "2026-08-18",
+  "generatedAt": "2026-08-17T16:44:16.742Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "298e999b24fe0340",
-    "topic": "biology",
-    "title": "Integrating multi-omics and network pharmacology in a systems approach: a mechanism study of ginseng-derived panaxadiol saponins against immune-mediated aplastic anemia.",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497599/",
-    "publishedAt": ""
+    "id": "f9c5042abe7f4687",
+    "topic": "philosophy",
+    "title": "Respect",
+    "summary": "[Revised entry by Robin S. Dillon on August 17, 2026. Changes to: Main text, Bibliography] Respect has great importance in everyday life. As children we are taught (one hopes) to respect our parents and teachers, school rules and traffic laws, family and cultural traditions, other people's feelings and rights, our country's flag and leaders, the truth and…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/respect/",
+    "publishedAt": "2026-08-17T23:16:21.000Z"
   },
   "digest": [
     {
@@ -41,28 +41,27 @@
       "publishedAt": ""
     },
     {
-      "id": "598550a2294fdd53",
+      "id": "f9c5042abe7f4687",
       "topic": "philosophy",
-      "title": "Sense Data",
-      "summary": "[Revised entry by Gary Hatfield on August 13, 2026. Changes to: Main text, Bibliography, notes.html] \"Sense data\", or \"sense datum\" in the singular, is a technical term in philosophy that means \"what is given to sense\". Sense data putatively constitute what we, as perceiving subjects, are directly aware of in perceptual experience, prior to cognitive acts…",
+      "title": "Respect",
+      "summary": "[Revised entry by Robin S. Dillon on August 17, 2026. Changes to: Main text, Bibliography] Respect has great importance in everyday life. As children we are taught (one hopes) to respect our parents and teachers, school rules and traffic laws, family and cultural traditions, other people's feelings and rights, our country's flag and leaders, the truth and…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/sense-data/",
-      "publishedAt": "2026-08-14T01:00:14.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/respect/",
+      "publishedAt": "2026-08-17T23:16:21.000Z"
     },
     {
-      "id": "13e461da3c6323b1",
+      "id": "9e989a488989782e",
       "topic": "cosmos",
-      "title": "Milky Way over Yellowstone",
-      "summary": "The Milky Way was not created by an evaporating lake. The colorful pool of water, about 10 meters across, is known as Silex Spring and is located in Yellowstone National Park in Wyoming, USA. Illuminated artificially, the colors are caused by layers of bacteria that grow in the hot spring. Steam rises off the spring, heated by underground magma associated…",
+      "title": "A Golden Corona Eclipse",
+      "summary": "This total solar eclipse appeared not only poetically beautiful but scientifically interesting. Usually the solar corona appears white, and to some observers the corona of last week's total solar eclipse did appear this pearly color. But this time, totality observers in Spain saw a corona that appeared unusually golden. For one reason, from Spain, the…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260816.html",
-      "publishedAt": "2026-08-16T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260817.html",
+      "publishedAt": "2026-08-17T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
     "pubmed",
     "nasa-apod"
   ]

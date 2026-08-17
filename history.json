@@ -1,5 +1,6 @@
 {
   "seen": [
+    "f9c5042abe7f4687",
     "298e999b24fe0340",
     "12c1ae7bebfe8f1e",
     "6c77720731cf64f9",
@@ -17,6 +18,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-08-18",
+      "id": "f9c5042abe7f4687",
+      "sourceUrl": "https://plato.stanford.edu/entries/respect/"
+    },
     {
       "date": "2026-08-17",
       "id": "298e999b24fe0340",
