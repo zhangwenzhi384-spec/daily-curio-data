@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-08-18",
-  "generatedAt": "2026-08-17T16:44:16.742Z",
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-18T16:46:54.617Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "f9c5042abe7f4687",
-    "topic": "philosophy",
-    "title": "Respect",
-    "summary": "[Revised entry by Robin S. Dillon on August 17, 2026. Changes to: Main text, Bibliography] Respect has great importance in everyday life. As children we are taught (one hopes) to respect our parents and teachers, school rules and traffic laws, family and cultural traditions, other people's feelings and rights, our country's flag and leaders, the truth and…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/respect/",
-    "publishedAt": "2026-08-17T23:16:21.000Z"
+    "id": "50b357b7be97b7f6",
+    "topic": "cosmos",
+    "title": "Perseids from Perseus",
+    "summary": "This was a good year for the Perseids meteor shower. A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual. Where was the Moon? It was busy visiting the Sun. Near the Perseids peak, the Moon moved directly in front of the Sun and created a total solar eclipse visible from Greenland and Spain.…",
+    "sourceName": "NASA · Astronomy Picture of the Day",
+    "sourceUrl": "https://apod.nasa.gov/apod/ap260818.html",
+    "publishedAt": "2026-08-18T05:00:00.000Z"
   },
   "digest": [
     {
-      "id": "b9ed39b8df84cdc8",
+      "id": "c4a14ef28eba6e28",
       "topic": "economy",
-      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
-      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
+      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
-      "publishedAt": "2025-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
+      "publishedAt": "2024-12-31T00:00:00.000Z"
     },
     {
       "id": "12c1ae7bebfe8f1e",
@@ -50,18 +50,19 @@
       "publishedAt": "2026-08-17T23:16:21.000Z"
     },
     {
-      "id": "9e989a488989782e",
+      "id": "50b357b7be97b7f6",
       "topic": "cosmos",
-      "title": "A Golden Corona Eclipse",
-      "summary": "This total solar eclipse appeared not only poetically beautiful but scientifically interesting. Usually the solar corona appears white, and to some observers the corona of last week's total solar eclipse did appear this pearly color. But this time, totality observers in Spain saw a corona that appeared unusually golden. For one reason, from Spain, the…",
+      "title": "Perseids from Perseus",
+      "summary": "This was a good year for the Perseids meteor shower. A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual. Where was the Moon? It was busy visiting the Sun. Near the Perseids peak, the Moon moved directly in front of the Sun and created a total solar eclipse visible from Greenland and Spain.…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260817.html",
-      "publishedAt": "2026-08-17T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260818.html",
+      "publishedAt": "2026-08-18T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
+    "world-bank",
     "pubmed",
     "nasa-apod"
   ]
