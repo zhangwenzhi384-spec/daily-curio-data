@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-08-19",
-  "generatedAt": "2026-08-18T16:46:54.617Z",
+  "date": "2026-08-20",
+  "generatedAt": "2026-08-19T16:44:58.441Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "50b357b7be97b7f6",
-    "topic": "cosmos",
-    "title": "Perseids from Perseus",
-    "summary": "This was a good year for the Perseids meteor shower. A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual. Where was the Moon? It was busy visiting the Sun. Near the Perseids peak, the Moon moved directly in front of the Sun and created a total solar eclipse visible from Greenland and Spain.…",
-    "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap260818.html",
-    "publishedAt": "2026-08-18T05:00:00.000Z"
+    "id": "a3b7610198d57eab",
+    "topic": "philosophy",
+    "title": "José Ortega y Gasset",
+    "summary": "[Revised entry by Oliver Holmes on August 19, 2026. Changes to: Main text, Bibliography] Jose Ortega y Gasset (1883 - 1955) was a prolific and distinguished Spanish philosopher in the twentieth century. In the course of his career as philosopher, social theorist, essayist, cultural and aesthetic critic, educator, politician and editor of the influential…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/gasset/",
+    "publishedAt": "2026-08-20T00:10:15.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
       "id": "12c1ae7bebfe8f1e",
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "f9c5042abe7f4687",
+      "id": "a3b7610198d57eab",
       "topic": "philosophy",
-      "title": "Respect",
-      "summary": "[Revised entry by Robin S. Dillon on August 17, 2026. Changes to: Main text, Bibliography] Respect has great importance in everyday life. As children we are taught (one hopes) to respect our parents and teachers, school rules and traffic laws, family and cultural traditions, other people's feelings and rights, our country's flag and leaders, the truth and…",
+      "title": "José Ortega y Gasset",
+      "summary": "[Revised entry by Oliver Holmes on August 19, 2026. Changes to: Main text, Bibliography] Jose Ortega y Gasset (1883 - 1955) was a prolific and distinguished Spanish philosopher in the twentieth century. In the course of his career as philosopher, social theorist, essayist, cultural and aesthetic critic, educator, politician and editor of the influential…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/respect/",
-      "publishedAt": "2026-08-17T23:16:21.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/gasset/",
+      "publishedAt": "2026-08-20T00:10:15.000Z"
     },
     {
-      "id": "50b357b7be97b7f6",
+      "id": "1052ecc606924d77",
       "topic": "cosmos",
-      "title": "Perseids from Perseus",
-      "summary": "This was a good year for the Perseids meteor shower. A key reason was the Moon was absent from lighting up Earth's night sky so that more meteors were visible than usual. Where was the Moon? It was busy visiting the Sun. Near the Perseids peak, the Moon moved directly in front of the Sun and created a total solar eclipse visible from Greenland and Spain.…",
+      "title": "The Case of the Mysterious Maybe Meteor",
+      "summary": "Whatdunit? What disappeared while crossing a partially eclipsed Sun? Let’s present the evidence. The 24 frames-per-second video was taken in Spain (40°34'30.3\"N 1°12'28.8\"W) at 20:28 local time on August 12, 2026. The Perseids meteor shower was at its peak during this time. Is this a meteor? Meteor showers trace back to a region of the sky called a radiant…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260818.html",
-      "publishedAt": "2026-08-18T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260819.html",
+      "publishedAt": "2026-08-19T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [

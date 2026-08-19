@@ -1,5 +1,6 @@
 {
   "seen": [
+    "a3b7610198d57eab",
     "50b357b7be97b7f6",
     "f9c5042abe7f4687",
     "298e999b24fe0340",
@@ -19,6 +20,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-08-20",
+      "id": "a3b7610198d57eab",
+      "sourceUrl": "https://plato.stanford.edu/entries/gasset/"
+    },
     {
       "date": "2026-08-19",
       "id": "50b357b7be97b7f6",
