@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-08-20",
-  "generatedAt": "2026-08-19T16:44:58.441Z",
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-20T16:49:30.157Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "a3b7610198d57eab",
-    "topic": "philosophy",
-    "title": "José Ortega y Gasset",
-    "summary": "[Revised entry by Oliver Holmes on August 19, 2026. Changes to: Main text, Bibliography] Jose Ortega y Gasset (1883 - 1955) was a prolific and distinguished Spanish philosopher in the twentieth century. In the course of his career as philosopher, social theorist, essayist, cultural and aesthetic critic, educator, politician and editor of the influential…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/gasset/",
-    "publishedAt": "2026-08-20T00:10:15.000Z"
+    "id": "f2316a28a2dab70a",
+    "topic": "technology",
+    "title": "NIST Joins National Genesis Mission to Accelerate AI Innovation",
+    "summary": "NIST will execute two of its efforts through its Centers for AI in Manufacturing and Critical Infrastructure.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-joins-national-genesis-mission-accelerate-ai-innovation",
+    "publishedAt": "2026-08-04T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -50,13 +50,13 @@
       "publishedAt": "2026-08-20T00:10:15.000Z"
     },
     {
-      "id": "1052ecc606924d77",
+      "id": "200760328f144eb8",
       "topic": "cosmos",
-      "title": "The Case of the Mysterious Maybe Meteor",
-      "summary": "Whatdunit? What disappeared while crossing a partially eclipsed Sun? Let’s present the evidence. The 24 frames-per-second video was taken in Spain (40°34'30.3\"N 1°12'28.8\"W) at 20:28 local time on August 12, 2026. The Perseids meteor shower was at its peak during this time. Is this a meteor? Meteor showers trace back to a region of the sky called a radiant…",
+      "title": "The Elephant's Trunk in Cepheus",
+      "summary": "Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years long. The detailed telescopic view features the bright swept-back ridges and…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260819.html",
-      "publishedAt": "2026-08-19T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260820.html",
+      "publishedAt": "2026-08-20T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
