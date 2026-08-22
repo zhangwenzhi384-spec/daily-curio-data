@@ -1,5 +1,6 @@
 {
   "seen": [
+    "b4b7161baa39b51b",
     "387a6f19c22aeb48",
     "f2316a28a2dab70a",
     "a3b7610198d57eab",
@@ -22,6 +23,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-08-23",
+      "id": "b4b7161baa39b51b",
+      "sourceUrl": "https://plato.stanford.edu/entries/susman-margarete/"
+    },
     {
       "date": "2026-08-22",
       "id": "387a6f19c22aeb48",

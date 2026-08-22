@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-08-22",
-  "generatedAt": "2026-08-21T16:49:49.065Z",
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-22T16:38:26.323Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "387a6f19c22aeb48",
-    "topic": "biology",
-    "title": "Integrating spectrum-effect relationship, network pharmacology and multi-omics to decipher the mechanism of Cybister chinensis Motschulsky against chronic kidney disease.",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42492702/",
-    "publishedAt": ""
+    "id": "b4b7161baa39b51b",
+    "topic": "philosophy",
+    "title": "Margarete Susman",
+    "summary": "[Revised entry by Willi Goetschel on August 21, 2026. Changes to: Bibliography] Margarete Susman stands out as a distinct voice among the first generation of German women in philosophy in the 20th century. In her capacity as a philosopher, cultural critic, and essayist, she was a regular member of the circle of Georg Simmel, which included Martin Buber,…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/susman-margarete/",
+    "publishedAt": "2026-08-22T02:15:33.000Z"
   },
   "digest": [
     {
@@ -41,28 +41,27 @@
       "publishedAt": ""
     },
     {
-      "id": "22f54a515f9788f5",
+      "id": "b4b7161baa39b51b",
       "topic": "philosophy",
-      "title": "Samuel Freiherr von Pufendorf",
-      "summary": "[Revised entry by Michael Seidler on August 21, 2026. Changes to: Main text, Bibliography, First Publication] [Editor's Note: The following entry replaces and is based on the former entry titled Pufendorf's Moral and Political Philosophy.] Samuel Freiherr von Pufendorf (1632 - 1694) was almost as unknown...",
+      "title": "Margarete Susman",
+      "summary": "[Revised entry by Willi Goetschel on August 21, 2026. Changes to: Bibliography] Margarete Susman stands out as a distinct voice among the first generation of German women in philosophy in the 20th century. In her capacity as a philosopher, cultural critic, and essayist, she was a regular member of the circle of Georg Simmel, which included Martin Buber,…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/pufendorf/",
-      "publishedAt": "2026-08-22T00:29:22.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/susman-margarete/",
+      "publishedAt": "2026-08-22T02:15:33.000Z"
     },
     {
-      "id": "d550cc8106c99afc",
+      "id": "ac01a5f94fafaec7",
       "topic": "cosmos",
-      "title": "Time-Lapse of the Star S301 Orbiting the Black Hole in the Center of the Galaxy",
-      "summary": "What does it feel like to zoom around a spinning supermassive black hole? The featured video is an animation showing a time-lapse of 4 years of observations of the star S301 orbiting Sagittarius A*, the 4-million-solar-mass black hole in the center of our Galaxy. S301 was discovered in 2023 with the Very Large Telescope Interferometer of the European…",
+      "title": "Mostly Perseids",
+      "summary": "Recorded the night of August 12-13, images from four dedicated meteor-monitoring cameras at an astronomical observatory in Czechia were aligned and combined to create this all-night, all-sky view. On that night, the total count came to 1,706 meteors. And since that coincided with the peak activity of the 2026 Perseid Meteor Shower, most are perseids. Their…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260821.html",
-      "publishedAt": "2026-08-21T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260822.html",
+      "publishedAt": "2026-08-22T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
     "pubmed",
     "nasa-apod"
   ]
