@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-08-23",
-  "generatedAt": "2026-08-22T16:38:26.323Z",
+  "date": "2026-08-24",
+  "generatedAt": "2026-08-23T16:41:17.675Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "b4b7161baa39b51b",
-    "topic": "philosophy",
-    "title": "Margarete Susman",
-    "summary": "[Revised entry by Willi Goetschel on August 21, 2026. Changes to: Bibliography] Margarete Susman stands out as a distinct voice among the first generation of German women in philosophy in the 20th century. In her capacity as a philosopher, cultural critic, and essayist, she was a regular member of the circle of Georg Simmel, which included Martin Buber,…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/susman-margarete/",
-    "publishedAt": "2026-08-22T02:15:33.000Z"
+    "id": "6171861b29d38038",
+    "topic": "cosmos",
+    "title": "Cassini Approaches Saturn",
+    "summary": "What would it look like to approach the grand planet Saturn? One doesn't have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini's early images have been digitally tweaked, cropped, and compiled into the featured inspiring video…",
+    "sourceName": "NASA · Astronomy Picture of the Day",
+    "sourceUrl": "https://apod.nasa.gov/apod/ap260823.html",
+    "publishedAt": "2026-08-23T05:00:00.000Z"
   },
   "digest": [
     {
-      "id": "b9ed39b8df84cdc8",
+      "id": "c4a14ef28eba6e28",
       "topic": "economy",
-      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
-      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
+      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
-      "publishedAt": "2025-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
+      "publishedAt": "2024-12-31T00:00:00.000Z"
     },
     {
       "id": "12c1ae7bebfe8f1e",
@@ -50,18 +50,19 @@
       "publishedAt": "2026-08-22T02:15:33.000Z"
     },
     {
-      "id": "ac01a5f94fafaec7",
+      "id": "6171861b29d38038",
       "topic": "cosmos",
-      "title": "Mostly Perseids",
-      "summary": "Recorded the night of August 12-13, images from four dedicated meteor-monitoring cameras at an astronomical observatory in Czechia were aligned and combined to create this all-night, all-sky view. On that night, the total count came to 1,706 meteors. And since that coincided with the peak activity of the 2026 Perseid Meteor Shower, most are perseids. Their…",
+      "title": "Cassini Approaches Saturn",
+      "summary": "What would it look like to approach the grand planet Saturn? One doesn't have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini's early images have been digitally tweaked, cropped, and compiled into the featured inspiring video…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260822.html",
-      "publishedAt": "2026-08-22T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260823.html",
+      "publishedAt": "2026-08-23T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
+    "world-bank",
     "pubmed",
     "nasa-apod"
   ]

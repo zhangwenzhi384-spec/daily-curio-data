@@ -1,5 +1,6 @@
 {
   "seen": [
+    "6171861b29d38038",
     "b4b7161baa39b51b",
     "387a6f19c22aeb48",
     "f2316a28a2dab70a",
@@ -23,6 +24,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-08-24",
+      "id": "6171861b29d38038",
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260823.html"
+    },
     {
       "date": "2026-08-23",
       "id": "b4b7161baa39b51b",
