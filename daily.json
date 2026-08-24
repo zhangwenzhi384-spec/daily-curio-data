@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-08-24",
-  "generatedAt": "2026-08-23T16:41:17.675Z",
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-24T16:53:44.695Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "6171861b29d38038",
-    "topic": "cosmos",
-    "title": "Cassini Approaches Saturn",
-    "summary": "What would it look like to approach the grand planet Saturn? One doesn't have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini's early images have been digitally tweaked, cropped, and compiled into the featured inspiring video…",
-    "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap260823.html",
-    "publishedAt": "2026-08-23T05:00:00.000Z"
+    "id": "f9d75552efa5e00b",
+    "topic": "philosophy",
+    "title": "Animal Normativity",
+    "summary": "[New Entry by Simon Fitzpatrick on August 24, 2026.] This entry reviews three strands of philosophical discussion concerning normative phenomena in nonhuman animals (henceforth, \"animals\") - the extent to which animals may engage with and/or be cognizant of matters of value, such as morality, norms, and evaluative rules or standards. Historically,…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/animal-normativity/",
+    "publishedAt": "2026-08-25T00:33:54.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
       "id": "12c1ae7bebfe8f1e",
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "b4b7161baa39b51b",
+      "id": "f9d75552efa5e00b",
       "topic": "philosophy",
-      "title": "Margarete Susman",
-      "summary": "[Revised entry by Willi Goetschel on August 21, 2026. Changes to: Bibliography] Margarete Susman stands out as a distinct voice among the first generation of German women in philosophy in the 20th century. In her capacity as a philosopher, cultural critic, and essayist, she was a regular member of the circle of Georg Simmel, which included Martin Buber,…",
+      "title": "Animal Normativity",
+      "summary": "[New Entry by Simon Fitzpatrick on August 24, 2026.] This entry reviews three strands of philosophical discussion concerning normative phenomena in nonhuman animals (henceforth, \"animals\") - the extent to which animals may engage with and/or be cognizant of matters of value, such as morality, norms, and evaluative rules or standards. Historically,…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/susman-margarete/",
-      "publishedAt": "2026-08-22T02:15:33.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/animal-normativity/",
+      "publishedAt": "2026-08-25T00:33:54.000Z"
     },
     {
-      "id": "6171861b29d38038",
+      "id": "75bf675e1626989c",
       "topic": "cosmos",
-      "title": "Cassini Approaches Saturn",
-      "summary": "What would it look like to approach the grand planet Saturn? One doesn't have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini's early images have been digitally tweaked, cropped, and compiled into the featured inspiring video…",
+      "title": "Comet 220P in Outburst",
+      "summary": "Comet 220P is unexpectedly bright. Normally, periodic Comet 220P/McNaught is so dim that to see it requires a telescope. Two surprising outbursts this year, however, have made it about 20,000 times brighter than usual, so that it is now visible with binoculars and long-duration camera exposures. As expected, Comet 220P continues to orbit the Sun between…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260823.html",
-      "publishedAt": "2026-08-23T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260824.html",
+      "publishedAt": "2026-08-24T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [

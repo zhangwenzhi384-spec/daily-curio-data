@@ -1,5 +1,6 @@
 {
   "seen": [
+    "f9d75552efa5e00b",
     "6171861b29d38038",
     "b4b7161baa39b51b",
     "387a6f19c22aeb48",
@@ -24,6 +25,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-08-25",
+      "id": "f9d75552efa5e00b",
+      "sourceUrl": "https://plato.stanford.edu/entries/animal-normativity/"
+    },
     {
       "date": "2026-08-24",
       "id": "6171861b29d38038",
