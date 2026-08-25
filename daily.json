@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-08-25",
-  "generatedAt": "2026-08-24T16:53:44.695Z",
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-25T16:53:14.508Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "f9d75552efa5e00b",
-    "topic": "philosophy",
-    "title": "Animal Normativity",
-    "summary": "[New Entry by Simon Fitzpatrick on August 24, 2026.] This entry reviews three strands of philosophical discussion concerning normative phenomena in nonhuman animals (henceforth, \"animals\") - the extent to which animals may engage with and/or be cognizant of matters of value, such as morality, norms, and evaluative rules or standards. Historically,…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/animal-normativity/",
-    "publishedAt": "2026-08-25T00:33:54.000Z"
+    "id": "cc403ccaae5015b9",
+    "topic": "technology",
+    "title": "NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons",
+    "summary": "Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single photon counts. “Photons carry information,” said Kristen Parzuchowski",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-supersize-quantum-technology-help-detect-faint-photons",
+    "publishedAt": "2026-08-24T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
-      "id": "12c1ae7bebfe8f1e",
+      "id": "cc403ccaae5015b9",
       "topic": "technology",
-      "title": "NIST National Construction Safety Team Advisory Committee Meeting Scheduled for Sept. 23 and 24, 2026",
-      "summary": "Anyone wishing to attend the virtual meeting must register by 5 p.m. EDT on Wednesday, Sept. 16.",
+      "title": "NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons",
+      "summary": "Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single photon counts. “Photons carry information,” said Kristen Parzuchowski",
       "sourceName": "NIST",
-      "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-national-construction-safety-team-advisory-committee-meeting-scheduled",
-      "publishedAt": "2026-08-13T12:00:00.000Z"
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-supersize-quantum-technology-help-detect-faint-photons",
+      "publishedAt": "2026-08-24T12:00:00.000Z"
     },
     {
       "id": "b6672515eb4526f5",
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "f9d75552efa5e00b",
+      "id": "252b7d444eab9207",
       "topic": "philosophy",
-      "title": "Animal Normativity",
-      "summary": "[New Entry by Simon Fitzpatrick on August 24, 2026.] This entry reviews three strands of philosophical discussion concerning normative phenomena in nonhuman animals (henceforth, \"animals\") - the extent to which animals may engage with and/or be cognizant of matters of value, such as morality, norms, and evaluative rules or standards. Historically,…",
+      "title": "The Concept of the Aesthetic",
+      "summary": "[Revised entry by James Shelley on August 24, 2026. Changes to: Main text, Bibliography] Introduced into the Western European philosophical lexicon during the 18th century, the term 'aesthetic' has come to designate, among other things, a kind of object, a kind of judgment, a kind of attitude, a kind of experience, and a kind of value. For the most part,…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/animal-normativity/",
-      "publishedAt": "2026-08-25T00:33:54.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/aesthetic-concept/",
+      "publishedAt": "2026-08-25T01:21:00.000Z"
     },
     {
-      "id": "75bf675e1626989c",
+      "id": "76ee11eba8a3f696",
       "topic": "cosmos",
-      "title": "Comet 220P in Outburst",
-      "summary": "Comet 220P is unexpectedly bright. Normally, periodic Comet 220P/McNaught is so dim that to see it requires a telescope. Two surprising outbursts this year, however, have made it about 20,000 times brighter than usual, so that it is now visible with binoculars and long-duration camera exposures. As expected, Comet 220P continues to orbit the Sun between…",
+      "title": "Earth's Shadow Visualized with Lunar Eclipses",
+      "summary": "What’s creating this giant hole in space? This is not a black hole — it’s a shadow. It’s Earth’s shadow. Since at least the time of Aristotle, people have noted that Earth's dark shadow on the Moon during a partial lunar eclipse is circular -- although never a whole circle. Using modern digital technology, though, the images of multiple lunar eclipses can…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260824.html",
-      "publishedAt": "2026-08-24T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260825.html",
+      "publishedAt": "2026-08-25T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [

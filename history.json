@@ -1,5 +1,6 @@
 {
   "seen": [
+    "cc403ccaae5015b9",
     "f9d75552efa5e00b",
     "6171861b29d38038",
     "b4b7161baa39b51b",
@@ -25,6 +26,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-08-26",
+      "id": "cc403ccaae5015b9",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-supersize-quantum-technology-help-detect-faint-photons"
+    },
     {
       "date": "2026-08-25",
       "id": "f9d75552efa5e00b",
