@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-08-26",
-  "generatedAt": "2026-08-25T16:53:14.508Z",
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-26T16:57:46.644Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "cc403ccaae5015b9",
-    "topic": "technology",
-    "title": "NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons",
-    "summary": "Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single photon counts. “Photons carry information,” said Kristen Parzuchowski",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-supersize-quantum-technology-help-detect-faint-photons",
-    "publishedAt": "2026-08-24T12:00:00.000Z"
+    "id": "6716c6daf3b59b8a",
+    "topic": "biology",
+    "title": "Guizhi Wuling Decoction alleviates myocardial fibrosis by restoring mitochondrial homeostasis: Evidence from network pharmacology, molecular docking, and multi-omics integration.",
+    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
+    "sourceName": "NIH · PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462419/",
+    "publishedAt": ""
   },
   "digest": [
     {
-      "id": "37dbadf5bf452e08",
+      "id": "b9ed39b8df84cdc8",
       "topic": "economy",
-      "title": "全球人口的最新记录：2025 年 82.15 亿人",
-      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
+      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "252b7d444eab9207",
+      "id": "2d721ad6971ee808",
       "topic": "philosophy",
-      "title": "The Concept of the Aesthetic",
-      "summary": "[Revised entry by James Shelley on August 24, 2026. Changes to: Main text, Bibliography] Introduced into the Western European philosophical lexicon during the 18th century, the term 'aesthetic' has come to designate, among other things, a kind of object, a kind of judgment, a kind of attitude, a kind of experience, and a kind of value. For the most part,…",
+      "title": "Ratnakīrti",
+      "summary": "[New Entry by Patrick McAllister on August 26, 2026.] Ratnakīrti was a Buddhist scholar at Vikramaśīla monastery during the first half of the eleventh century CE. Today, he is best known for ten philosophical works on metaphysical, epistemological, logical and Buddhological topics. These ten works have survived in their original language, Sanskrit.…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/aesthetic-concept/",
-      "publishedAt": "2026-08-25T01:21:00.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/ratnakirti/",
+      "publishedAt": "2026-08-26T08:53:34.000Z"
     },
     {
-      "id": "76ee11eba8a3f696",
+      "id": "3ad74cb84cc618b9",
       "topic": "cosmos",
-      "title": "Earth's Shadow Visualized with Lunar Eclipses",
-      "summary": "What’s creating this giant hole in space? This is not a black hole — it’s a shadow. It’s Earth’s shadow. Since at least the time of Aristotle, people have noted that Earth's dark shadow on the Moon during a partial lunar eclipse is circular -- although never a whole circle. Using modern digital technology, though, the images of multiple lunar eclipses can…",
+      "title": "JWST Images The Lion's Head Nebula",
+      "summary": "Are we looking at the future of our Sun? The James Webb Space Telescope captured today’s composite image of the Lion’s Head Nebula (NGC 2392) with its NIRCam and MIRI instruments. The Lion’s Head Nebula is the remnant of a Sun-like star. This star was unable to sustain the nuclear fusion in its core needed to remain stable. It began to shed layers of gas…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260825.html",
-      "publishedAt": "2026-08-25T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260826.html",
+      "publishedAt": "2026-08-26T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
