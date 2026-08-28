@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-08-27",
-  "generatedAt": "2026-08-26T16:57:46.644Z",
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T00:54:17.461Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "6716c6daf3b59b8a",
-    "topic": "biology",
-    "title": "Guizhi Wuling Decoction alleviates myocardial fibrosis by restoring mitochondrial homeostasis: Evidence from network pharmacology, molecular docking, and multi-omics integration.",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42462419/",
-    "publishedAt": ""
+    "id": "2d721ad6971ee808",
+    "topic": "philosophy",
+    "title": "Ratnakīrti",
+    "summary": "[New Entry by Patrick McAllister on August 26, 2026.] Ratnakīrti was a Buddhist scholar at Vikramaśīla monastery during the first half of the eleventh century CE. Today, he is best known for ten philosophical works on metaphysical, epistemological, logical and Buddhological topics. These ten works have survived in their original language, Sanskrit.…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/ratnakirti/",
+    "publishedAt": "2026-08-26T08:53:34.000Z"
   },
   "digest": [
     {
@@ -32,12 +32,12 @@
       "publishedAt": "2026-08-24T12:00:00.000Z"
     },
     {
-      "id": "b6672515eb4526f5",
+      "id": "298e999b24fe0340",
       "topic": "biology",
-      "title": "Unveiling the skin-protective material basis of Coreopsis tinctoria Nutt.: Ethnopharmacology-Guided discovery of multi-target enzyme inhibitors using a ligand-fishing approach.",
+      "title": "Integrating multi-omics and network pharmacology in a systems approach: a mechanism study of ginseng-derived panaxadiol saponins against immune-mediated aplastic anemia.",
       "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
       "sourceName": "NIH · PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42508546/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42497599/",
       "publishedAt": ""
     },
     {
@@ -62,8 +62,6 @@
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
-    "pubmed",
-    "nasa-apod"
+    "pubmed"
   ]
 }

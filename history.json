@@ -1,5 +1,6 @@
 {
   "seen": [
+    "2d721ad6971ee808",
     "6716c6daf3b59b8a",
     "cc403ccaae5015b9",
     "f9d75552efa5e00b",
@@ -27,6 +28,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-08-28",
+      "id": "2d721ad6971ee808",
+      "sourceUrl": "https://plato.stanford.edu/entries/ratnakirti/"
+    },
     {
       "date": "2026-08-27",
       "id": "6716c6daf3b59b8a",
