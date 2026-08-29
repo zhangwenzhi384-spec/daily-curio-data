@@ -1,5 +1,6 @@
 {
   "seen": [
+    "caebf5dff960a8c6",
     "424899290cc642f0",
     "2d721ad6971ee808",
     "6716c6daf3b59b8a",
@@ -29,6 +30,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-08-30",
+      "id": "caebf5dff960a8c6",
+      "sourceUrl": "https://plato.stanford.edu/entries/theories-biological-development/"
+    },
     {
       "date": "2026-08-29",
       "id": "424899290cc642f0",

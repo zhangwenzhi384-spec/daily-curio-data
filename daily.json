@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-08-29",
-  "generatedAt": "2026-08-29T00:33:01.353Z",
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-29T19:23:36.370Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "424899290cc642f0",
-    "topic": "cosmos",
-    "title": "The Sky Turns Above Paranal",
-    "summary": "At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can be revealed in the apparent rotation of the night sky by photographing star…",
-    "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap260828.html",
-    "publishedAt": "2026-08-28T05:00:00.000Z"
+    "id": "caebf5dff960a8c6",
+    "topic": "philosophy",
+    "title": "Theories of Biological Development",
+    "summary": "[Revised entry by Melinda Bonnie Fagan and Jane Maienschein on August 29, 2026. Changes to: Main text, Bibliography] Development is a central biological process, and ideas about its nature have been influential in biological thought. This entry surveys the history of these ideas through the lens of \"epigenesis vs. preformation\". Epigenesis is, roughly, the…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/theories-biological-development/",
+    "publishedAt": "2026-08-30T00:23:19.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
       "id": "cc403ccaae5015b9",
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "3ef336a4fafb4381",
+      "id": "caebf5dff960a8c6",
       "topic": "philosophy",
-      "title": "Process Theism",
-      "summary": "[Revised entry by Donald Viney on August 28, 2026. Changes to: Main text, Bibliography] Process theism typically refers to a family of theological ideas originating in, inspired by, or in agreement with the metaphysical orientation of the English philosopher-mathematician Alfred North Whitehead (1861 - 1947) and the American philosopher-ornithologist…",
+      "title": "Theories of Biological Development",
+      "summary": "[Revised entry by Melinda Bonnie Fagan and Jane Maienschein on August 29, 2026. Changes to: Main text, Bibliography] Development is a central biological process, and ideas about its nature have been influential in biological thought. This entry surveys the history of these ideas through the lens of \"epigenesis vs. preformation\". Epigenesis is, roughly, the…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/process-theism/",
-      "publishedAt": "2026-08-29T01:38:52.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/theories-biological-development/",
+      "publishedAt": "2026-08-30T00:23:19.000Z"
     },
     {
-      "id": "424899290cc642f0",
+      "id": "6a025acfc0fc19e8",
       "topic": "cosmos",
-      "title": "The Sky Turns Above Paranal",
-      "summary": "At the latitude of ESO's Paranal Observatory in Chile, about 25 degrees south, Earth's rotation moves the planet's surface eastward at over 1,500 kilometers per hour. And while that's faster than the speed of sound at sea level, the motion is imperceptible. Still, that motion can be revealed in the apparent rotation of the night sky by photographing star…",
+      "title": "Eclipse Pair",
+      "summary": "clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and full moon during a single eclipse season close enough to…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260828.html",
-      "publishedAt": "2026-08-28T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260829.html",
+      "publishedAt": "2026-08-29T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
