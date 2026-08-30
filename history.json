@@ -1,5 +1,6 @@
 {
   "seen": [
+    "99243cf6e34631f4",
     "caebf5dff960a8c6",
     "424899290cc642f0",
     "2d721ad6971ee808",
@@ -30,6 +31,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-08-31",
+      "id": "99243cf6e34631f4",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/07/nist-announces-funding-opportunity-14-mep-centers-advance-small-and-medium"
+    },
     {
       "date": "2026-08-30",
       "id": "caebf5dff960a8c6",

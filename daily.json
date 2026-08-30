@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-08-30",
-  "generatedAt": "2026-08-29T19:23:36.370Z",
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-30T19:18:06.591Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "caebf5dff960a8c6",
-    "topic": "philosophy",
-    "title": "Theories of Biological Development",
-    "summary": "[Revised entry by Melinda Bonnie Fagan and Jane Maienschein on August 29, 2026. Changes to: Main text, Bibliography] Development is a central biological process, and ideas about its nature have been influential in biological thought. This entry surveys the history of these ideas through the lens of \"epigenesis vs. preformation\". Epigenesis is, roughly, the…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/theories-biological-development/",
-    "publishedAt": "2026-08-30T00:23:19.000Z"
+    "id": "99243cf6e34631f4",
+    "topic": "technology",
+    "title": "NIST Announces Funding Opportunity for 14 MEP Centers to Advance Small and Medium-Sized U.S. Manufacturers",
+    "summary": "NIST MEP will host an informational webinar on Tuesday, July 28, 2026, at 1 p.m. ET to provide general information about this opportunity and guidance on preparing applications.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/07/nist-announces-funding-opportunity-14-mep-centers-advance-small-and-medium",
+    "publishedAt": "2026-07-22T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -50,13 +50,13 @@
       "publishedAt": "2026-08-30T00:23:19.000Z"
     },
     {
-      "id": "6a025acfc0fc19e8",
+      "id": "a8a7e0f5fc7a7945",
       "topic": "cosmos",
-      "title": "Eclipse Pair",
-      "summary": "clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the new and full phases of the Moon, separated by just over 14 days, create a solar and a lunar eclipse. But only rarely is the alignment at both new moon and full moon during a single eclipse season close enough to…",
+      "title": "M74: A Grand Design Spiral",
+      "summary": "If not the most grand, then this spiral galaxy is at least one of the most photogenic. An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view. Classified as an Sc galaxy, the grand design of M74's graceful spiral arms are traced by bright blue star clusters and dark…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260829.html",
-      "publishedAt": "2026-08-29T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260830.html",
+      "publishedAt": "2026-08-30T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
