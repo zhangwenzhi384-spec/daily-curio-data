@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-08-31",
-  "generatedAt": "2026-08-30T19:18:06.591Z",
+  "date": "2026-09-01",
+  "generatedAt": "2026-08-31T21:27:34.360Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "99243cf6e34631f4",
-    "topic": "technology",
-    "title": "NIST Announces Funding Opportunity for 14 MEP Centers to Advance Small and Medium-Sized U.S. Manufacturers",
-    "summary": "NIST MEP will host an informational webinar on Tuesday, July 28, 2026, at 1 p.m. ET to provide general information about this opportunity and guidance on preparing applications.",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/07/nist-announces-funding-opportunity-14-mep-centers-advance-small-and-medium",
-    "publishedAt": "2026-07-22T12:00:00.000Z"
+    "id": "10197fa6268dd1db",
+    "topic": "biology",
+    "title": "Multi-omics reveals the mechanism of Rehmannia glutinosa Libosch. Processed with Amomum villosum Lour. in treating blood deficiency syndrome.",
+    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
+    "sourceName": "NIH · PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42437650/",
+    "publishedAt": ""
   },
   "digest": [
     {
-      "id": "37dbadf5bf452e08",
+      "id": "b9ed39b8df84cdc8",
       "topic": "economy",
-      "title": "全球人口的最新记录：2025 年 82.15 亿人",
-      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
+      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "caebf5dff960a8c6",
+      "id": "fc966d4dd8d74527",
       "topic": "philosophy",
-      "title": "Theories of Biological Development",
-      "summary": "[Revised entry by Melinda Bonnie Fagan and Jane Maienschein on August 29, 2026. Changes to: Main text, Bibliography] Development is a central biological process, and ideas about its nature have been influential in biological thought. This entry surveys the history of these ideas through the lens of \"epigenesis vs. preformation\". Epigenesis is, roughly, the…",
+      "title": "Isaac Israeli",
+      "summary": "[Revised entry by Leonard Levin, R. David Walker, and Shalom Sadik on August 31, 2026. Changes to: Main text, Bibliography] Isaac ben Solomon Israeli (ca. 855 - 955 CE), not to be confused with Isaac Israeli the Younger (an astronomer of Spain, d. 1322 CE), served as physician to the founder of the Fatimid Dynasty in North Africa and wrote several…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/theories-biological-development/",
-      "publishedAt": "2026-08-30T00:23:19.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/israeli/",
+      "publishedAt": "2026-09-01T01:59:27.000Z"
     },
     {
-      "id": "a8a7e0f5fc7a7945",
+      "id": "c21e6fa97b45cbbe",
       "topic": "cosmos",
-      "title": "M74: A Grand Design Spiral",
-      "summary": "If not the most grand, then this spiral galaxy is at least one of the most photogenic. An island universe of about 100 billion stars, 32 million light-years away toward the constellation Pisces, M74 presents a gorgeous face-on view. Classified as an Sc galaxy, the grand design of M74's graceful spiral arms are traced by bright blue star clusters and dark…",
+      "title": "Launch of the Roman Space Telescope",
+      "summary": "A new telescope has been launched into space to study the universe. The Nancy Grace Roman Space Telescope (RST) has the same size main mirror as the Hubble Space Telescope (HST) but sees 100 times more sky during each snapshot. This is possible because when compared to HST, RST's main mirror is more curved, its secondary mirror is closer, and its main…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260830.html",
-      "publishedAt": "2026-08-30T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260831.html",
+      "publishedAt": "2026-08-31T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
