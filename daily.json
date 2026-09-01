@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-09-01",
-  "generatedAt": "2026-08-31T21:27:34.360Z",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-01T19:22:52.089Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "10197fa6268dd1db",
-    "topic": "biology",
-    "title": "Multi-omics reveals the mechanism of Rehmannia glutinosa Libosch. Processed with Amomum villosum Lour. in treating blood deficiency syndrome.",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42437650/",
-    "publishedAt": ""
+    "id": "713c810437bae68d",
+    "topic": "philosophy",
+    "title": "Locke on Real Essence",
+    "summary": "[Revised entry by Jan-Erik Jones on September 1, 2026. Changes to: Bibliography] The technical term 'real essence' is heavily utilized by the English philosopher John Locke (1632 - 1704) in his An Essay Concerning Human Understanding[1] (hereafter \"Essay\") that was first published in London, in December of 1689. In order to understand a great many of…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/real-essence/",
+    "publishedAt": "2026-09-02T00:40:39.000Z"
   },
   "digest": [
     {
@@ -41,28 +41,27 @@
       "publishedAt": ""
     },
     {
-      "id": "fc966d4dd8d74527",
+      "id": "713c810437bae68d",
       "topic": "philosophy",
-      "title": "Isaac Israeli",
-      "summary": "[Revised entry by Leonard Levin, R. David Walker, and Shalom Sadik on August 31, 2026. Changes to: Main text, Bibliography] Isaac ben Solomon Israeli (ca. 855 - 955 CE), not to be confused with Isaac Israeli the Younger (an astronomer of Spain, d. 1322 CE), served as physician to the founder of the Fatimid Dynasty in North Africa and wrote several…",
+      "title": "Locke on Real Essence",
+      "summary": "[Revised entry by Jan-Erik Jones on September 1, 2026. Changes to: Bibliography] The technical term 'real essence' is heavily utilized by the English philosopher John Locke (1632 - 1704) in his An Essay Concerning Human Understanding[1] (hereafter \"Essay\") that was first published in London, in December of 1689. In order to understand a great many of…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/israeli/",
-      "publishedAt": "2026-09-01T01:59:27.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/real-essence/",
+      "publishedAt": "2026-09-02T00:40:39.000Z"
     },
     {
-      "id": "c21e6fa97b45cbbe",
+      "id": "c17ec63ffe9e19aa",
       "topic": "cosmos",
-      "title": "Launch of the Roman Space Telescope",
-      "summary": "A new telescope has been launched into space to study the universe. The Nancy Grace Roman Space Telescope (RST) has the same size main mirror as the Hubble Space Telescope (HST) but sees 100 times more sky during each snapshot. This is possible because when compared to HST, RST's main mirror is more curved, its secondary mirror is closer, and its main…",
+      "title": "A Plane Lunar Eclipse",
+      "summary": "Did you need to be on the right side of this airplane to see this eclipse? No. Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any special equipment to see one -- just your unaided eyes. Lunar eclipses are also some…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260831.html",
-      "publishedAt": "2026-08-31T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260901.html",
+      "publishedAt": "2026-09-01T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
     "pubmed",
     "nasa-apod"
   ]
