@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-09-02",
-  "generatedAt": "2026-09-01T19:22:52.089Z",
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-02T19:22:37.496Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "713c810437bae68d",
-    "topic": "philosophy",
-    "title": "Locke on Real Essence",
-    "summary": "[Revised entry by Jan-Erik Jones on September 1, 2026. Changes to: Bibliography] The technical term 'real essence' is heavily utilized by the English philosopher John Locke (1632 - 1704) in his An Essay Concerning Human Understanding[1] (hereafter \"Essay\") that was first published in London, in December of 1689. In order to understand a great many of…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/real-essence/",
-    "publishedAt": "2026-09-02T00:40:39.000Z"
+    "id": "66bd6700b653f5eb",
+    "topic": "cosmos",
+    "title": "Solar Eclipses and Culture",
+    "summary": "Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable your whole life. One day, you witness the sky transform as it does in today’s spliced image spanning two hours of the August 12, 2026 solar eclipse. The Sun disappears, leaving behind a bright, empty ring. What would you think had happened? Humans have interpreted…",
+    "sourceName": "NASA · Astronomy Picture of the Day",
+    "sourceUrl": "https://apod.nasa.gov/apod/ap260902.html",
+    "publishedAt": "2026-09-02T05:00:00.000Z"
   },
   "digest": [
     {
-      "id": "b9ed39b8df84cdc8",
+      "id": "c4a14ef28eba6e28",
       "topic": "economy",
-      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
-      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
+      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
-      "publishedAt": "2025-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
+      "publishedAt": "2024-12-31T00:00:00.000Z"
     },
     {
       "id": "cc403ccaae5015b9",
@@ -50,18 +50,19 @@
       "publishedAt": "2026-09-02T00:40:39.000Z"
     },
     {
-      "id": "c17ec63ffe9e19aa",
+      "id": "66bd6700b653f5eb",
       "topic": "cosmos",
-      "title": "A Plane Lunar Eclipse",
-      "summary": "Did you need to be on the right side of this airplane to see this eclipse? No. Lunar eclipses are routinely seen from the half of the Earth facing the Moon when the eclipse occurs, making them some of the most commonly witnessed astronomical events. You don't even need any special equipment to see one -- just your unaided eyes. Lunar eclipses are also some…",
+      "title": "Solar Eclipses and Culture",
+      "summary": "Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable your whole life. One day, you witness the sky transform as it does in today’s spliced image spanning two hours of the August 12, 2026 solar eclipse. The Sun disappears, leaving behind a bright, empty ring. What would you think had happened? Humans have interpreted…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260901.html",
-      "publishedAt": "2026-09-01T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260902.html",
+      "publishedAt": "2026-09-02T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
+    "world-bank",
     "pubmed",
     "nasa-apod"
   ]
