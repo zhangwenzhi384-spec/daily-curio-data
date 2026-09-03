@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-09-03",
-  "generatedAt": "2026-09-02T19:22:37.496Z",
+  "date": "2026-09-04",
+  "generatedAt": "2026-09-03T19:17:02.529Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "66bd6700b653f5eb",
-    "topic": "cosmos",
-    "title": "Solar Eclipses and Culture",
-    "summary": "Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable your whole life. One day, you witness the sky transform as it does in today’s spliced image spanning two hours of the August 12, 2026 solar eclipse. The Sun disappears, leaving behind a bright, empty ring. What would you think had happened? Humans have interpreted…",
-    "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap260902.html",
-    "publishedAt": "2026-09-02T05:00:00.000Z"
+    "id": "ef3928c6abc39f22",
+    "topic": "philosophy",
+    "title": "Chauncey Wright",
+    "summary": "[Revised entry by Jean De Groot on September 3, 2026. Changes to: Main text, Bibliography, notes.html] Chauncey Wright was an American philosopher of science of the second half of the nineteenth century and an early proponent of Darwinism in the United States. Sometimes cited as a founder of pragmatism, he is more appropriately remembered as an original…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/wright/",
+    "publishedAt": "2026-09-04T01:24:20.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
       "id": "cc403ccaae5015b9",
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "713c810437bae68d",
+      "id": "ef3928c6abc39f22",
       "topic": "philosophy",
-      "title": "Locke on Real Essence",
-      "summary": "[Revised entry by Jan-Erik Jones on September 1, 2026. Changes to: Bibliography] The technical term 'real essence' is heavily utilized by the English philosopher John Locke (1632 - 1704) in his An Essay Concerning Human Understanding[1] (hereafter \"Essay\") that was first published in London, in December of 1689. In order to understand a great many of…",
+      "title": "Chauncey Wright",
+      "summary": "[Revised entry by Jean De Groot on September 3, 2026. Changes to: Main text, Bibliography, notes.html] Chauncey Wright was an American philosopher of science of the second half of the nineteenth century and an early proponent of Darwinism in the United States. Sometimes cited as a founder of pragmatism, he is more appropriately remembered as an original…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/real-essence/",
-      "publishedAt": "2026-09-02T00:40:39.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/wright/",
+      "publishedAt": "2026-09-04T01:24:20.000Z"
     },
     {
-      "id": "66bd6700b653f5eb",
+      "id": "e6334e172d8461d0",
       "topic": "cosmos",
-      "title": "Solar Eclipses and Culture",
-      "summary": "Pretend you have never heard of a solar eclipse. The Sun’s behavior has been predictable your whole life. One day, you witness the sky transform as it does in today’s spliced image spanning two hours of the August 12, 2026 solar eclipse. The Sun disappears, leaving behind a bright, empty ring. What would you think had happened? Humans have interpreted…",
+      "title": "The Eclipse and the Stork",
+      "summary": "How do animals react to a total solar eclipse? The featured image shows a stork roosting on her nest in Poland at a partial phase of the recent total solar eclipse. If you are lucky enough to experience a total eclipse somewhere quiet and close to nature, you may be able to notice unusual daytime animal behaviors. During totality, you may hear nighttime…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260902.html",
-      "publishedAt": "2026-09-02T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260903.html",
+      "publishedAt": "2026-09-03T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [

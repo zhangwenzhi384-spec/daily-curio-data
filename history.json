@@ -1,5 +1,6 @@
 {
   "seen": [
+    "ef3928c6abc39f22",
     "66bd6700b653f5eb",
     "713c810437bae68d",
     "10197fa6268dd1db",
@@ -34,6 +35,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-04",
+      "id": "ef3928c6abc39f22",
+      "sourceUrl": "https://plato.stanford.edu/entries/wright/"
+    },
     {
       "date": "2026-09-03",
       "id": "66bd6700b653f5eb",
