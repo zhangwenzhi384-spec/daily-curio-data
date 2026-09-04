@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-09-04",
-  "generatedAt": "2026-09-03T19:17:02.529Z",
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-04T18:58:40.222Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "ef3928c6abc39f22",
-    "topic": "philosophy",
-    "title": "Chauncey Wright",
-    "summary": "[Revised entry by Jean De Groot on September 3, 2026. Changes to: Main text, Bibliography, notes.html] Chauncey Wright was an American philosopher of science of the second half of the nineteenth century and an early proponent of Darwinism in the United States. Sometimes cited as a founder of pragmatism, he is more appropriately remembered as an original…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/wright/",
-    "publishedAt": "2026-09-04T01:24:20.000Z"
+    "id": "6d2d4dcc11b9dc26",
+    "topic": "technology",
+    "title": "NIST Receives New Patent for Microbe-Killing Water Heater",
+    "summary": "Warm water in household pipes can be a breeding ground for harmful bacteria.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater",
+    "publishedAt": "2026-07-14T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "ef3928c6abc39f22",
+      "id": "6fe8e9a50702aa5e",
       "topic": "philosophy",
-      "title": "Chauncey Wright",
-      "summary": "[Revised entry by Jean De Groot on September 3, 2026. Changes to: Main text, Bibliography, notes.html] Chauncey Wright was an American philosopher of science of the second half of the nineteenth century and an early proponent of Darwinism in the United States. Sometimes cited as a founder of pragmatism, he is more appropriately remembered as an original…",
+      "title": "Mysticism",
+      "summary": "[Revised entry by Richard Jones and Jerome Gellman on September 4, 2026. Changes to: Main text, Bibliography] Under the influence of William James' Varieties of Religious Experience, philosophical interest in mysticism has primarily focused on distinctive, allegedly knowledge-giving \"mystical experiences.\" Philosophers have dealt with such topics as the…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/wright/",
-      "publishedAt": "2026-09-04T01:24:20.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/mysticism/",
+      "publishedAt": "2026-09-05T01:22:10.000Z"
     },
     {
-      "id": "e6334e172d8461d0",
+      "id": "7f3364b43ad39741",
       "topic": "cosmos",
-      "title": "The Eclipse and the Stork",
-      "summary": "How do animals react to a total solar eclipse? The featured image shows a stork roosting on her nest in Poland at a partial phase of the recent total solar eclipse. If you are lucky enough to experience a total eclipse somewhere quiet and close to nature, you may be able to notice unusual daytime animal behaviors. During totality, you may hear nighttime…",
+      "title": "Nā ʻUhane Māhoe Huki Pū i ke Ola",
+      "summary": "Nā ʻUhane Māhoe Huki Pū i ke Ola, is the Hawaiian name given to this image of a pair of spiral galaxies locked in a mutual gravitational embrace. Some 200 million light-years distant toward the high flying constellation Pegasus their spectacular, galactic scale merger is captured in sharp detail in the image from the 8.1 meter Gemini North telescope on…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260903.html",
-      "publishedAt": "2026-09-03T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260904.html",
+      "publishedAt": "2026-09-04T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [

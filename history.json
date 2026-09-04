@@ -1,5 +1,6 @@
 {
   "seen": [
+    "6d2d4dcc11b9dc26",
     "ef3928c6abc39f22",
     "66bd6700b653f5eb",
     "713c810437bae68d",
@@ -35,6 +36,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-05",
+      "id": "6d2d4dcc11b9dc26",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/07/nist-receives-new-patent-microbe-killing-water-heater"
+    },
     {
       "date": "2026-09-04",
       "id": "ef3928c6abc39f22",
