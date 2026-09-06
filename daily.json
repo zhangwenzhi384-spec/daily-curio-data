@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-09-06",
-  "generatedAt": "2026-09-05T18:15:48.228Z",
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-06T18:15:49.450Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "bcb3c0259d66f74c",
-    "topic": "biology",
-    "title": "Cable bacteria-mediated electromicrobial interactions: Mechanisms, ecological effects, and biotechnological prospects.",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594807/",
-    "publishedAt": ""
+    "id": "6fe8e9a50702aa5e",
+    "topic": "philosophy",
+    "title": "Mysticism",
+    "summary": "[Revised entry by Richard Jones and Jerome Gellman on September 4, 2026. Changes to: Main text, Bibliography] Under the influence of William James' Varieties of Religious Experience, philosophical interest in mysticism has primarily focused on distinctive, allegedly knowledge-giving \"mystical experiences.\" Philosophers have dealt with such topics as the…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/mysticism/",
+    "publishedAt": "2026-09-05T01:22:10.000Z"
   },
   "digest": [
     {
@@ -50,19 +50,18 @@
       "publishedAt": "2026-09-05T01:22:10.000Z"
     },
     {
-      "id": "222c9890d8a0c287",
+      "id": "036736a88bd128ee",
       "topic": "cosmos",
-      "title": "Chasing the Moon's Shadow",
-      "summary": "Chasing the shadow of a New Moon, NASA’s WB-57F high altitude research aircraft took to the skies off the coast of Iceland on August 12 to observe a total solar eclipse. At 50,000 feet the aircraft was piloted along the precisely determined path of totality to maximize its time in the Moon’s shadow. A suite of high-resolution cameras on board was able to…",
+      "title": "Pluto in Enhanced Color",
+      "summary": "Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System's most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient world sporting an unexpectedly young surface. The featured enhanced color image…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260905.html",
-      "publishedAt": "2026-09-05T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260906.html",
+      "publishedAt": "2026-09-06T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
     "pubmed",
     "nasa-apod"
   ]

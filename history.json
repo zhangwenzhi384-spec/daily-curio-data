@@ -1,5 +1,6 @@
 {
   "seen": [
+    "6fe8e9a50702aa5e",
     "bcb3c0259d66f74c",
     "6d2d4dcc11b9dc26",
     "ef3928c6abc39f22",
@@ -37,6 +38,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-07",
+      "id": "6fe8e9a50702aa5e",
+      "sourceUrl": "https://plato.stanford.edu/entries/mysticism/"
+    },
     {
       "date": "2026-09-06",
       "id": "bcb3c0259d66f74c",
