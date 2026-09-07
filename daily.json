@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-09-07",
-  "generatedAt": "2026-09-06T18:15:49.450Z",
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-07T19:56:26.385Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "6fe8e9a50702aa5e",
-    "topic": "philosophy",
-    "title": "Mysticism",
-    "summary": "[Revised entry by Richard Jones and Jerome Gellman on September 4, 2026. Changes to: Main text, Bibliography] Under the influence of William James' Varieties of Religious Experience, philosophical interest in mysticism has primarily focused on distinctive, allegedly knowledge-giving \"mystical experiences.\" Philosophers have dealt with such topics as the…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/mysticism/",
-    "publishedAt": "2026-09-05T01:22:10.000Z"
+    "id": "0a1136b13bfc1b3a",
+    "topic": "cosmos",
+    "title": "The Pelican Nebula in Gas, Dust, and Stars",
+    "summary": "The Pelican Nebula is slowly being transformed. IC 5070 (an official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust. The deep featured picture from Utah, USA incorporates 25 hours of exposure and brings out great details of this filamentary dust. The Pelican Nebula receives much study because it is a…",
+    "sourceName": "NASA · Astronomy Picture of the Day",
+    "sourceUrl": "https://apod.nasa.gov/apod/ap260907.html",
+    "publishedAt": "2026-09-07T05:00:00.000Z"
   },
   "digest": [
     {
@@ -50,13 +50,13 @@
       "publishedAt": "2026-09-05T01:22:10.000Z"
     },
     {
-      "id": "036736a88bd128ee",
+      "id": "0a1136b13bfc1b3a",
       "topic": "cosmos",
-      "title": "Pluto in Enhanced Color",
-      "summary": "Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System's most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient world sporting an unexpectedly young surface. The featured enhanced color image…",
+      "title": "The Pelican Nebula in Gas, Dust, and Stars",
+      "summary": "The Pelican Nebula is slowly being transformed. IC 5070 (an official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust. The deep featured picture from Utah, USA incorporates 25 hours of exposure and brings out great details of this filamentary dust. The Pelican Nebula receives much study because it is a…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260906.html",
-      "publishedAt": "2026-09-06T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260907.html",
+      "publishedAt": "2026-09-07T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
