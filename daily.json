@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-09-08",
-  "generatedAt": "2026-09-07T19:56:26.385Z",
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-08T19:25:19.984Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "0a1136b13bfc1b3a",
-    "topic": "cosmos",
-    "title": "The Pelican Nebula in Gas, Dust, and Stars",
-    "summary": "The Pelican Nebula is slowly being transformed. IC 5070 (an official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust. The deep featured picture from Utah, USA incorporates 25 hours of exposure and brings out great details of this filamentary dust. The Pelican Nebula receives much study because it is a…",
-    "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap260907.html",
-    "publishedAt": "2026-09-07T05:00:00.000Z"
+    "id": "ae22eadc55abfc5d",
+    "topic": "philosophy",
+    "title": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+    "summary": "[Revised entry by Richard Healey on September 8, 2026. Changes to: Main text, Bibliography, notes.html] Quantum theory is fundamental to contemporary physics.[1] It is natural to view a fundamental physical theory as describing or representing the physical world. But many physicists and some philosophers have questioned or rejected this view of quantum…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/quantum-bayesian/",
+    "publishedAt": "2026-09-09T00:01:17.000Z"
   },
   "digest": [
     {
-      "id": "b9ed39b8df84cdc8",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
-      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,27 +41,28 @@
       "publishedAt": ""
     },
     {
-      "id": "6fe8e9a50702aa5e",
+      "id": "ae22eadc55abfc5d",
       "topic": "philosophy",
-      "title": "Mysticism",
-      "summary": "[Revised entry by Richard Jones and Jerome Gellman on September 4, 2026. Changes to: Main text, Bibliography] Under the influence of William James' Varieties of Religious Experience, philosophical interest in mysticism has primarily focused on distinctive, allegedly knowledge-giving \"mystical experiences.\" Philosophers have dealt with such topics as the…",
+      "title": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
+      "summary": "[Revised entry by Richard Healey on September 8, 2026. Changes to: Main text, Bibliography, notes.html] Quantum theory is fundamental to contemporary physics.[1] It is natural to view a fundamental physical theory as describing or representing the physical world. But many physicists and some philosophers have questioned or rejected this view of quantum…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/mysticism/",
-      "publishedAt": "2026-09-05T01:22:10.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/quantum-bayesian/",
+      "publishedAt": "2026-09-09T00:01:17.000Z"
     },
     {
-      "id": "0a1136b13bfc1b3a",
+      "id": "bd02651975aabd1d",
       "topic": "cosmos",
-      "title": "The Pelican Nebula in Gas, Dust, and Stars",
-      "summary": "The Pelican Nebula is slowly being transformed. IC 5070 (an official designation) is divided from the larger North America Nebula by a molecular cloud filled with dark dust. The deep featured picture from Utah, USA incorporates 25 hours of exposure and brings out great details of this filamentary dust. The Pelican Nebula receives much study because it is a…",
+      "title": "Hubble: Decagon Around Saturn's South Pole",
+      "summary": "Why are Saturn’s poles geometric? Saturn’s North Pole has been known to be surrounded by a hexagonal (6 sides) cloud since discovery in 1987 in data taken by NASA’s Voyager spacecrafts, which quickly flew past the ringed world in the early 1980s. Now, recent observations of Saturn by the Hubble Space Telescope reveal a slightly different geometric cloud…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260907.html",
-      "publishedAt": "2026-09-07T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260908.html",
+      "publishedAt": "2026-09-08T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
+    "world-bank",
     "pubmed",
     "nasa-apod"
   ]

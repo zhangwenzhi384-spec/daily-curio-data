@@ -1,5 +1,6 @@
 {
   "seen": [
+    "ae22eadc55abfc5d",
     "0a1136b13bfc1b3a",
     "6fe8e9a50702aa5e",
     "bcb3c0259d66f74c",
@@ -39,6 +40,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-09",
+      "id": "ae22eadc55abfc5d",
+      "sourceUrl": "https://plato.stanford.edu/entries/quantum-bayesian/"
+    },
     {
       "date": "2026-09-08",
       "id": "0a1136b13bfc1b3a",
