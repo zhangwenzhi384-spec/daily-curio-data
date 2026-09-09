@@ -1,5 +1,6 @@
 {
   "seen": [
+    "4bcfa7ebdee1d2fc",
     "ae22eadc55abfc5d",
     "0a1136b13bfc1b3a",
     "6fe8e9a50702aa5e",
@@ -40,6 +41,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-10",
+      "id": "4bcfa7ebdee1d2fc",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/07/new-fabric-test-material-could-help-strengthen-domestic-supply-chain"
+    },
     {
       "date": "2026-09-09",
       "id": "ae22eadc55abfc5d",

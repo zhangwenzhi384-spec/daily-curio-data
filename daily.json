@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-09-09",
-  "generatedAt": "2026-09-08T19:25:19.984Z",
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-09T19:15:34.509Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "ae22eadc55abfc5d",
-    "topic": "philosophy",
-    "title": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
-    "summary": "[Revised entry by Richard Healey on September 8, 2026. Changes to: Main text, Bibliography, notes.html] Quantum theory is fundamental to contemporary physics.[1] It is natural to view a fundamental physical theory as describing or representing the physical world. But many physicists and some philosophers have questioned or rejected this view of quantum…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/quantum-bayesian/",
-    "publishedAt": "2026-09-09T00:01:17.000Z"
+    "id": "4bcfa7ebdee1d2fc",
+    "topic": "technology",
+    "title": "New Fabric Test Material Could Help Strengthen Domestic Supply Chain for Textiles and Clothing",
+    "summary": "Researchers estimate that 56% of textiles can be recycled or recovered, but most don’t make it back into the domestic supply chain.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/07/new-fabric-test-material-could-help-strengthen-domestic-supply-chain",
+    "publishedAt": "2026-07-09T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "ae22eadc55abfc5d",
+      "id": "d2b540373b15b51a",
       "topic": "philosophy",
-      "title": "Quantum-Bayesian and Pragmatist Views of Quantum Theory",
-      "summary": "[Revised entry by Richard Healey on September 8, 2026. Changes to: Main text, Bibliography, notes.html] Quantum theory is fundamental to contemporary physics.[1] It is natural to view a fundamental physical theory as describing or representing the physical world. But many physicists and some philosophers have questioned or rejected this view of quantum…",
+      "title": "Quantum Field Theory",
+      "summary": "[Revised entry by Meinard Kuhlmann on September 9, 2026. Changes to: Main text, Bibliography] Quantum Field Theory (QFT) is the mathematical and conceptual framework for contemporary high-energy physics, or \"particle physics\" (but see the discussion of the problematic particle interpretation below). It is also a framework used in other areas of theoretical…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/quantum-bayesian/",
-      "publishedAt": "2026-09-09T00:01:17.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/quantum-field-theory/",
+      "publishedAt": "2026-09-10T02:29:41.000Z"
     },
     {
-      "id": "bd02651975aabd1d",
+      "id": "31eeaf7f8bce746e",
       "topic": "cosmos",
-      "title": "Hubble: Decagon Around Saturn's South Pole",
-      "summary": "Why are Saturn’s poles geometric? Saturn’s North Pole has been known to be surrounded by a hexagonal (6 sides) cloud since discovery in 1987 in data taken by NASA’s Voyager spacecrafts, which quickly flew past the ringed world in the early 1980s. Now, recent observations of Saturn by the Hubble Space Telescope reveal a slightly different geometric cloud…",
+      "title": "Witness XZ Andromedae Wink",
+      "summary": "Is this star winking at us? The central object in today’s animation is not one but two stars. XZ Andromedae, indicated by the bold lines, is an Algol-type eclipsing binary with a nearly edge-on orbit from Earth’s perspective. The bottom light curve shows the amount of light from the system dim and brighten as the cooler star eclipses its hotter, brighter…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260908.html",
-      "publishedAt": "2026-09-08T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260909.html",
+      "publishedAt": "2026-09-09T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
