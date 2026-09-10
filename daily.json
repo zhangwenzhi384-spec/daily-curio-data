@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-09-10",
-  "generatedAt": "2026-09-09T19:15:34.509Z",
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-10T19:06:41.169Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "4bcfa7ebdee1d2fc",
-    "topic": "technology",
-    "title": "New Fabric Test Material Could Help Strengthen Domestic Supply Chain for Textiles and Clothing",
-    "summary": "Researchers estimate that 56% of textiles can be recycled or recovered, but most don’t make it back into the domestic supply chain.",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/07/new-fabric-test-material-could-help-strengthen-domestic-supply-chain",
-    "publishedAt": "2026-07-09T12:00:00.000Z"
+    "id": "0ca1332415a84db6",
+    "topic": "philosophy",
+    "title": "Kūkai",
+    "summary": "[Revised entry by John Krummel on September 10, 2026. Changes to: Bibliography] Kūkai (774 - 835CE) is one of the intellectual giants of Japan, who ought not to be ignored in any account of the history of Japanese thought. Among the traditional Buddhist thinkers of Japan, and perhaps even of the whole of East Asia, he is one of the most systematic and…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/kukai/",
+    "publishedAt": "2026-09-11T02:19:31.000Z"
   },
   "digest": [
     {
-      "id": "37dbadf5bf452e08",
+      "id": "b9ed39b8df84cdc8",
       "topic": "economy",
-      "title": "全球人口的最新记录：2025 年 82.15 亿人",
-      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
+      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
-      "id": "cc403ccaae5015b9",
+      "id": "3142655988713ada",
       "topic": "technology",
-      "title": "NIST Researchers Supersize Quantum Technology to Help Detect Faint Photons",
-      "summary": "Our everyday life is flooded with photons, the quantum building blocks of light. For cutting-edge technology, from quantum computing to deep-tissue imaging, detecting every single photon counts. “Photons carry information,” said Kristen Parzuchowski",
+      "title": "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
+      "summary": "New X-ray measurements will allow scientists to more accurately monitor nuclear material at power plants and weapons facilities.",
       "sourceName": "NIST",
-      "sourceUrl": "https://www.nist.gov/news-events/news/2026/08/nist-researchers-supersize-quantum-technology-help-detect-faint-photons",
-      "publishedAt": "2026-08-24T12:00:00.000Z"
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-developed-quantum-sensors-improve-nuclear-monitoring",
+      "publishedAt": "2026-09-10T12:00:00.000Z"
     },
     {
       "id": "bcb3c0259d66f74c",
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "d2b540373b15b51a",
+      "id": "0ca1332415a84db6",
       "topic": "philosophy",
-      "title": "Quantum Field Theory",
-      "summary": "[Revised entry by Meinard Kuhlmann on September 9, 2026. Changes to: Main text, Bibliography] Quantum Field Theory (QFT) is the mathematical and conceptual framework for contemporary high-energy physics, or \"particle physics\" (but see the discussion of the problematic particle interpretation below). It is also a framework used in other areas of theoretical…",
+      "title": "Kūkai",
+      "summary": "[Revised entry by John Krummel on September 10, 2026. Changes to: Bibliography] Kūkai (774 - 835CE) is one of the intellectual giants of Japan, who ought not to be ignored in any account of the history of Japanese thought. Among the traditional Buddhist thinkers of Japan, and perhaps even of the whole of East Asia, he is one of the most systematic and…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/quantum-field-theory/",
-      "publishedAt": "2026-09-10T02:29:41.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/kukai/",
+      "publishedAt": "2026-09-11T02:19:31.000Z"
     },
     {
-      "id": "31eeaf7f8bce746e",
+      "id": "0af266f9f15497c4",
       "topic": "cosmos",
-      "title": "Witness XZ Andromedae Wink",
-      "summary": "Is this star winking at us? The central object in today’s animation is not one but two stars. XZ Andromedae, indicated by the bold lines, is an Algol-type eclipsing binary with a nearly edge-on orbit from Earth’s perspective. The bottom light curve shows the amount of light from the system dim and brighten as the cooler star eclipses its hotter, brighter…",
+      "title": "LDN 1295: The Giraffe Nebula",
+      "summary": "What does this image look like to you? Many see a giraffe facing right, with neck stretched high and long legs mid-stride (but some may see a squirrel instead). The featured image shows LDN 1295, also called the Giraffe Nebula, in the constellation of the mythical queen of Aethiopia (Cassiopeia). It is an object in the Lynds Catalogue of Dark Nebulas,…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260909.html",
-      "publishedAt": "2026-09-09T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260910.html",
+      "publishedAt": "2026-09-10T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
