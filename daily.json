@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-09-11",
-  "generatedAt": "2026-09-10T19:06:41.169Z",
+  "date": "2026-09-12",
+  "generatedAt": "2026-09-11T19:08:52.830Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "0ca1332415a84db6",
+    "id": "0d17e8fcf6ff333d",
     "topic": "philosophy",
-    "title": "Kūkai",
-    "summary": "[Revised entry by John Krummel on September 10, 2026. Changes to: Bibliography] Kūkai (774 - 835CE) is one of the intellectual giants of Japan, who ought not to be ignored in any account of the history of Japanese thought. Among the traditional Buddhist thinkers of Japan, and perhaps even of the whole of East Asia, he is one of the most systematic and…",
+    "title": "Afḍal al-Dīn al-Khūnajī",
+    "summary": "[New Entry by Behnam Zolghadr on September 10, 2026.] Afḍal al-Dīn al-Khūnajī (1194 - 1248) was one of the most prominent logicians in the Islamic world, arguably second only to Ibn Sīnā (Avicenna, c. 970 - 1037). He became the central figure in revising Avicennian logic by introducing substantial modifications and raising numerous objections against…",
     "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/kukai/",
-    "publishedAt": "2026-09-11T02:19:31.000Z"
+    "sourceUrl": "https://plato.stanford.edu/entries/al-khunaji/",
+    "publishedAt": "2026-09-11T02:07:20.000Z"
   },
   "digest": [
     {
@@ -50,19 +50,18 @@
       "publishedAt": "2026-09-11T02:19:31.000Z"
     },
     {
-      "id": "0af266f9f15497c4",
+      "id": "7d1d04bb028585cc",
       "topic": "cosmos",
-      "title": "LDN 1295: The Giraffe Nebula",
-      "summary": "What does this image look like to you? Many see a giraffe facing right, with neck stretched high and long legs mid-stride (but some may see a squirrel instead). The featured image shows LDN 1295, also called the Giraffe Nebula, in the constellation of the mythical queen of Aethiopia (Cassiopeia). It is an object in the Lynds Catalogue of Dark Nebulas,…",
+      "title": "M83: The Southern Pinwheel",
+      "summary": "Beautiful and bright spiral galaxy M83 lies some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, the Southern Pinwheel. Still, reddish star forming regions that dot this cosmic pinwheel's spiral arms have…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260910.html",
-      "publishedAt": "2026-09-10T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260911.html",
+      "publishedAt": "2026-09-11T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
     "pubmed",
     "nasa-apod"
   ]
