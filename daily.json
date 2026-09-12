@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-09-12",
-  "generatedAt": "2026-09-11T19:08:52.830Z",
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-12T18:20:36.706Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "0d17e8fcf6ff333d",
-    "topic": "philosophy",
-    "title": "Afḍal al-Dīn al-Khūnajī",
-    "summary": "[New Entry by Behnam Zolghadr on September 10, 2026.] Afḍal al-Dīn al-Khūnajī (1194 - 1248) was one of the most prominent logicians in the Islamic world, arguably second only to Ibn Sīnā (Avicenna, c. 970 - 1037). He became the central figure in revising Avicennian logic by introducing substantial modifications and raising numerous objections against…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/al-khunaji/",
-    "publishedAt": "2026-09-11T02:07:20.000Z"
+    "id": "c51cbc9fcf863f38",
+    "topic": "cosmos",
+    "title": "Apollo 11: Catching Some Sun",
+    "summary": "Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the…",
+    "sourceName": "NASA · Astronomy Picture of the Day",
+    "sourceUrl": "https://apod.nasa.gov/apod/ap260912.html",
+    "publishedAt": "2026-09-12T05:00:00.000Z"
   },
   "digest": [
     {
-      "id": "b9ed39b8df84cdc8",
+      "id": "c4a14ef28eba6e28",
       "topic": "economy",
-      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
-      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
+      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
-      "publishedAt": "2025-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
+      "publishedAt": "2024-12-31T00:00:00.000Z"
     },
     {
       "id": "3142655988713ada",
@@ -41,27 +41,28 @@
       "publishedAt": ""
     },
     {
-      "id": "0ca1332415a84db6",
+      "id": "49998e96bf6f63bd",
       "topic": "philosophy",
-      "title": "Kūkai",
-      "summary": "[Revised entry by John Krummel on September 10, 2026. Changes to: Bibliography] Kūkai (774 - 835CE) is one of the intellectual giants of Japan, who ought not to be ignored in any account of the history of Japanese thought. Among the traditional Buddhist thinkers of Japan, and perhaps even of the whole of East Asia, he is one of the most systematic and…",
+      "title": "Moral Learning",
+      "summary": "[New Entry by Tamar Kushnir and Shaun Nichols on September 12, 2026.] In this piece moral learning is taken to comprise the acquisition of norms and values in the moral domain. The investigation of the acquisition of such norms and values stretches back to antiquity, and it has received focused attention in contemporary moral psychology. Moral prohibitions…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/kukai/",
-      "publishedAt": "2026-09-11T02:19:31.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/moral-learning/",
+      "publishedAt": "2026-09-13T00:16:47.000Z"
     },
     {
-      "id": "7d1d04bb028585cc",
+      "id": "c51cbc9fcf863f38",
       "topic": "cosmos",
-      "title": "M83: The Southern Pinwheel",
-      "summary": "Beautiful and bright spiral galaxy M83 lies some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, the Southern Pinwheel. Still, reddish star forming regions that dot this cosmic pinwheel's spiral arms have…",
+      "title": "Apollo 11: Catching Some Sun",
+      "summary": "Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260911.html",
-      "publishedAt": "2026-09-11T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260912.html",
+      "publishedAt": "2026-09-12T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
+    "world-bank",
     "pubmed",
     "nasa-apod"
   ]
