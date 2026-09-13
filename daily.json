@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-09-13",
-  "generatedAt": "2026-09-12T18:20:36.706Z",
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-13T18:46:21.985Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "c51cbc9fcf863f38",
-    "topic": "cosmos",
-    "title": "Apollo 11: Catching Some Sun",
-    "summary": "Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the…",
-    "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap260912.html",
-    "publishedAt": "2026-09-12T05:00:00.000Z"
+    "id": "0c6deb9cad98214d",
+    "topic": "philosophy",
+    "title": "Gabriel (-Honoré) Marcel",
+    "summary": "[Revised entry by Brian Treanor and Brendan Sweetman on September 13, 2026. Changes to: Main text, Bibliography] Gabriel Marcel (1889 - 1973) was a philosopher, drama critic, playwright and musician. He converted to Catholicism in 1929 and his philosophy was later described as \"Christian Existentialism\" (most famously in Jean-Paul Sartre's \"Existentialism…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/marcel/",
+    "publishedAt": "2026-09-14T00:52:02.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
       "id": "3142655988713ada",
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "49998e96bf6f63bd",
+      "id": "0c6deb9cad98214d",
       "topic": "philosophy",
-      "title": "Moral Learning",
-      "summary": "[New Entry by Tamar Kushnir and Shaun Nichols on September 12, 2026.] In this piece moral learning is taken to comprise the acquisition of norms and values in the moral domain. The investigation of the acquisition of such norms and values stretches back to antiquity, and it has received focused attention in contemporary moral psychology. Moral prohibitions…",
+      "title": "Gabriel (-Honoré) Marcel",
+      "summary": "[Revised entry by Brian Treanor and Brendan Sweetman on September 13, 2026. Changes to: Main text, Bibliography] Gabriel Marcel (1889 - 1973) was a philosopher, drama critic, playwright and musician. He converted to Catholicism in 1929 and his philosophy was later described as \"Christian Existentialism\" (most famously in Jean-Paul Sartre's \"Existentialism…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/moral-learning/",
-      "publishedAt": "2026-09-13T00:16:47.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/marcel/",
+      "publishedAt": "2026-09-14T00:52:02.000Z"
     },
     {
-      "id": "c51cbc9fcf863f38",
+      "id": "347526027bffdf7e",
       "topic": "cosmos",
-      "title": "Apollo 11: Catching Some Sun",
-      "summary": "Bright sunlight glints as long dark shadows mark this image of the surface of the Moon. It was taken on July 20, 1969, by Apollo 11 astronaut Neil Armstrong, the first to walk on the lunar surface. Pictured is the mission's lunar module, the Eagle, and spacesuited lunar module pilot Buzz Aldrin. Aldrin is unfurling a long sheet of foil also known as the…",
+      "title": "Comet NEOWISE Rising over the Adriatic Sea",
+      "summary": "This sight was worth getting out of bed early. Just over four years ago, Comet C/2020 F3 (NEOWISE) rose before dawn to the delight of northern sky enthusiasts awake that early. Up before sunrise on July 8th, the featured photographer was able to capture in dramatic fashion one of the few comets visible to the unaided eye this century, an inner-Solar System…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260912.html",
-      "publishedAt": "2026-09-12T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260913.html",
+      "publishedAt": "2026-09-13T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
