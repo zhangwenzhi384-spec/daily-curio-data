@@ -1,5 +1,6 @@
 {
   "seen": [
+    "3142655988713ada",
     "0c6deb9cad98214d",
     "c51cbc9fcf863f38",
     "0d17e8fcf6ff333d",
@@ -45,6 +46,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-15",
+      "id": "3142655988713ada",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-developed-quantum-sensors-improve-nuclear-monitoring"
+    },
     {
       "date": "2026-09-14",
       "id": "0c6deb9cad98214d",

@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-09-14",
-  "generatedAt": "2026-09-13T18:46:21.985Z",
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-14T20:17:35.687Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "0c6deb9cad98214d",
-    "topic": "philosophy",
-    "title": "Gabriel (-Honoré) Marcel",
-    "summary": "[Revised entry by Brian Treanor and Brendan Sweetman on September 13, 2026. Changes to: Main text, Bibliography] Gabriel Marcel (1889 - 1973) was a philosopher, drama critic, playwright and musician. He converted to Catholicism in 1929 and his philosophy was later described as \"Christian Existentialism\" (most famously in Jean-Paul Sartre's \"Existentialism…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/marcel/",
-    "publishedAt": "2026-09-14T00:52:02.000Z"
+    "id": "3142655988713ada",
+    "topic": "technology",
+    "title": "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
+    "summary": "New X-ray measurements will allow scientists to more accurately monitor nuclear material at power plants and weapons facilities.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-developed-quantum-sensors-improve-nuclear-monitoring",
+    "publishedAt": "2026-09-10T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "0c6deb9cad98214d",
+      "id": "ad8d87cfb9ecb7a3",
       "topic": "philosophy",
-      "title": "Gabriel (-Honoré) Marcel",
-      "summary": "[Revised entry by Brian Treanor and Brendan Sweetman on September 13, 2026. Changes to: Main text, Bibliography] Gabriel Marcel (1889 - 1973) was a philosopher, drama critic, playwright and musician. He converted to Catholicism in 1929 and his philosophy was later described as \"Christian Existentialism\" (most famously in Jean-Paul Sartre's \"Existentialism…",
+      "title": "The Kyoto School",
+      "summary": "[Revised entry by Bret W. Davis on September 14, 2026. Changes to: Main text, Bibliography, notes.html] The Kyoto School (Kyōto-gakuha) is a group of 20th century Japanese philosophers who drew on the intellectual and spiritual traditions of East Asia, those of Mahāyāna Buddhism in particular, as well as on the methods and content of Western philosophy.…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/marcel/",
-      "publishedAt": "2026-09-14T00:52:02.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/kyoto-school/",
+      "publishedAt": "2026-09-15T01:30:44.000Z"
     },
     {
-      "id": "347526027bffdf7e",
+      "id": "b1b8c625a1f53ed2",
       "topic": "cosmos",
-      "title": "Comet NEOWISE Rising over the Adriatic Sea",
-      "summary": "This sight was worth getting out of bed early. Just over four years ago, Comet C/2020 F3 (NEOWISE) rose before dawn to the delight of northern sky enthusiasts awake that early. Up before sunrise on July 8th, the featured photographer was able to capture in dramatic fashion one of the few comets visible to the unaided eye this century, an inner-Solar System…",
+      "title": "Where Your Elements Came From",
+      "summary": "The hydrogen in your body and present in every molecule of water came from the Big Bang. There are no other appreciable sources of hydrogen in the universe. The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen. Much of the iron in your body was made during supernovas of stars that occurred long ago and far away. The…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260913.html",
-      "publishedAt": "2026-09-13T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260914.html",
+      "publishedAt": "2026-09-14T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
