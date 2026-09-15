@@ -1,5 +1,6 @@
 {
   "seen": [
+    "4ec83b694af8a6f8",
     "3142655988713ada",
     "0c6deb9cad98214d",
     "c51cbc9fcf863f38",
@@ -46,6 +47,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-16",
+      "id": "4ec83b694af8a6f8",
+      "sourceUrl": "https://plato.stanford.edu/entries/ernst-mach/"
+    },
     {
       "date": "2026-09-15",
       "id": "3142655988713ada",

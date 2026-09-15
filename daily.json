@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-09-15",
-  "generatedAt": "2026-09-14T20:17:35.687Z",
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-15T19:41:40.283Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "3142655988713ada",
-    "topic": "technology",
-    "title": "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
-    "summary": "New X-ray measurements will allow scientists to more accurately monitor nuclear material at power plants and weapons facilities.",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-developed-quantum-sensors-improve-nuclear-monitoring",
-    "publishedAt": "2026-09-10T12:00:00.000Z"
+    "id": "4ec83b694af8a6f8",
+    "topic": "philosophy",
+    "title": "Ernst Mach",
+    "summary": "[New Entry by Pietro Gori and Luca Guzzardi on September 15, 2026.] [Editor's Note: The following new entry by Pietro Gori and Luca Guzzardi replaces the former entry on this topic by the previous author.] The work of Ernst Mach (1838 - 1916) has been influential in...",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/ernst-mach/",
+    "publishedAt": "2026-09-15T23:17:43.000Z"
   },
   "digest": [
     {
@@ -23,13 +23,13 @@
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
-      "id": "3142655988713ada",
+      "id": "499685df49ae72df",
       "topic": "technology",
-      "title": "NIST-Developed Quantum Sensors Improve Nuclear Monitoring",
-      "summary": "New X-ray measurements will allow scientists to more accurately monitor nuclear material at power plants and weapons facilities.",
+      "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
+      "summary": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
       "sourceName": "NIST",
-      "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-developed-quantum-sensors-improve-nuclear-monitoring",
-      "publishedAt": "2026-09-10T12:00:00.000Z"
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-30-million-mep-centers-11-states-and-puerto-rico",
+      "publishedAt": "2026-09-15T12:00:00.000Z"
     },
     {
       "id": "bcb3c0259d66f74c",
@@ -41,28 +41,27 @@
       "publishedAt": ""
     },
     {
-      "id": "ad8d87cfb9ecb7a3",
+      "id": "4ec83b694af8a6f8",
       "topic": "philosophy",
-      "title": "The Kyoto School",
-      "summary": "[Revised entry by Bret W. Davis on September 14, 2026. Changes to: Main text, Bibliography, notes.html] The Kyoto School (Kyōto-gakuha) is a group of 20th century Japanese philosophers who drew on the intellectual and spiritual traditions of East Asia, those of Mahāyāna Buddhism in particular, as well as on the methods and content of Western philosophy.…",
+      "title": "Ernst Mach",
+      "summary": "[New Entry by Pietro Gori and Luca Guzzardi on September 15, 2026.] [Editor's Note: The following new entry by Pietro Gori and Luca Guzzardi replaces the former entry on this topic by the previous author.] The work of Ernst Mach (1838 - 1916) has been influential in...",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/kyoto-school/",
-      "publishedAt": "2026-09-15T01:30:44.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/ernst-mach/",
+      "publishedAt": "2026-09-15T23:17:43.000Z"
     },
     {
-      "id": "b1b8c625a1f53ed2",
+      "id": "5c7132be314708ec",
       "topic": "cosmos",
-      "title": "Where Your Elements Came From",
-      "summary": "The hydrogen in your body and present in every molecule of water came from the Big Bang. There are no other appreciable sources of hydrogen in the universe. The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen. Much of the iron in your body was made during supernovas of stars that occurred long ago and far away. The…",
+      "title": "A Daytime Eclipse: Moon Occults Venus",
+      "summary": "There was something behind the clouds. Upon close inspection, it was the Moon, which was hard to see yesterday around noon above the small village of Cessy, France. But soon, it was not only the Moon. As expected, a bright dot suddenly appeared from behind the Moon -- the planet Venus far in the distance. Captured in the single featured exposure, both…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260914.html",
-      "publishedAt": "2026-09-14T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260915.html",
+      "publishedAt": "2026-09-15T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
     "pubmed",
     "nasa-apod"
   ]
