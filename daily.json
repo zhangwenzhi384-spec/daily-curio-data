@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-09-16",
-  "generatedAt": "2026-09-15T19:41:40.283Z",
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-16T19:32:23.871Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "4ec83b694af8a6f8",
+    "id": "07614dce43ea5c19",
     "topic": "philosophy",
-    "title": "Ernst Mach",
-    "summary": "[New Entry by Pietro Gori and Luca Guzzardi on September 15, 2026.] [Editor's Note: The following new entry by Pietro Gori and Luca Guzzardi replaces the former entry on this topic by the previous author.] The work of Ernst Mach (1838 - 1916) has been influential in...",
+    "title": "Physicalism",
+    "summary": "[Revised entry by Daniel Stoljar on September 16, 2026. Changes to: Main text, Bibliography] Physicalism is, in slogan form, the thesis that everything is physical. The thesis is usually intended as a metaphysical thesis, parallel to the thesis attributed to the ancient Greek philosopher Thales, that everything is water, or the idealism of the 18th Century…",
     "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/ernst-mach/",
-    "publishedAt": "2026-09-15T23:17:43.000Z"
+    "sourceUrl": "https://plato.stanford.edu/entries/physicalism/",
+    "publishedAt": "2026-09-16T10:05:32.000Z"
   },
   "digest": [
     {
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "4ec83b694af8a6f8",
+      "id": "07614dce43ea5c19",
       "topic": "philosophy",
-      "title": "Ernst Mach",
-      "summary": "[New Entry by Pietro Gori and Luca Guzzardi on September 15, 2026.] [Editor's Note: The following new entry by Pietro Gori and Luca Guzzardi replaces the former entry on this topic by the previous author.] The work of Ernst Mach (1838 - 1916) has been influential in...",
+      "title": "Physicalism",
+      "summary": "[Revised entry by Daniel Stoljar on September 16, 2026. Changes to: Main text, Bibliography] Physicalism is, in slogan form, the thesis that everything is physical. The thesis is usually intended as a metaphysical thesis, parallel to the thesis attributed to the ancient Greek philosopher Thales, that everything is water, or the idealism of the 18th Century…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/ernst-mach/",
-      "publishedAt": "2026-09-15T23:17:43.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/physicalism/",
+      "publishedAt": "2026-09-16T10:05:32.000Z"
     },
     {
-      "id": "5c7132be314708ec",
+      "id": "2fd36f2a45d23641",
       "topic": "cosmos",
-      "title": "A Daytime Eclipse: Moon Occults Venus",
-      "summary": "There was something behind the clouds. Upon close inspection, it was the Moon, which was hard to see yesterday around noon above the small village of Cessy, France. But soon, it was not only the Moon. As expected, a bright dot suddenly appeared from behind the Moon -- the planet Venus far in the distance. Captured in the single featured exposure, both…",
+      "title": "Webb's View of M64",
+      "summary": "Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names. The dark band of dust partially blocking its bright core earned it the moniker “the Black Eye Galaxy.” Webb’s Mid-InfraRed Instrument (MIRI) sees that dust, shown in red, as it absorbs and re-emits light…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260915.html",
-      "publishedAt": "2026-09-15T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260916.html",
+      "publishedAt": "2026-09-16T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [

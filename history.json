@@ -1,5 +1,6 @@
 {
   "seen": [
+    "07614dce43ea5c19",
     "4ec83b694af8a6f8",
     "3142655988713ada",
     "0c6deb9cad98214d",
@@ -47,6 +48,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-17",
+      "id": "07614dce43ea5c19",
+      "sourceUrl": "https://plato.stanford.edu/entries/physicalism/"
+    },
     {
       "date": "2026-09-16",
       "id": "4ec83b694af8a6f8",
