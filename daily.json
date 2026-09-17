@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-09-17",
-  "generatedAt": "2026-09-16T19:32:23.871Z",
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-17T19:42:51.585Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "07614dce43ea5c19",
-    "topic": "philosophy",
-    "title": "Physicalism",
-    "summary": "[Revised entry by Daniel Stoljar on September 16, 2026. Changes to: Main text, Bibliography] Physicalism is, in slogan form, the thesis that everything is physical. The thesis is usually intended as a metaphysical thesis, parallel to the thesis attributed to the ancient Greek philosopher Thales, that everything is water, or the idealism of the 18th Century…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/physicalism/",
-    "publishedAt": "2026-09-16T10:05:32.000Z"
+    "id": "abe842816f632e99",
+    "topic": "cosmos",
+    "title": "A Treasure Chest in the Carina Nebula",
+    "summary": "This treasure chest is full of stars. The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pillar in the Carina Nebula inside our Galaxy, roughly 7500 light-years away. It is formed by interstellar gas and dust, and shaped by powerful stellar winds and radiation form neighboring stars like the nearby Eta Carinae stellar…",
+    "sourceName": "NASA · Astronomy Picture of the Day",
+    "sourceUrl": "https://apod.nasa.gov/apod/ap260917.html",
+    "publishedAt": "2026-09-17T05:00:00.000Z"
   },
   "digest": [
     {
-      "id": "37dbadf5bf452e08",
+      "id": "c4a14ef28eba6e28",
       "topic": "economy",
-      "title": "全球人口的最新记录：2025 年 82.15 亿人",
-      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
+      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
-      "publishedAt": "2025-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
+      "publishedAt": "2024-12-31T00:00:00.000Z"
     },
     {
       "id": "499685df49ae72df",
@@ -41,27 +41,28 @@
       "publishedAt": ""
     },
     {
-      "id": "07614dce43ea5c19",
+      "id": "32aac91afb339cc9",
       "topic": "philosophy",
-      "title": "Physicalism",
-      "summary": "[Revised entry by Daniel Stoljar on September 16, 2026. Changes to: Main text, Bibliography] Physicalism is, in slogan form, the thesis that everything is physical. The thesis is usually intended as a metaphysical thesis, parallel to the thesis attributed to the ancient Greek philosopher Thales, that everything is water, or the idealism of the 18th Century…",
+      "title": "Ludwig Wittgenstein",
+      "summary": "[Revised entry by Anat Biletzki and Anat Matar on September 17, 2026. Changes to: Main text, Bibliography] Considered by some to be the greatest philosopher of the 20th century, Ludwig Wittgenstein played a central, if controversial, role in mid-20th-century analytic philosophy. He continues to influence, and incur debate in, current philosophical thought…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/physicalism/",
-      "publishedAt": "2026-09-16T10:05:32.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/wittgenstein/",
+      "publishedAt": "2026-09-17T23:58:48.000Z"
     },
     {
-      "id": "2fd36f2a45d23641",
+      "id": "abe842816f632e99",
       "topic": "cosmos",
-      "title": "Webb's View of M64",
-      "summary": "Sometimes where Hubble finds darkness, Webb sees light. An example is today’s composite images of Messier 64 (M64), a nearby spiral galaxy of many names. The dark band of dust partially blocking its bright core earned it the moniker “the Black Eye Galaxy.” Webb’s Mid-InfraRed Instrument (MIRI) sees that dust, shown in red, as it absorbs and re-emits light…",
+      "title": "A Treasure Chest in the Carina Nebula",
+      "summary": "This treasure chest is full of stars. The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pillar in the Carina Nebula inside our Galaxy, roughly 7500 light-years away. It is formed by interstellar gas and dust, and shaped by powerful stellar winds and radiation form neighboring stars like the nearby Eta Carinae stellar…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260916.html",
-      "publishedAt": "2026-09-16T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260917.html",
+      "publishedAt": "2026-09-17T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
+    "world-bank",
     "pubmed",
     "nasa-apod"
   ]
