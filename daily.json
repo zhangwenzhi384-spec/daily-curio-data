@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-09-18",
-  "generatedAt": "2026-09-17T19:42:51.585Z",
+  "date": "2026-09-19",
+  "generatedAt": "2026-09-18T19:01:12.701Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "abe842816f632e99",
-    "topic": "cosmos",
-    "title": "A Treasure Chest in the Carina Nebula",
-    "summary": "This treasure chest is full of stars. The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pillar in the Carina Nebula inside our Galaxy, roughly 7500 light-years away. It is formed by interstellar gas and dust, and shaped by powerful stellar winds and radiation form neighboring stars like the nearby Eta Carinae stellar…",
-    "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap260917.html",
-    "publishedAt": "2026-09-17T05:00:00.000Z"
+    "id": "6cc4b27c2cc2ad0b",
+    "topic": "philosophy",
+    "title": "Basil [Cardinal] Bessarion",
+    "summary": "[Revised entry by Eva Del Soldato on September 18, 2026. Changes to: Main text, Bibliography] Basil Bessarion (d. 1472) was, before Marsilio Ficino (1433 - 1499), the not so grey eminence responsible for the return of Plato in the Western world. Defending Plato's reputation from the attacks of the arch-Aristotelian George of Trebizond - attacks which were…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/bessarion/",
+    "publishedAt": "2026-09-19T02:11:18.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
-      "id": "499685df49ae72df",
+      "id": "f878493d04b6ffa4",
       "topic": "technology",
-      "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
-      "summary": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
+      "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
+      "summary": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
       "sourceName": "NIST",
-      "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-30-million-mep-centers-11-states-and-puerto-rico",
-      "publishedAt": "2026-09-15T12:00:00.000Z"
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
+      "publishedAt": "2026-09-18T12:00:00.000Z"
     },
     {
       "id": "bcb3c0259d66f74c",
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "32aac91afb339cc9",
+      "id": "6cc4b27c2cc2ad0b",
       "topic": "philosophy",
-      "title": "Ludwig Wittgenstein",
-      "summary": "[Revised entry by Anat Biletzki and Anat Matar on September 17, 2026. Changes to: Main text, Bibliography] Considered by some to be the greatest philosopher of the 20th century, Ludwig Wittgenstein played a central, if controversial, role in mid-20th-century analytic philosophy. He continues to influence, and incur debate in, current philosophical thought…",
+      "title": "Basil [Cardinal] Bessarion",
+      "summary": "[Revised entry by Eva Del Soldato on September 18, 2026. Changes to: Main text, Bibliography] Basil Bessarion (d. 1472) was, before Marsilio Ficino (1433 - 1499), the not so grey eminence responsible for the return of Plato in the Western world. Defending Plato's reputation from the attacks of the arch-Aristotelian George of Trebizond - attacks which were…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/wittgenstein/",
-      "publishedAt": "2026-09-17T23:58:48.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/bessarion/",
+      "publishedAt": "2026-09-19T02:11:18.000Z"
     },
     {
-      "id": "abe842816f632e99",
+      "id": "6101bb809ea4106d",
       "topic": "cosmos",
-      "title": "A Treasure Chest in the Carina Nebula",
-      "summary": "This treasure chest is full of stars. The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pillar in the Carina Nebula inside our Galaxy, roughly 7500 light-years away. It is formed by interstellar gas and dust, and shaped by powerful stellar winds and radiation form neighboring stars like the nearby Eta Carinae stellar…",
+      "title": "Messier 33: The Triangulum Galaxy",
+      "summary": "The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260917.html",
-      "publishedAt": "2026-09-17T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260918.html",
+      "publishedAt": "2026-09-18T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [

@@ -1,5 +1,6 @@
 {
   "seen": [
+    "6cc4b27c2cc2ad0b",
     "abe842816f632e99",
     "07614dce43ea5c19",
     "4ec83b694af8a6f8",
@@ -49,6 +50,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-19",
+      "id": "6cc4b27c2cc2ad0b",
+      "sourceUrl": "https://plato.stanford.edu/entries/bessarion/"
+    },
     {
       "date": "2026-09-18",
       "id": "abe842816f632e99",
