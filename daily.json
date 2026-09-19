@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-09-19",
-  "generatedAt": "2026-09-18T19:01:12.701Z",
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-19T18:35:18.956Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "6cc4b27c2cc2ad0b",
-    "topic": "philosophy",
-    "title": "Basil [Cardinal] Bessarion",
-    "summary": "[Revised entry by Eva Del Soldato on September 18, 2026. Changes to: Main text, Bibliography] Basil Bessarion (d. 1472) was, before Marsilio Ficino (1433 - 1499), the not so grey eminence responsible for the return of Plato in the Western world. Defending Plato's reputation from the attacks of the arch-Aristotelian George of Trebizond - attacks which were…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/bessarion/",
-    "publishedAt": "2026-09-19T02:11:18.000Z"
+    "id": "f878493d04b6ffa4",
+    "topic": "technology",
+    "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
+    "summary": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
+    "publishedAt": "2026-09-18T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "6cc4b27c2cc2ad0b",
+      "id": "387cfaa9b7fb956d",
       "topic": "philosophy",
-      "title": "Basil [Cardinal] Bessarion",
-      "summary": "[Revised entry by Eva Del Soldato on September 18, 2026. Changes to: Main text, Bibliography] Basil Bessarion (d. 1472) was, before Marsilio Ficino (1433 - 1499), the not so grey eminence responsible for the return of Plato in the Western world. Defending Plato's reputation from the attacks of the arch-Aristotelian George of Trebizond - attacks which were…",
+      "title": "Bernard Bosanquet",
+      "summary": "[Revised entry by William Sweet on September 19, 2026. Changes to: Main text, Bibliography] Bernard Bosanquet (1848 - 1923), British philosopher, political theorist and social reformer, was one of the principal exponents (with F.H. Bradley) of late nineteenth and early twentieth century 'Absolute Idealism.'...",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/bessarion/",
-      "publishedAt": "2026-09-19T02:11:18.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/bosanquet/",
+      "publishedAt": "2026-09-19T12:50:26.000Z"
     },
     {
-      "id": "6101bb809ea4106d",
+      "id": "4e0196d3a61c936e",
       "topic": "cosmos",
-      "title": "Messier 33: The Triangulum Galaxy",
-      "summary": "The small, northern constellation Triangulum harbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just the Triangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in the Local Group of galaxies after the Andromeda Galaxy (M31), and our own Milky Way. About 3 million light-years…",
+      "title": "A Zodiacal Night",
+      "summary": "Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September's star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth. At about 4,500 meters altitude, the dark sky reserve presents a haven for…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260918.html",
-      "publishedAt": "2026-09-18T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260919.html",
+      "publishedAt": "2026-09-19T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [

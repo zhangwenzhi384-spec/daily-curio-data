@@ -1,5 +1,6 @@
 {
   "seen": [
+    "f878493d04b6ffa4",
     "6cc4b27c2cc2ad0b",
     "abe842816f632e99",
     "07614dce43ea5c19",
@@ -50,6 +51,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-20",
+      "id": "f878493d04b6ffa4",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development"
+    },
     {
       "date": "2026-09-19",
       "id": "6cc4b27c2cc2ad0b",
