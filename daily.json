@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-09-20",
-  "generatedAt": "2026-09-19T18:35:18.956Z",
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-20T18:45:06.324Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "f878493d04b6ffa4",
-    "topic": "technology",
-    "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
-    "summary": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
-    "publishedAt": "2026-09-18T12:00:00.000Z"
+    "id": "73f37791861c690e",
+    "topic": "cosmos",
+    "title": "Analemma over the Callanish Stones",
+    "summary": "If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change? A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year. The featured analemma was composed from images taken every few days at noon near the village of…",
+    "sourceName": "NASA · Astronomy Picture of the Day",
+    "sourceUrl": "https://apod.nasa.gov/apod/ap260920.html",
+    "publishedAt": "2026-09-20T05:00:00.000Z"
   },
   "digest": [
     {
-      "id": "37dbadf5bf452e08",
+      "id": "b9ed39b8df84cdc8",
       "topic": "economy",
-      "title": "全球人口的最新记录：2025 年 82.15 亿人",
-      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
+      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -50,13 +50,13 @@
       "publishedAt": "2026-09-19T12:50:26.000Z"
     },
     {
-      "id": "4e0196d3a61c936e",
+      "id": "73f37791861c690e",
       "topic": "cosmos",
-      "title": "A Zodiacal Night",
-      "summary": "Also known as the false dawn, a luminous band of zodiacal light is captured in this dark night skyscape. The serene view was recorded just before the beginning of astronomical twilight during September's star party at the remote Hanle Dark Sky Reserve, Ladakh, India, planet Earth. At about 4,500 meters altitude, the dark sky reserve presents a haven for…",
+      "title": "Analemma over the Callanish Stones",
+      "summary": "If you went outside at the same time every day and took a picture that included the Sun, how would the Sun's position change? A visual answer to that question is an analemma, a composite image taken from the same spot at the same time over the course of a year. The featured analemma was composed from images taken every few days at noon near the village of…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260919.html",
-      "publishedAt": "2026-09-19T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260920.html",
+      "publishedAt": "2026-09-20T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
