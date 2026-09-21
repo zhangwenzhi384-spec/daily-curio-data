@@ -1,5 +1,6 @@
 {
   "seen": [
+    "387cfaa9b7fb956d",
     "73f37791861c690e",
     "f878493d04b6ffa4",
     "6cc4b27c2cc2ad0b",
@@ -52,6 +53,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-22",
+      "id": "387cfaa9b7fb956d",
+      "sourceUrl": "https://plato.stanford.edu/entries/bosanquet/"
+    },
     {
       "date": "2026-09-21",
       "id": "73f37791861c690e",
