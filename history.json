@@ -1,5 +1,6 @@
 {
   "seen": [
+    "9dc74810712ca464",
     "fca769f62ff52990",
     "387cfaa9b7fb956d",
     "73f37791861c690e",
@@ -54,6 +55,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-24",
+      "id": "9dc74810712ca464",
+      "sourceUrl": "https://plato.stanford.edu/entries/karl-reinhold/"
+    },
     {
       "date": "2026-09-23",
       "id": "fca769f62ff52990",

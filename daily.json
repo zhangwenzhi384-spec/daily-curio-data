@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-09-23",
-  "generatedAt": "2026-09-22T19:43:36.871Z",
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-23T19:39:44.386Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "fca769f62ff52990",
-    "topic": "cosmos",
-    "title": "Chance Triple Alignment: Plane, Space Station, Sun",
-    "summary": "This shot captured an unexpected silhouette. Which is it? It isn't the sunspots, the small dark regions caused by concentrated magnetic fields visible around the Sun's bright disk. Sunspots typically last for weeks and were expected, since these spots were seen previously. It isn’t the International Space Station (ISS), the small dark structure on the…",
-    "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap260922.html",
-    "publishedAt": "2026-09-22T05:00:00.000Z"
+    "id": "9dc74810712ca464",
+    "topic": "philosophy",
+    "title": "Karl Leonhard Reinhold",
+    "summary": "[Revised entry by Dan Breazeale and John Walsh on September 23, 2026. Changes to: Main text, Bibliography] Karl Leonhard Reinhold (1757 - 1823), Austrian philosopher and first occupant of the chair on Critical Philosophy established at the University of Jena in 1787, first achieved fame as a proponent of popular Enlightenment and as an early and effective…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/karl-reinhold/",
+    "publishedAt": "2026-09-24T03:12:42.000Z"
   },
   "digest": [
     {
-      "id": "b9ed39b8df84cdc8",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
-      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,27 +41,28 @@
       "publishedAt": ""
     },
     {
-      "id": "f8fe2e2802548c5b",
+      "id": "9dc74810712ca464",
       "topic": "philosophy",
-      "title": "Aesthetics and Race",
-      "summary": "[New Entry by Monique Roelofs on September 22, 2026.] Aesthetics and race constitute areas of experience, evaluation, and historical practice that are vitally entangled with one another. This is to be expected, given that aesthetics is a culturally marked field of form, creation, and value, and race a realm of cultural constructions. Both practices sustain…",
+      "title": "Karl Leonhard Reinhold",
+      "summary": "[Revised entry by Dan Breazeale and John Walsh on September 23, 2026. Changes to: Main text, Bibliography] Karl Leonhard Reinhold (1757 - 1823), Austrian philosopher and first occupant of the chair on Critical Philosophy established at the University of Jena in 1787, first achieved fame as a proponent of popular Enlightenment and as an early and effective…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/aesthetics-race/",
-      "publishedAt": "2026-09-22T23:00:03.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/karl-reinhold/",
+      "publishedAt": "2026-09-24T03:12:42.000Z"
     },
     {
-      "id": "fca769f62ff52990",
+      "id": "7a06b16496e82da9",
       "topic": "cosmos",
-      "title": "Chance Triple Alignment: Plane, Space Station, Sun",
-      "summary": "This shot captured an unexpected silhouette. Which is it? It isn't the sunspots, the small dark regions caused by concentrated magnetic fields visible around the Sun's bright disk. Sunspots typically last for weeks and were expected, since these spots were seen previously. It isn’t the International Space Station (ISS), the small dark structure on the…",
+      "title": "A New Lunar Crater: McGetchin",
+      "summary": "A once-in-a-lifetime crater has appeared on the Moon! A comet or asteroid roughly the size of a humpback whale (approximately 10-20 meters, 30-60 feet) crashed into the Moon sometime between April and May of 2024. The Lunar Reconnaissance Orbiter (LRO), with its monthly monitoring of the Moon, captured today’s images of the lunar surface before and after…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260922.html",
-      "publishedAt": "2026-09-22T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260923.html",
+      "publishedAt": "2026-09-23T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
+    "world-bank",
     "pubmed",
     "nasa-apod"
   ]
