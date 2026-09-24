@@ -1,5 +1,6 @@
 {
   "seen": [
+    "499685df49ae72df",
     "9dc74810712ca464",
     "fca769f62ff52990",
     "387cfaa9b7fb956d",
@@ -55,6 +56,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-25",
+      "id": "499685df49ae72df",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-30-million-mep-centers-11-states-and-puerto-rico"
+    },
     {
       "date": "2026-09-24",
       "id": "9dc74810712ca464",

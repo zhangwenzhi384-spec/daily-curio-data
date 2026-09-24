@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-09-24",
-  "generatedAt": "2026-09-23T19:39:44.386Z",
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-24T19:58:29.053Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "9dc74810712ca464",
-    "topic": "philosophy",
-    "title": "Karl Leonhard Reinhold",
-    "summary": "[Revised entry by Dan Breazeale and John Walsh on September 23, 2026. Changes to: Main text, Bibliography] Karl Leonhard Reinhold (1757 - 1823), Austrian philosopher and first occupant of the chair on Critical Philosophy established at the University of Jena in 1787, first achieved fame as a proponent of popular Enlightenment and as an early and effective…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/karl-reinhold/",
-    "publishedAt": "2026-09-24T03:12:42.000Z"
+    "id": "499685df49ae72df",
+    "topic": "technology",
+    "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
+    "summary": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-30-million-mep-centers-11-states-and-puerto-rico",
+    "publishedAt": "2026-09-15T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "9dc74810712ca464",
+      "id": "1b9468a3dff4fdb2",
       "topic": "philosophy",
-      "title": "Karl Leonhard Reinhold",
-      "summary": "[Revised entry by Dan Breazeale and John Walsh on September 23, 2026. Changes to: Main text, Bibliography] Karl Leonhard Reinhold (1757 - 1823), Austrian philosopher and first occupant of the chair on Critical Philosophy established at the University of Jena in 1787, first achieved fame as a proponent of popular Enlightenment and as an early and effective…",
+      "title": "Animal Thought",
+      "summary": "[New Entry by Laura Danón on September 24, 2026.] Can non-human animals think? If they can, what kinds of thoughts do they have? What intellectual and cognitive processes are involved in their thinking? And how do these thoughts vary from species to species? All of these questions are highly controversial and have sparked heated debates, both philosophical…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/karl-reinhold/",
-      "publishedAt": "2026-09-24T03:12:42.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/animal-thought/",
+      "publishedAt": "2026-09-25T01:45:52.000Z"
     },
     {
-      "id": "7a06b16496e82da9",
+      "id": "172c343670f0c34f",
       "topic": "cosmos",
-      "title": "A New Lunar Crater: McGetchin",
-      "summary": "A once-in-a-lifetime crater has appeared on the Moon! A comet or asteroid roughly the size of a humpback whale (approximately 10-20 meters, 30-60 feet) crashed into the Moon sometime between April and May of 2024. The Lunar Reconnaissance Orbiter (LRO), with its monthly monitoring of the Moon, captured today’s images of the lunar surface before and after…",
+      "title": "The Ghosts of Five Supernovas",
+      "summary": "The ghosts of five supernovas haunt this extraordinary image. It was acquired at Oukaïmeden Observatory in Morocco with approximately 200 hours of observations and shows a large patch of the sky, equivalent to the area of one thousand full moons tiled together, in the constellation of Auriga (the charioteer). From left to right, the five supernova remnants…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260923.html",
-      "publishedAt": "2026-09-23T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260924.html",
+      "publishedAt": "2026-09-24T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
