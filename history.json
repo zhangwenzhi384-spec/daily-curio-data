@@ -1,5 +1,6 @@
 {
   "seen": [
+    "08fbc29dc2d22b96",
     "499685df49ae72df",
     "9dc74810712ca464",
     "fca769f62ff52990",
@@ -56,6 +57,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-26",
+      "id": "08fbc29dc2d22b96",
+      "sourceUrl": "https://plato.stanford.edu/entries/fideism/"
+    },
     {
       "date": "2026-09-25",
       "id": "499685df49ae72df",

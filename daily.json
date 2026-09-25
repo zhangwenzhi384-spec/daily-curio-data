@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-09-25",
-  "generatedAt": "2026-09-24T19:58:29.053Z",
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-25T20:00:34.019Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "499685df49ae72df",
-    "topic": "technology",
-    "title": "NIST Awards More Than $30 Million for MEP Centers in 11 States and Puerto Rico",
-    "summary": "The awards will help small and medium-sized manufacturers increase the adoption of advanced manufacturing technology.",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-30-million-mep-centers-11-states-and-puerto-rico",
-    "publishedAt": "2026-09-15T12:00:00.000Z"
+    "id": "08fbc29dc2d22b96",
+    "topic": "philosophy",
+    "title": "Fideism",
+    "summary": "[Revised entry by Richard Amesbury on September 24, 2026. Changes to: Main text, Bibliography, notes.html] \"What indeed has Athens to do with Jerusalem?\" (DPH: ch. 7 [p. 246]) This question of the relation between reason - here represented by Athens - and faith - represented by Jerusalem - was posed by the church father Tertullian (c.160 - 230 CE), and it…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/fideism/",
+    "publishedAt": "2026-09-25T05:28:30.000Z"
   },
   "digest": [
     {
-      "id": "37dbadf5bf452e08",
+      "id": "b9ed39b8df84cdc8",
       "topic": "economy",
-      "title": "全球人口的最新记录：2025 年 82.15 亿人",
-      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
+      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "1b9468a3dff4fdb2",
+      "id": "08fbc29dc2d22b96",
       "topic": "philosophy",
-      "title": "Animal Thought",
-      "summary": "[New Entry by Laura Danón on September 24, 2026.] Can non-human animals think? If they can, what kinds of thoughts do they have? What intellectual and cognitive processes are involved in their thinking? And how do these thoughts vary from species to species? All of these questions are highly controversial and have sparked heated debates, both philosophical…",
+      "title": "Fideism",
+      "summary": "[Revised entry by Richard Amesbury on September 24, 2026. Changes to: Main text, Bibliography, notes.html] \"What indeed has Athens to do with Jerusalem?\" (DPH: ch. 7 [p. 246]) This question of the relation between reason - here represented by Athens - and faith - represented by Jerusalem - was posed by the church father Tertullian (c.160 - 230 CE), and it…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/animal-thought/",
-      "publishedAt": "2026-09-25T01:45:52.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/fideism/",
+      "publishedAt": "2026-09-25T05:28:30.000Z"
     },
     {
-      "id": "172c343670f0c34f",
+      "id": "330e0250ee33601b",
       "topic": "cosmos",
-      "title": "The Ghosts of Five Supernovas",
-      "summary": "The ghosts of five supernovas haunt this extraordinary image. It was acquired at Oukaïmeden Observatory in Morocco with approximately 200 hours of observations and shows a large patch of the sky, equivalent to the area of one thousand full moons tiled together, in the constellation of Auriga (the charioteer). From left to right, the five supernova remnants…",
+      "title": "Globular Cluster Omega Centauri",
+      "summary": "Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260924.html",
-      "publishedAt": "2026-09-24T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260925.html",
+      "publishedAt": "2026-09-25T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
