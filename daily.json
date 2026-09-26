@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-09-26",
-  "generatedAt": "2026-09-25T20:00:34.019Z",
+  "date": "2026-09-27",
+  "generatedAt": "2026-09-26T19:12:04.503Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "08fbc29dc2d22b96",
+    "id": "1b9468a3dff4fdb2",
     "topic": "philosophy",
-    "title": "Fideism",
-    "summary": "[Revised entry by Richard Amesbury on September 24, 2026. Changes to: Main text, Bibliography, notes.html] \"What indeed has Athens to do with Jerusalem?\" (DPH: ch. 7 [p. 246]) This question of the relation between reason - here represented by Athens - and faith - represented by Jerusalem - was posed by the church father Tertullian (c.160 - 230 CE), and it…",
+    "title": "Animal Thought",
+    "summary": "[New Entry by Laura Danón on September 24, 2026.] Can non-human animals think? If they can, what kinds of thoughts do they have? What intellectual and cognitive processes are involved in their thinking? And how do these thoughts vary from species to species? All of these questions are highly controversial and have sparked heated debates, both philosophical…",
     "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/fideism/",
-    "publishedAt": "2026-09-25T05:28:30.000Z"
+    "sourceUrl": "https://plato.stanford.edu/entries/animal-thought/",
+    "publishedAt": "2026-09-25T01:45:52.000Z"
   },
   "digest": [
     {
@@ -50,19 +50,18 @@
       "publishedAt": "2026-09-25T05:28:30.000Z"
     },
     {
-      "id": "330e0250ee33601b",
+      "id": "8d5b5322ee22a928",
       "topic": "cosmos",
-      "title": "Globular Cluster Omega Centauri",
-      "summary": "Globular star cluster Omega Centauri packs about 10 million stars much older than the Sun into a volume some 150 light-years in diameter. Also known as NGC 5139, at a distance of 15,000 light-years it's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with…",
+      "title": "Mirrored Meteor and Milky Way",
+      "summary": "On August 15, this perseid meteor streaked through night skies over the Observatorio del Roque de los Muchachos at La Palma, Canary Islands, Spain. The bright and colorful meteor trail was captured next to the central Milky Way, whose dark interstellar dust clouds and luminous starlight reach above the horizon. In the foreground of this tantalizing…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260925.html",
-      "publishedAt": "2026-09-25T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260926.html",
+      "publishedAt": "2026-09-26T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
     "pubmed",
     "nasa-apod"
   ]

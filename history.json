@@ -1,5 +1,6 @@
 {
   "seen": [
+    "1b9468a3dff4fdb2",
     "08fbc29dc2d22b96",
     "499685df49ae72df",
     "9dc74810712ca464",
@@ -57,6 +58,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-27",
+      "id": "1b9468a3dff4fdb2",
+      "sourceUrl": "https://plato.stanford.edu/entries/animal-thought/"
+    },
     {
       "date": "2026-09-26",
       "id": "08fbc29dc2d22b96",
