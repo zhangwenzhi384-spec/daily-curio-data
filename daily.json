@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-09-27",
-  "generatedAt": "2026-09-26T19:12:04.503Z",
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-27T19:45:02.698Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "1b9468a3dff4fdb2",
-    "topic": "philosophy",
-    "title": "Animal Thought",
-    "summary": "[New Entry by Laura Danón on September 24, 2026.] Can non-human animals think? If they can, what kinds of thoughts do they have? What intellectual and cognitive processes are involved in their thinking? And how do these thoughts vary from species to species? All of these questions are highly controversial and have sparked heated debates, both philosophical…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/animal-thought/",
-    "publishedAt": "2026-09-25T01:45:52.000Z"
+    "id": "a7830fe55ec378d5",
+    "topic": "cosmos",
+    "title": "Andromeda before Photoshop",
+    "summary": "What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections. The picture is a stack of 223 images, each a 300 second exposure, taken from a garden observatory in…",
+    "sourceName": "NASA · Astronomy Picture of the Day",
+    "sourceUrl": "https://apod.nasa.gov/apod/ap260927.html",
+    "publishedAt": "2026-09-27T05:00:00.000Z"
   },
   "digest": [
     {
-      "id": "b9ed39b8df84cdc8",
+      "id": "c4a14ef28eba6e28",
       "topic": "economy",
-      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
-      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
+      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
-      "publishedAt": "2025-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
+      "publishedAt": "2024-12-31T00:00:00.000Z"
     },
     {
       "id": "f878493d04b6ffa4",
@@ -50,18 +50,19 @@
       "publishedAt": "2026-09-25T05:28:30.000Z"
     },
     {
-      "id": "8d5b5322ee22a928",
+      "id": "a7830fe55ec378d5",
       "topic": "cosmos",
-      "title": "Mirrored Meteor and Milky Way",
-      "summary": "On August 15, this perseid meteor streaked through night skies over the Observatorio del Roque de los Muchachos at La Palma, Canary Islands, Spain. The bright and colorful meteor trail was captured next to the central Milky Way, whose dark interstellar dust clouds and luminous starlight reach above the horizon. In the foreground of this tantalizing…",
+      "title": "Andromeda before Photoshop",
+      "summary": "What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections. The picture is a stack of 223 images, each a 300 second exposure, taken from a garden observatory in…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260926.html",
-      "publishedAt": "2026-09-26T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260927.html",
+      "publishedAt": "2026-09-27T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
+    "world-bank",
     "pubmed",
     "nasa-apod"
   ]
