@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-09-28",
-  "generatedAt": "2026-09-27T19:45:02.698Z",
+  "date": "2026-09-29",
+  "generatedAt": "2026-09-28T21:57:40.555Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "a7830fe55ec378d5",
-    "topic": "cosmos",
-    "title": "Andromeda before Photoshop",
-    "summary": "What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections. The picture is a stack of 223 images, each a 300 second exposure, taken from a garden observatory in…",
-    "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap260927.html",
-    "publishedAt": "2026-09-27T05:00:00.000Z"
+    "id": "6142c2f425040a23",
+    "topic": "technology",
+    "title": "NIST Provides Updates on National Construction Safety Team Activities",
+    "summary": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-provides-updates-national-construction-safety-team-activities",
+    "publishedAt": "2026-09-28T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
-      "id": "f878493d04b6ffa4",
+      "id": "6142c2f425040a23",
       "topic": "technology",
-      "title": "NIST Awards More Than $1.7 Million to Support Cybersecurity Workforce Development Across 8 States",
-      "summary": "Projects will address local cybersecurity workforce needs and will offer practical learning opportunities including internships, apprenticeships and hands-on projects.",
+      "title": "NIST Provides Updates on National Construction Safety Team Activities",
+      "summary": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts.",
       "sourceName": "NIST",
-      "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-awards-more-17-million-support-cybersecurity-workforce-development",
-      "publishedAt": "2026-09-18T12:00:00.000Z"
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-provides-updates-national-construction-safety-team-activities",
+      "publishedAt": "2026-09-28T12:00:00.000Z"
     },
     {
       "id": "bcb3c0259d66f74c",
@@ -50,13 +50,13 @@
       "publishedAt": "2026-09-25T05:28:30.000Z"
     },
     {
-      "id": "a7830fe55ec378d5",
+      "id": "27a583535e8d91f0",
       "topic": "cosmos",
-      "title": "Andromeda before Photoshop",
-      "summary": "What does the Andromeda galaxy really look like? The featured image shows how our Milky Way Galaxy's closest major galactic neighbor really appears in a long exposure through Earth's busy skies and with a digital camera that introduces normal imperfections. The picture is a stack of 223 images, each a 300 second exposure, taken from a garden observatory in…",
+      "title": "Cosmic Latte: The Average Color of the Universe",
+      "summary": "What color is the universe? More precisely, if the entire sky were smeared out, what color would the final mix be? This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted here, is a conditionally perceived shade of beige. In computer parlance: #FFF8E7. To determine this, astronomers…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260927.html",
-      "publishedAt": "2026-09-27T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260928.html",
+      "publishedAt": "2026-09-28T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [

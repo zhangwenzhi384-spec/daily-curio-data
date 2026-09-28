@@ -1,5 +1,6 @@
 {
   "seen": [
+    "6142c2f425040a23",
     "a7830fe55ec378d5",
     "1b9468a3dff4fdb2",
     "08fbc29dc2d22b96",
@@ -59,6 +60,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-29",
+      "id": "6142c2f425040a23",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-provides-updates-national-construction-safety-team-activities"
+    },
     {
       "date": "2026-09-28",
       "id": "a7830fe55ec378d5",
