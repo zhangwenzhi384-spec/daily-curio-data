@@ -1,5 +1,6 @@
 {
   "seen": [
+    "05e68979b28e02c8",
     "6142c2f425040a23",
     "a7830fe55ec378d5",
     "1b9468a3dff4fdb2",
@@ -60,6 +61,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-09-30",
+      "id": "05e68979b28e02c8",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens"
+    },
     {
       "date": "2026-09-29",
       "id": "6142c2f425040a23",

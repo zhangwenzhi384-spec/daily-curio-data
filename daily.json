@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-09-29",
-  "generatedAt": "2026-09-28T21:57:40.555Z",
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-29T20:44:22.218Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "6142c2f425040a23",
+    "id": "05e68979b28e02c8",
     "topic": "technology",
-    "title": "NIST Provides Updates on National Construction Safety Team Activities",
-    "summary": "The presentations highlighted the importance of NIST applying its own expertise and the expertise of others through collaborations and contracts.",
+    "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
+    "summary": "The finalized publication is designed to help organizations take effective steps to avoid exposing tokens to attackers.",
     "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-provides-updates-national-construction-safety-team-activities",
-    "publishedAt": "2026-09-28T12:00:00.000Z"
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens",
+    "publishedAt": "2026-09-15T12:00:00.000Z"
   },
   "digest": [
     {
@@ -41,28 +41,27 @@
       "publishedAt": ""
     },
     {
-      "id": "08fbc29dc2d22b96",
+      "id": "e87901ff9eafb819",
       "topic": "philosophy",
-      "title": "Fideism",
-      "summary": "[Revised entry by Richard Amesbury on September 24, 2026. Changes to: Main text, Bibliography, notes.html] \"What indeed has Athens to do with Jerusalem?\" (DPH: ch. 7 [p. 246]) This question of the relation between reason - here represented by Athens - and faith - represented by Jerusalem - was posed by the church father Tertullian (c.160 - 230 CE), and it…",
+      "title": "Many-Valued Logic",
+      "summary": "[Revised entry by João Marcos, Adam Přenosil, and Paul Egré on September 29, 2026. Changes to: Main text, Bibliography] Many-valued logics, understood in the broadest sense, are systems of logic that generalize the two-valued truth-functional basis of classical logic to any number of truth values. Most of the time, a many-valued logic will involve more than…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/fideism/",
-      "publishedAt": "2026-09-25T05:28:30.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/logic-manyvalued/",
+      "publishedAt": "2026-09-29T10:53:51.000Z"
     },
     {
-      "id": "27a583535e8d91f0",
+      "id": "07d9a1e5072cd736",
       "topic": "cosmos",
-      "title": "Cosmic Latte: The Average Color of the Universe",
-      "summary": "What color is the universe? More precisely, if the entire sky were smeared out, what color would the final mix be? This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted here, is a conditionally perceived shade of beige. In computer parlance: #FFF8E7. To determine this, astronomers…",
+      "title": "Sh2-188: The Shrimp Nebula",
+      "summary": "What causes the swirl in the Shrimp Nebula? Its high speed is likely. What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon. Moreover, the white-dwarf core -- leftover from the Sun-like star that shed its outer atmosphere -- is moving unusually fast through…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260928.html",
-      "publishedAt": "2026-09-28T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap260929.html",
+      "publishedAt": "2026-09-29T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
     "pubmed",
     "nasa-apod"
   ]
