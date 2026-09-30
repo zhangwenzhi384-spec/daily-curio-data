@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-09-30",
-  "generatedAt": "2026-09-29T20:44:22.218Z",
+  "date": "2026-10-01",
+  "generatedAt": "2026-09-30T20:47:55.058Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "05e68979b28e02c8",
-    "topic": "technology",
-    "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
-    "summary": "The finalized publication is designed to help organizations take effective steps to avoid exposing tokens to attackers.",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/09/nist-finalizes-guidelines-protecting-online-identity-and-access-tokens",
-    "publishedAt": "2026-09-15T12:00:00.000Z"
+    "id": "b7084bc181dee35e",
+    "topic": "biology",
+    "title": "Photoresponsive electrospun fiber scaffold enables on-demand cytokine delivery for biomimetic endochondral bone regeneration.",
+    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
+    "sourceName": "NIH · PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42566951/",
+    "publishedAt": ""
   },
   "digest": [
     {
@@ -41,13 +41,13 @@
       "publishedAt": ""
     },
     {
-      "id": "e87901ff9eafb819",
+      "id": "535174ce47f43cba",
       "topic": "philosophy",
-      "title": "Many-Valued Logic",
-      "summary": "[Revised entry by João Marcos, Adam Přenosil, and Paul Egré on September 29, 2026. Changes to: Main text, Bibliography] Many-valued logics, understood in the broadest sense, are systems of logic that generalize the two-valued truth-functional basis of classical logic to any number of truth values. Most of the time, a many-valued logic will involve more than…",
+      "title": "Leibniz on Causation",
+      "summary": "[Revised entry by Marc Bobro and Tobias Flattery on September 30, 2026. Changes to: Main text, Bibliography] According to Gottfried Wilhelm Leibniz (1646 - 1716), the basic, fundamental entities of the universe (simple substances or \"monads\") are causally active in a distinctive manner, each possessing forces that are causally efficacious in bringing about…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/logic-manyvalued/",
-      "publishedAt": "2026-09-29T10:53:51.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/leibniz-causation/",
+      "publishedAt": "2026-09-30T21:37:17.000Z"
     },
     {
       "id": "07d9a1e5072cd736",
@@ -62,7 +62,6 @@
   "sourcesOnline": [
     "nist",
     "sep",
-    "pubmed",
-    "nasa-apod"
+    "pubmed"
   ]
 }
