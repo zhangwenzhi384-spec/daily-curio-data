@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-10-01",
-  "generatedAt": "2026-09-30T20:47:55.058Z",
+  "date": "2026-10-02",
+  "generatedAt": "2026-10-01T21:00:40.716Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "b7084bc181dee35e",
-    "topic": "biology",
-    "title": "Photoresponsive electrospun fiber scaffold enables on-demand cytokine delivery for biomimetic endochondral bone regeneration.",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42566951/",
-    "publishedAt": ""
+    "id": "bf1235d8b233fd41",
+    "topic": "philosophy",
+    "title": "The Equivalence of Mass and Energy",
+    "summary": "[Revised entry by Francisco Fernflores on October 1, 2026. Changes to: Main text, Bibliography] Einstein correctly described the equivalence of mass and energy as \"the most important upshot of the special theory of relativity\" (Einstein 1919). Many commentators have observed that he did not write the famous equation (E = mc^2)in his first derivation…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/equivME/",
+    "publishedAt": "2026-10-02T04:32:39.000Z"
   },
   "digest": [
     {
@@ -41,27 +41,28 @@
       "publishedAt": ""
     },
     {
-      "id": "535174ce47f43cba",
+      "id": "bf1235d8b233fd41",
       "topic": "philosophy",
-      "title": "Leibniz on Causation",
-      "summary": "[Revised entry by Marc Bobro and Tobias Flattery on September 30, 2026. Changes to: Main text, Bibliography] According to Gottfried Wilhelm Leibniz (1646 - 1716), the basic, fundamental entities of the universe (simple substances or \"monads\") are causally active in a distinctive manner, each possessing forces that are causally efficacious in bringing about…",
+      "title": "The Equivalence of Mass and Energy",
+      "summary": "[Revised entry by Francisco Fernflores on October 1, 2026. Changes to: Main text, Bibliography] Einstein correctly described the equivalence of mass and energy as \"the most important upshot of the special theory of relativity\" (Einstein 1919). Many commentators have observed that he did not write the famous equation (E = mc^2)in his first derivation…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/leibniz-causation/",
-      "publishedAt": "2026-09-30T21:37:17.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/equivME/",
+      "publishedAt": "2026-10-02T04:32:39.000Z"
     },
     {
-      "id": "07d9a1e5072cd736",
+      "id": "b3c7f605776324d7",
       "topic": "cosmos",
-      "title": "Sh2-188: The Shrimp Nebula",
-      "summary": "What causes the swirl in the Shrimp Nebula? Its high speed is likely. What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon. Moreover, the white-dwarf core -- leftover from the Sun-like star that shed its outer atmosphere -- is moving unusually fast through…",
+      "title": "NASA Science",
+      "summary": "Have you ever seen the full moon rise? This colorful image was photographed last weekend in Sicily, just outside the town of Nicosia, in Italy. It is a composite photograph that shows the Moon rising as the sky turns darker. Lower clouds are reflecting the colors of antitwilight, while ash and gas from Mount Etna are seen higher in the background. The pink…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap260929.html",
-      "publishedAt": "2026-09-29T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap261001.html",
+      "publishedAt": "2026-10-01T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
-    "pubmed"
+    "pubmed",
+    "nasa-apod"
   ]
 }

@@ -1,5 +1,6 @@
 {
   "seen": [
+    "bf1235d8b233fd41",
     "b7084bc181dee35e",
     "05e68979b28e02c8",
     "6142c2f425040a23",
@@ -62,6 +63,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-02",
+      "id": "bf1235d8b233fd41",
+      "sourceUrl": "https://plato.stanford.edu/entries/equivME/"
+    },
     {
       "date": "2026-10-01",
       "id": "b7084bc181dee35e",
