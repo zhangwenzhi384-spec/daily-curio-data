@@ -1,5 +1,6 @@
 {
   "seen": [
+    "dcffa69b92b13ba6",
     "bf1235d8b233fd41",
     "b7084bc181dee35e",
     "05e68979b28e02c8",
@@ -63,6 +64,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-03",
+      "id": "dcffa69b92b13ba6",
+      "sourceUrl": "https://plato.stanford.edu/entries/genotype-phenotype/"
+    },
     {
       "date": "2026-10-02",
       "id": "bf1235d8b233fd41",

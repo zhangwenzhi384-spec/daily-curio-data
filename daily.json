@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-10-02",
-  "generatedAt": "2026-10-01T21:00:40.716Z",
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-02T20:41:49.902Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "bf1235d8b233fd41",
+    "id": "dcffa69b92b13ba6",
     "topic": "philosophy",
-    "title": "The Equivalence of Mass and Energy",
-    "summary": "[Revised entry by Francisco Fernflores on October 1, 2026. Changes to: Main text, Bibliography] Einstein correctly described the equivalence of mass and energy as \"the most important upshot of the special theory of relativity\" (Einstein 1919). Many commentators have observed that he did not write the famous equation (E = mc^2)in his first derivation…",
+    "title": "The Genotype/Phenotype Distinction",
+    "summary": "[New Entry by Michael Dietrich and Marina DiMarco on October 2, 2026.] [Editor's Note: The following new entry by Michael Dietrich and Marina DiMarco replaces the former entry on this topic by the previous authors.]...",
     "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/equivME/",
-    "publishedAt": "2026-10-02T04:32:39.000Z"
+    "sourceUrl": "https://plato.stanford.edu/entries/genotype-phenotype/",
+    "publishedAt": "2026-10-03T03:48:05.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "c4a14ef28eba6e28",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
+      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
-      "publishedAt": "2025-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
+      "publishedAt": "2024-12-31T00:00:00.000Z"
     },
     {
       "id": "6142c2f425040a23",
@@ -41,13 +41,13 @@
       "publishedAt": ""
     },
     {
-      "id": "bf1235d8b233fd41",
+      "id": "dcffa69b92b13ba6",
       "topic": "philosophy",
-      "title": "The Equivalence of Mass and Energy",
-      "summary": "[Revised entry by Francisco Fernflores on October 1, 2026. Changes to: Main text, Bibliography] Einstein correctly described the equivalence of mass and energy as \"the most important upshot of the special theory of relativity\" (Einstein 1919). Many commentators have observed that he did not write the famous equation (E = mc^2)in his first derivation…",
+      "title": "The Genotype/Phenotype Distinction",
+      "summary": "[New Entry by Michael Dietrich and Marina DiMarco on October 2, 2026.] [Editor's Note: The following new entry by Michael Dietrich and Marina DiMarco replaces the former entry on this topic by the previous authors.]...",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/equivME/",
-      "publishedAt": "2026-10-02T04:32:39.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/genotype-phenotype/",
+      "publishedAt": "2026-10-03T03:48:05.000Z"
     },
     {
       "id": "b3c7f605776324d7",
@@ -62,7 +62,7 @@
   "sourcesOnline": [
     "nist",
     "sep",
-    "pubmed",
-    "nasa-apod"
+    "world-bank",
+    "pubmed"
   ]
 }
