@@ -1,5 +1,6 @@
 {
   "seen": [
+    "846dc68442424aee",
     "dcffa69b92b13ba6",
     "bf1235d8b233fd41",
     "b7084bc181dee35e",
@@ -64,6 +65,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-04",
+      "id": "846dc68442424aee",
+      "sourceUrl": "https://plato.stanford.edu/entries/engels/"
+    },
     {
       "date": "2026-10-03",
       "id": "dcffa69b92b13ba6",

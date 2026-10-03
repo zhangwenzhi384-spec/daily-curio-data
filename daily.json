@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-10-03",
-  "generatedAt": "2026-10-02T20:41:49.902Z",
+  "date": "2026-10-04",
+  "generatedAt": "2026-10-03T19:11:54.923Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "dcffa69b92b13ba6",
+    "id": "846dc68442424aee",
     "topic": "philosophy",
-    "title": "The Genotype/Phenotype Distinction",
-    "summary": "[New Entry by Michael Dietrich and Marina DiMarco on October 2, 2026.] [Editor's Note: The following new entry by Michael Dietrich and Marina DiMarco replaces the former entry on this topic by the previous authors.]...",
+    "title": "Friedrich Engels",
+    "summary": "[New Entry by Matt Shafer on October 3, 2026.] Friedrich Engels (1820 - 1895) was a preeminent figure in the formation of modern socialist politics and an interdisciplinary autodidact who wrote extensively on history, social theory, natural science, and philosophy. The lifelong collaborator of Karl Marx, he is often remembered primarily for his role in…",
     "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/genotype-phenotype/",
-    "publishedAt": "2026-10-03T03:48:05.000Z"
+    "sourceUrl": "https://plato.stanford.edu/entries/engels/",
+    "publishedAt": "2026-10-04T02:57:08.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
       "id": "6142c2f425040a23",
@@ -41,13 +41,13 @@
       "publishedAt": ""
     },
     {
-      "id": "dcffa69b92b13ba6",
+      "id": "846dc68442424aee",
       "topic": "philosophy",
-      "title": "The Genotype/Phenotype Distinction",
-      "summary": "[New Entry by Michael Dietrich and Marina DiMarco on October 2, 2026.] [Editor's Note: The following new entry by Michael Dietrich and Marina DiMarco replaces the former entry on this topic by the previous authors.]...",
+      "title": "Friedrich Engels",
+      "summary": "[New Entry by Matt Shafer on October 3, 2026.] Friedrich Engels (1820 - 1895) was a preeminent figure in the formation of modern socialist politics and an interdisciplinary autodidact who wrote extensively on history, social theory, natural science, and philosophy. The lifelong collaborator of Karl Marx, he is often remembered primarily for his role in…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/genotype-phenotype/",
-      "publishedAt": "2026-10-03T03:48:05.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/engels/",
+      "publishedAt": "2026-10-04T02:57:08.000Z"
     },
     {
       "id": "b3c7f605776324d7",
