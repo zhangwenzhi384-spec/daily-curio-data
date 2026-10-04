@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-10-04",
-  "generatedAt": "2026-10-03T19:11:54.923Z",
+  "date": "2026-10-05",
+  "generatedAt": "2026-10-04T19:34:37.611Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "846dc68442424aee",
+    "id": "e07b70ed3f70014d",
     "topic": "philosophy",
-    "title": "Friedrich Engels",
-    "summary": "[New Entry by Matt Shafer on October 3, 2026.] Friedrich Engels (1820 - 1895) was a preeminent figure in the formation of modern socialist politics and an interdisciplinary autodidact who wrote extensively on history, social theory, natural science, and philosophy. The lifelong collaborator of Karl Marx, he is often remembered primarily for his role in…",
+    "title": "Identity",
+    "summary": "[Revised entry by Harold Noonan and Ben Curtis on October 2, 2026. Changes to: Main text, Bibliography] Much of the debate about identity in recent decades has been about personal identity, and specifically about personal identity over time, but identity generally, and the identity of things of other kinds, have also attracted attention. Various…",
     "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/engels/",
-    "publishedAt": "2026-10-04T02:57:08.000Z"
+    "sourceUrl": "https://plato.stanford.edu/entries/identity/",
+    "publishedAt": "2026-10-03T00:22:37.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {

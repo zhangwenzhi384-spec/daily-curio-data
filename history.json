@@ -1,5 +1,6 @@
 {
   "seen": [
+    "e07b70ed3f70014d",
     "846dc68442424aee",
     "dcffa69b92b13ba6",
     "bf1235d8b233fd41",
@@ -65,6 +66,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-05",
+      "id": "e07b70ed3f70014d",
+      "sourceUrl": "https://plato.stanford.edu/entries/identity/"
+    },
     {
       "date": "2026-10-04",
       "id": "846dc68442424aee",
