@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-10-06",
-  "generatedAt": "2026-10-05T22:36:02.022Z",
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-06T20:57:51.689Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "013c95756da98988",
-    "topic": "biology",
-    "title": "Aza-Paternò-Büchi derivatization enables annotation of triacylglycerols by negative-ion-mode mass spectrometry at the double bond level.",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42580249/",
-    "publishedAt": ""
+    "id": "8636e20493f6bea5",
+    "topic": "philosophy",
+    "title": "Samuel Alexander",
+    "summary": "[Revised entry by Emily A. E. Thomas on October 6, 2026. Changes to: Main text, Bibliography] Australian-born philosopher Samuel Alexander (1859 - 1938) was a prominent figure in early twentieth-century British philosophy. He is best known for advancing \"British Emergentism\", a movement that held mind \"emerges\" from matter. Alexander rejected idealism, and…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/alexander/",
+    "publishedAt": "2026-10-06T23:08:17.000Z"
   },
   "digest": [
     {
@@ -32,37 +32,37 @@
       "publishedAt": "2026-10-05T12:00:00.000Z"
     },
     {
-      "id": "bcb3c0259d66f74c",
+      "id": "49ae5b9f1d9b2654",
       "topic": "biology",
-      "title": "Cable bacteria-mediated electromicrobial interactions: Mechanisms, ecological effects, and biotechnological prospects.",
+      "title": "Gut microbiota and metabolic characteristics in PWHIV with metabolic dysfunction-associated steatotic liver disease (MASLD).",
       "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
       "sourceName": "NIH · PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42594807/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42834659/",
       "publishedAt": ""
     },
     {
-      "id": "1adb5b728ee229ed",
+      "id": "8636e20493f6bea5",
       "topic": "philosophy",
-      "title": "Metaphysical Explanation",
-      "summary": "[Revised entry by Andrew Brenner, Anna-Sofia Maurin, Alexander Skiles, Robin Stenwall, and Naomi Thompson on October 5, 2026. Changes to: Main text, Bibliography] Explanation comes in many forms. Scientific explanations typically concern the natural world, and typically proceed by citing causes of natural phenomena or subsuming them under empirical laws in…",
+      "title": "Samuel Alexander",
+      "summary": "[Revised entry by Emily A. E. Thomas on October 6, 2026. Changes to: Main text, Bibliography] Australian-born philosopher Samuel Alexander (1859 - 1938) was a prominent figure in early twentieth-century British philosophy. He is best known for advancing \"British Emergentism\", a movement that held mind \"emerges\" from matter. Alexander rejected idealism, and…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/metaphysical-explanation/",
-      "publishedAt": "2026-10-06T04:32:42.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/alexander/",
+      "publishedAt": "2026-10-06T23:08:17.000Z"
     },
     {
-      "id": "b3c7f605776324d7",
+      "id": "d443078c306dc34c",
       "topic": "cosmos",
       "title": "NASA Science",
-      "summary": "Have you ever seen the full moon rise? This colorful image was photographed last weekend in Sicily, just outside the town of Nicosia, in Italy. It is a composite photograph that shows the Moon rising as the sky turns darker. Lower clouds are reflecting the colors of antitwilight, while ash and gas from Mount Etna are seen higher in the background. The pink…",
+      "summary": "Have you ever seen a complete auroral oval? You can't see one from the ground because it makes too large a circle around one of Earth's magnetic poles. But spacecraft high above the Earth can see them. The featured video from ESA and CAS's robotic SMILE spacecraft shows not only a full auroral oval, but using ultraviolet light, one that occurred during the…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap261001.html",
-      "publishedAt": "2026-10-01T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap261006.html",
+      "publishedAt": "2026-10-06T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
-    "pubmed"
+    "pubmed",
+    "nasa-apod"
   ]
 }

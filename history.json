@@ -1,5 +1,6 @@
 {
   "seen": [
+    "8636e20493f6bea5",
     "013c95756da98988",
     "e07b70ed3f70014d",
     "846dc68442424aee",
@@ -67,6 +68,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-07",
+      "id": "8636e20493f6bea5",
+      "sourceUrl": "https://plato.stanford.edu/entries/alexander/"
+    },
     {
       "date": "2026-10-06",
       "id": "013c95756da98988",
