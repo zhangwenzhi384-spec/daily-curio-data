@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-10-07",
-  "generatedAt": "2026-10-06T20:57:51.689Z",
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-07T21:16:43.918Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "8636e20493f6bea5",
+    "id": "242b5b2c66b69016",
     "topic": "philosophy",
-    "title": "Samuel Alexander",
-    "summary": "[Revised entry by Emily A. E. Thomas on October 6, 2026. Changes to: Main text, Bibliography] Australian-born philosopher Samuel Alexander (1859 - 1938) was a prominent figure in early twentieth-century British philosophy. He is best known for advancing \"British Emergentism\", a movement that held mind \"emerges\" from matter. Alexander rejected idealism, and…",
+    "title": "Aristotle’s Categories",
+    "summary": "[Revised entry by Paul Studtmann on October 7, 2026. Changes to: Main text, Bibliography] Aristotle's Categories is a singularly important work of philosophy. It not only presents the backbone of Aristotle's own philosophical theorizing but has exerted an unparalleled influence on the systems of many of the greatest philosophers in the western tradition.…",
     "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/alexander/",
-    "publishedAt": "2026-10-06T23:08:17.000Z"
+    "sourceUrl": "https://plato.stanford.edu/entries/aristotle-categories/",
+    "publishedAt": "2026-10-08T01:15:34.000Z"
   },
   "digest": [
     {
-      "id": "b9ed39b8df84cdc8",
+      "id": "c4a14ef28eba6e28",
       "topic": "economy",
-      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
-      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
+      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
-      "publishedAt": "2025-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
+      "publishedAt": "2024-12-31T00:00:00.000Z"
     },
     {
       "id": "8d91bf7d9a5d3443",
@@ -41,13 +41,13 @@
       "publishedAt": ""
     },
     {
-      "id": "8636e20493f6bea5",
+      "id": "242b5b2c66b69016",
       "topic": "philosophy",
-      "title": "Samuel Alexander",
-      "summary": "[Revised entry by Emily A. E. Thomas on October 6, 2026. Changes to: Main text, Bibliography] Australian-born philosopher Samuel Alexander (1859 - 1938) was a prominent figure in early twentieth-century British philosophy. He is best known for advancing \"British Emergentism\", a movement that held mind \"emerges\" from matter. Alexander rejected idealism, and…",
+      "title": "Aristotle’s Categories",
+      "summary": "[Revised entry by Paul Studtmann on October 7, 2026. Changes to: Main text, Bibliography] Aristotle's Categories is a singularly important work of philosophy. It not only presents the backbone of Aristotle's own philosophical theorizing but has exerted an unparalleled influence on the systems of many of the greatest philosophers in the western tradition.…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/alexander/",
-      "publishedAt": "2026-10-06T23:08:17.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/aristotle-categories/",
+      "publishedAt": "2026-10-08T01:15:34.000Z"
     },
     {
       "id": "d443078c306dc34c",
@@ -62,7 +62,7 @@
   "sourcesOnline": [
     "nist",
     "sep",
-    "pubmed",
-    "nasa-apod"
+    "world-bank",
+    "pubmed"
   ]
 }

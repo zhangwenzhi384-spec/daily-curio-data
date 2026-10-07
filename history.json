@@ -1,5 +1,6 @@
 {
   "seen": [
+    "242b5b2c66b69016",
     "8636e20493f6bea5",
     "013c95756da98988",
     "e07b70ed3f70014d",
@@ -68,6 +69,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-08",
+      "id": "242b5b2c66b69016",
+      "sourceUrl": "https://plato.stanford.edu/entries/aristotle-categories/"
+    },
     {
       "date": "2026-10-07",
       "id": "8636e20493f6bea5",
