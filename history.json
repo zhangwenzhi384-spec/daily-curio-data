@@ -1,5 +1,6 @@
 {
   "seen": [
+    "5f093164bcf2c852",
     "242b5b2c66b69016",
     "8636e20493f6bea5",
     "013c95756da98988",
@@ -69,6 +70,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-09",
+      "id": "5f093164bcf2c852",
+      "sourceUrl": "https://plato.stanford.edu/entries/cambridge-platonists/"
+    },
     {
       "date": "2026-10-08",
       "id": "242b5b2c66b69016",

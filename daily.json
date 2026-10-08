@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-10-08",
-  "generatedAt": "2026-10-07T21:16:43.918Z",
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-08T21:17:13.266Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "242b5b2c66b69016",
+    "id": "5f093164bcf2c852",
     "topic": "philosophy",
-    "title": "Aristotle’s Categories",
-    "summary": "[Revised entry by Paul Studtmann on October 7, 2026. Changes to: Main text, Bibliography] Aristotle's Categories is a singularly important work of philosophy. It not only presents the backbone of Aristotle's own philosophical theorizing but has exerted an unparalleled influence on the systems of many of the greatest philosophers in the western tradition.…",
+    "title": "The Cambridge Platonists",
+    "summary": "[Revised entry by Sarah Hutton on October 8, 2026. Changes to: Main text, Bibliography] The Cambridge Platonists were a cluster of English seventeenth-century thinkers associated with the University of Cambridge. The most important philosophers among them were Henry More (1614 - 1687) and Ralph Cudworth (1617 - 1688). The group also included Benjamin…",
     "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/aristotle-categories/",
-    "publishedAt": "2026-10-08T01:15:34.000Z"
+    "sourceUrl": "https://plato.stanford.edu/entries/cambridge-platonists/",
+    "publishedAt": "2026-10-09T01:32:20.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
-      "id": "8d91bf7d9a5d3443",
+      "id": "a7ee5f6f17083e42",
       "topic": "technology",
-      "title": "Physicist Jun Ye Wins Wolf Prize in Physics",
-      "summary": "The award cites Ye’s achievement in “transformative, widely applicable advances in the control of ultracold atomic systems.”",
+      "title": "NIST Joins White House Effort to Drive ‘A New Golden Age of Science’",
+      "summary": "As the nation’s lead agency for measurement science and standards, NIST is uniquely positioned to bridge the distance between fundamental discovery and industrial capability.",
       "sourceName": "NIST",
-      "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/physicist-jun-ye-wins-wolf-prize-physics",
-      "publishedAt": "2026-10-05T12:00:00.000Z"
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/nist-joins-white-house-effort-drive-new-golden-age-science",
+      "publishedAt": "2026-10-08T12:00:00.000Z"
     },
     {
       "id": "49ae5b9f1d9b2654",
@@ -41,28 +41,29 @@
       "publishedAt": ""
     },
     {
-      "id": "242b5b2c66b69016",
+      "id": "5f093164bcf2c852",
       "topic": "philosophy",
-      "title": "Aristotle’s Categories",
-      "summary": "[Revised entry by Paul Studtmann on October 7, 2026. Changes to: Main text, Bibliography] Aristotle's Categories is a singularly important work of philosophy. It not only presents the backbone of Aristotle's own philosophical theorizing but has exerted an unparalleled influence on the systems of many of the greatest philosophers in the western tradition.…",
+      "title": "The Cambridge Platonists",
+      "summary": "[Revised entry by Sarah Hutton on October 8, 2026. Changes to: Main text, Bibliography] The Cambridge Platonists were a cluster of English seventeenth-century thinkers associated with the University of Cambridge. The most important philosophers among them were Henry More (1614 - 1687) and Ralph Cudworth (1617 - 1688). The group also included Benjamin…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/aristotle-categories/",
-      "publishedAt": "2026-10-08T01:15:34.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/cambridge-platonists/",
+      "publishedAt": "2026-10-09T01:32:20.000Z"
     },
     {
-      "id": "d443078c306dc34c",
+      "id": "89fe42d966f8e8b3",
       "topic": "cosmos",
       "title": "NASA Science",
-      "summary": "Have you ever seen a complete auroral oval? You can't see one from the ground because it makes too large a circle around one of Earth's magnetic poles. But spacecraft high above the Earth can see them. The featured video from ESA and CAS's robotic SMILE spacecraft shows not only a full auroral oval, but using ultraviolet light, one that occurred during the…",
+      "summary": "How was the Saturn system imaged so clearly? Astrophotographer Tom Williams captured such exquisite details due to one night of exceptional atmospheric conditions above the United Kingdom. This means more than a cloudless sky. Pockets of air at different temperatures and densities move around and bend light as it travels through Earth’s atmosphere,…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap261006.html",
-      "publishedAt": "2026-10-06T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap261008.html",
+      "publishedAt": "2026-10-08T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
     "world-bank",
-    "pubmed"
+    "pubmed",
+    "nasa-apod"
   ]
 }
