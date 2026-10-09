@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-10-09",
-  "generatedAt": "2026-10-08T21:17:13.266Z",
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-09T20:51:32.194Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "5f093164bcf2c852",
-    "topic": "philosophy",
-    "title": "The Cambridge Platonists",
-    "summary": "[Revised entry by Sarah Hutton on October 8, 2026. Changes to: Main text, Bibliography] The Cambridge Platonists were a cluster of English seventeenth-century thinkers associated with the University of Cambridge. The most important philosophers among them were Henry More (1614 - 1687) and Ralph Cudworth (1617 - 1688). The group also included Benjamin…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/cambridge-platonists/",
-    "publishedAt": "2026-10-09T01:32:20.000Z"
+    "id": "a7ee5f6f17083e42",
+    "topic": "technology",
+    "title": "NIST Joins White House Effort to Drive ‘A New Golden Age of Science’",
+    "summary": "As the nation’s lead agency for measurement science and standards, NIST is uniquely positioned to bridge the distance between fundamental discovery and industrial capability.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/nist-joins-white-house-effort-drive-new-golden-age-science",
+    "publishedAt": "2026-10-08T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -63,7 +63,6 @@
     "nist",
     "sep",
     "world-bank",
-    "pubmed",
-    "nasa-apod"
+    "pubmed"
   ]
 }
