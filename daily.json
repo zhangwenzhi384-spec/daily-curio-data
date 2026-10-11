@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-10T20:02:20.294Z",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-11T20:13:39.413Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "49ae5b9f1d9b2654",
-    "topic": "biology",
-    "title": "Gut microbiota and metabolic characteristics in PWHIV with metabolic dysfunction-associated steatotic liver disease (MASLD).",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42834659/",
-    "publishedAt": ""
+    "id": "1adb5b728ee229ed",
+    "topic": "philosophy",
+    "title": "Metaphysical Explanation",
+    "summary": "[Revised entry by Andrew Brenner, Anna-Sofia Maurin, Alexander Skiles, Robin Stenwall, and Naomi Thompson on October 5, 2026. Changes to: Main text, Bibliography] Explanation comes in many forms. Scientific explanations typically concern the natural world, and typically proceed by citing causes of natural phenomena or subsuming them under empirical laws in…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/metaphysical-explanation/",
+    "publishedAt": "2026-10-06T04:32:42.000Z"
   },
   "digest": [
     {
@@ -62,7 +62,6 @@
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
     "pubmed"
   ]
 }

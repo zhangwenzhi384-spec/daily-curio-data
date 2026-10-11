@@ -1,5 +1,6 @@
 {
   "seen": [
+    "1adb5b728ee229ed",
     "49ae5b9f1d9b2654",
     "a7ee5f6f17083e42",
     "5f093164bcf2c852",
@@ -72,6 +73,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-12",
+      "id": "1adb5b728ee229ed",
+      "sourceUrl": "https://plato.stanford.edu/entries/metaphysical-explanation/"
+    },
     {
       "date": "2026-10-11",
       "id": "49ae5b9f1d9b2654",
