@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-11T20:13:39.413Z",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-12T22:56:02.563Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "1adb5b728ee229ed",
-    "topic": "philosophy",
-    "title": "Metaphysical Explanation",
-    "summary": "[Revised entry by Andrew Brenner, Anna-Sofia Maurin, Alexander Skiles, Robin Stenwall, and Naomi Thompson on October 5, 2026. Changes to: Main text, Bibliography] Explanation comes in many forms. Scientific explanations typically concern the natural world, and typically proceed by citing causes of natural phenomena or subsuming them under empirical laws in…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/metaphysical-explanation/",
-    "publishedAt": "2026-10-06T04:32:42.000Z"
+    "id": "8f1decab0296b603",
+    "topic": "technology",
+    "title": "NIST Study Shows How the Toxic Substances Mixed Into Fentanyl Vary Across the U.S. and Change Over Time",
+    "summary": "Alerting first responders and law enforcement to the presence of these dangerous chemicals in local supplies of fentanyl can help save lives.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/nist-study-shows-how-toxic-substances-mixed-fentanyl-vary-across-us-and",
+    "publishedAt": "2026-10-08T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "b9ed39b8df84cdc8",
+      "id": "c4a14ef28eba6e28",
       "topic": "economy",
-      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
-      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
+      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
-      "publishedAt": "2025-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
+      "publishedAt": "2024-12-31T00:00:00.000Z"
     },
     {
       "id": "a7ee5f6f17083e42",
@@ -62,6 +62,7 @@
   "sourcesOnline": [
     "nist",
     "sep",
+    "world-bank",
     "pubmed"
   ]
 }
