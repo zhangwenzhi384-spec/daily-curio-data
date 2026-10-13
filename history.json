@@ -1,5 +1,6 @@
 {
   "seen": [
+    "8d91bf7d9a5d3443",
     "8f1decab0296b603",
     "1adb5b728ee229ed",
     "49ae5b9f1d9b2654",
@@ -74,6 +75,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-14",
+      "id": "8d91bf7d9a5d3443",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/physicist-jun-ye-wins-wolf-prize-physics"
+    },
     {
       "date": "2026-10-13",
       "id": "8f1decab0296b603",
