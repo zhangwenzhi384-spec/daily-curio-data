@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-10-14",
-  "generatedAt": "2026-10-13T21:12:53.587Z",
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-14T20:10:59.503Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "8d91bf7d9a5d3443",
-    "topic": "technology",
-    "title": "Physicist Jun Ye Wins Wolf Prize in Physics",
-    "summary": "The award cites Ye’s achievement in “transformative, widely applicable advances in the control of ultracold atomic systems.”",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/physicist-jun-ye-wins-wolf-prize-physics",
-    "publishedAt": "2026-10-05T12:00:00.000Z"
+    "id": "b1ac227e90f1610a",
+    "topic": "philosophy",
+    "title": "Mill’s Moral and Political Philosophy",
+    "summary": "[Revised entry by David Brink on October 4, 2026. Changes to: Main text, notes.html] John Stuart Mill (1806 - 1873) was the most famous and influential British philosopher of the nineteenth century. He was one of the last systematic philosophers, making significant contributions in logic, metaphysics, epistemology, ethics, political philosophy, and social…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/mill-moral-political/",
+    "publishedAt": "2026-10-05T05:12:18.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {

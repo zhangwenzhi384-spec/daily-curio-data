@@ -1,5 +1,6 @@
 {
   "seen": [
+    "b1ac227e90f1610a",
     "8d91bf7d9a5d3443",
     "8f1decab0296b603",
     "1adb5b728ee229ed",
@@ -75,6 +76,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-15",
+      "id": "b1ac227e90f1610a",
+      "sourceUrl": "https://plato.stanford.edu/entries/mill-moral-political/"
+    },
     {
       "date": "2026-10-14",
       "id": "8d91bf7d9a5d3443",
