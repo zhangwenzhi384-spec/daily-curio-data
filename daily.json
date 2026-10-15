@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-10-15",
-  "generatedAt": "2026-10-14T20:10:59.503Z",
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-15T19:51:48.788Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "b1ac227e90f1610a",
-    "topic": "philosophy",
-    "title": "Mill’s Moral and Political Philosophy",
-    "summary": "[Revised entry by David Brink on October 4, 2026. Changes to: Main text, notes.html] John Stuart Mill (1806 - 1873) was the most famous and influential British philosopher of the nineteenth century. He was one of the last systematic philosophers, making significant contributions in logic, metaphysics, epistemology, ethics, political philosophy, and social…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/mill-moral-political/",
-    "publishedAt": "2026-10-05T05:12:18.000Z"
+    "id": "45d6434523a37e45",
+    "topic": "biology",
+    "title": "PCR and molecular diagnostics: Biotechnologic integration in clinical laboratories.",
+    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
+    "sourceName": "NIH · PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42586250/",
+    "publishedAt": ""
   },
   "digest": [
     {
-      "id": "37dbadf5bf452e08",
+      "id": "b9ed39b8df84cdc8",
       "topic": "economy",
-      "title": "全球人口的最新记录：2025 年 82.15 亿人",
-      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
+      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,13 +41,13 @@
       "publishedAt": ""
     },
     {
-      "id": "5f093164bcf2c852",
+      "id": "34d85124c1fe9057",
       "topic": "philosophy",
-      "title": "The Cambridge Platonists",
-      "summary": "[Revised entry by Sarah Hutton on October 8, 2026. Changes to: Main text, Bibliography] The Cambridge Platonists were a cluster of English seventeenth-century thinkers associated with the University of Cambridge. The most important philosophers among them were Henry More (1614 - 1687) and Ralph Cudworth (1617 - 1688). The group also included Benjamin…",
+      "title": "Feminist Perspectives on Rape",
+      "summary": "[Revised entry by Rebecca Whisnant on October 15, 2026. Changes to: Main text, Bibliography] Although the proper definition of 'rape' is itself a matter of some dispute, rape is generally understood to involve sexual penetration of a person by force and/or without that person's consent. Rape is committed overwhelmingly by men and boys, usually against women…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/cambridge-platonists/",
-      "publishedAt": "2026-10-09T01:32:20.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/feminism-rape/",
+      "publishedAt": "2026-10-16T02:16:07.000Z"
     },
     {
       "id": "89fe42d966f8e8b3",
