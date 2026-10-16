@@ -1,5 +1,6 @@
 {
   "seen": [
+    "cfc0c9d7de4d72cb",
     "45d6434523a37e45",
     "b1ac227e90f1610a",
     "8d91bf7d9a5d3443",
@@ -77,6 +78,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-17",
+      "id": "cfc0c9d7de4d72cb",
+      "sourceUrl": "https://plato.stanford.edu/entries/feminist-social-epistemology/"
+    },
     {
       "date": "2026-10-16",
       "id": "45d6434523a37e45",
