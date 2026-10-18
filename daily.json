@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-10-18",
-  "generatedAt": "2026-10-17T18:27:34.068Z",
+  "date": "2026-10-19",
+  "generatedAt": "2026-10-18T18:37:05.704Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "435e50c94682f0b0",
-    "topic": "cosmos",
-    "title": "NASA Science",
-    "summary": "Put on your red/blue glasses and float next to the jagged and double-lobed nucleus of Churyumov-Gerasimenko, also known as Comet 67P . The stereo anaglyph was created by combining two images from the Rosetta spacecraft's narrow angle OSIRIS camera taken on July 25, 2015 from a distance of 184 kilometers. Numerous jets are emanating from the small solar…",
-    "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap261017.html",
-    "publishedAt": "2026-10-17T05:00:00.000Z"
+    "id": "795ac492675c1e82",
+    "topic": "philosophy",
+    "title": "Academic Freedom",
+    "summary": "[New Entry by Jacob T. Levy on October 17, 2026.] The organizational form that came to be called \"universities\" developed over the course of the 11th - 13th centuries in western Europe. From an early date they differed from other forms of educational institutions such as cathedral schools by virtue of their corporate self-governance, a degree of…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/academic-freedom/",
+    "publishedAt": "2026-10-18T02:32:32.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
       "id": "8a15440ad451903b",
@@ -32,22 +32,22 @@
       "publishedAt": "2026-10-16T12:00:00.000Z"
     },
     {
-      "id": "49ae5b9f1d9b2654",
+      "id": "b7a3e768e7ea1e41",
       "topic": "biology",
-      "title": "Gut microbiota and metabolic characteristics in PWHIV with metabolic dysfunction-associated steatotic liver disease (MASLD).",
+      "title": "Trait-like proteomic signatures of stress resilience: correlates of freeze-like response resistance.",
       "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
       "sourceName": "NIH · PubMed",
-      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42834659/",
+      "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892707/",
       "publishedAt": ""
     },
     {
-      "id": "cfc0c9d7de4d72cb",
+      "id": "795ac492675c1e82",
       "topic": "philosophy",
-      "title": "Feminist Social Epistemology",
-      "summary": "[Revised entry by Heidi Grasswick on October 16, 2026. Changes to: Main text, Bibliography] Many of the significant contributors to the continually developing field of social epistemology have been feminist epistemologists, theorists who investigate the role of gender and other social identity markers within the practices of knowledge production. Motivated…",
+      "title": "Academic Freedom",
+      "summary": "[New Entry by Jacob T. Levy on October 17, 2026.] The organizational form that came to be called \"universities\" developed over the course of the 11th - 13th centuries in western Europe. From an early date they differed from other forms of educational institutions such as cathedral schools by virtue of their corporate self-governance, a degree of…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/feminist-social-epistemology/",
-      "publishedAt": "2026-10-17T02:35:52.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/academic-freedom/",
+      "publishedAt": "2026-10-18T02:32:32.000Z"
     },
     {
       "id": "435e50c94682f0b0",
@@ -63,7 +63,6 @@
     "nist",
     "sep",
     "world-bank",
-    "pubmed",
-    "nasa-apod"
+    "pubmed"
   ]
 }

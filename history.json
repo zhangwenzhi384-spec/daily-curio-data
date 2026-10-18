@@ -1,5 +1,6 @@
 {
   "seen": [
+    "795ac492675c1e82",
     "435e50c94682f0b0",
     "cfc0c9d7de4d72cb",
     "45d6434523a37e45",
@@ -79,6 +80,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-19",
+      "id": "795ac492675c1e82",
+      "sourceUrl": "https://plato.stanford.edu/entries/academic-freedom/"
+    },
     {
       "date": "2026-10-18",
       "id": "435e50c94682f0b0",
