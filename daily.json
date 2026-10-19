@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-10-19",
-  "generatedAt": "2026-10-18T18:37:05.704Z",
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-19T21:01:37.344Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "795ac492675c1e82",
-    "topic": "philosophy",
-    "title": "Academic Freedom",
-    "summary": "[New Entry by Jacob T. Levy on October 17, 2026.] The organizational form that came to be called \"universities\" developed over the course of the 11th - 13th centuries in western Europe. From an early date they differed from other forms of educational institutions such as cathedral schools by virtue of their corporate self-governance, a degree of…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/academic-freedom/",
-    "publishedAt": "2026-10-18T02:32:32.000Z"
+    "id": "8a15440ad451903b",
+    "topic": "technology",
+    "title": "New Chip-Based ‘Tape Measure’ for Light Could Revolutionize Mobile Timekeeping and Enhance National Security",
+    "summary": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
+    "publishedAt": "2026-10-16T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {

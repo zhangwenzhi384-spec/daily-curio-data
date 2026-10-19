@@ -1,5 +1,6 @@
 {
   "seen": [
+    "8a15440ad451903b",
     "795ac492675c1e82",
     "435e50c94682f0b0",
     "cfc0c9d7de4d72cb",
@@ -80,6 +81,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-20",
+      "id": "8a15440ad451903b",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping"
+    },
     {
       "date": "2026-10-19",
       "id": "795ac492675c1e82",
