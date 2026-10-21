@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-10-21",
-  "generatedAt": "2026-10-20T19:58:55.363Z",
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-21T20:07:29.195Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "b7a3e768e7ea1e41",
-    "topic": "biology",
-    "title": "Trait-like proteomic signatures of stress resilience: correlates of freeze-like response resistance.",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42892707/",
-    "publishedAt": ""
+    "id": "2d4efaed49f9069f",
+    "topic": "philosophy",
+    "title": "Locke’s Moral Philosophy",
+    "summary": "[Revised entry by Patricia Sheridan on October 20, 2026. Changes to: Main text, Bibliography] Locke's greatest philosophical work, An Essay Concerning Human Understanding, is generally seen as a defining work of seventeenth-century empiricist epistemology and metaphysics. The moral philosophy developed in this work is rarely taken up for critical analysis,…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/locke-moral/",
+    "publishedAt": "2026-10-20T23:49:21.000Z"
   },
   "digest": [
     {
@@ -62,7 +62,6 @@
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
     "pubmed"
   ]
 }
