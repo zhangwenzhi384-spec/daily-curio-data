@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-22T20:04:51.145Z",
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-23T19:56:19.814Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "2caef66791e21beb",
-    "topic": "philosophy",
-    "title": "Epistemology of Artificial Intelligence",
-    "summary": "[New Entry by Claus Beisbart on October 16, 2026.] Artificial intelligence (AI) is increasingly being used to obtain knowledge and understanding. For example, it is employed to detect objects in images, make predictions, examine mathematical conjectures, and infer causal connections. Indeed, over the last few years, many people have become accustomed to…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/epistemology-ai/",
-    "publishedAt": "2026-10-17T00:29:34.000Z"
+    "id": "118d61921a5260b6",
+    "topic": "cosmos",
+    "title": "NASA Science",
+    "summary": "Looking toward the north from Mullion, New South Wales, Australia, the Andromeda Galaxy never gets more than a few degrees above the horizon. During the southern hemisphere spring, Andromeda is highest in the sky around midnight though. And in this telephoto scene from October 10/11, multiple exposures were used to reveal the spiral galaxy in tantalizing…",
+    "sourceName": "NASA · Astronomy Picture of the Day",
+    "sourceUrl": "https://apod.nasa.gov/apod/ap261023.html",
+    "publishedAt": "2026-10-23T05:00:00.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
       "id": "8a15440ad451903b",
@@ -41,28 +41,29 @@
       "publishedAt": ""
     },
     {
-      "id": "2d4efaed49f9069f",
+      "id": "0a8a9a96a6d82784",
       "topic": "philosophy",
-      "title": "Locke’s Moral Philosophy",
-      "summary": "[Revised entry by Patricia Sheridan on October 20, 2026. Changes to: Main text, Bibliography] Locke's greatest philosophical work, An Essay Concerning Human Understanding, is generally seen as a defining work of seventeenth-century empiricist epistemology and metaphysics. The moral philosophy developed in this work is rarely taken up for critical analysis,…",
+      "title": "Kant’s Transcendental Arguments",
+      "summary": "[Revised entry by Derk Pereboom on October 22, 2026. Changes to: Main text, Bibliography] Among Immanuel Kant's (1724 - 1804) most influential contributions to philosophy is his development of the transcendental argument. In Kant's conception, an argument of this kind begins with a compelling premise about our thought, experience, or knowledge, and then…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/locke-moral/",
-      "publishedAt": "2026-10-20T23:49:21.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/kant-transcendental/",
+      "publishedAt": "2026-10-23T04:55:04.000Z"
     },
     {
-      "id": "435e50c94682f0b0",
+      "id": "118d61921a5260b6",
       "topic": "cosmos",
       "title": "NASA Science",
-      "summary": "Put on your red/blue glasses and float next to the jagged and double-lobed nucleus of Churyumov-Gerasimenko, also known as Comet 67P . The stereo anaglyph was created by combining two images from the Rosetta spacecraft's narrow angle OSIRIS camera taken on July 25, 2015 from a distance of 184 kilometers. Numerous jets are emanating from the small solar…",
+      "summary": "Looking toward the north from Mullion, New South Wales, Australia, the Andromeda Galaxy never gets more than a few degrees above the horizon. During the southern hemisphere spring, Andromeda is highest in the sky around midnight though. And in this telephoto scene from October 10/11, multiple exposures were used to reveal the spiral galaxy in tantalizing…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap261017.html",
-      "publishedAt": "2026-10-17T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap261023.html",
+      "publishedAt": "2026-10-23T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
     "world-bank",
-    "pubmed"
+    "pubmed",
+    "nasa-apod"
   ]
 }
