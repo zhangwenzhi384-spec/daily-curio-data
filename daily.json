@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-10-24",
-  "generatedAt": "2026-10-23T19:56:19.814Z",
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-24T18:45:56.577Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "118d61921a5260b6",
-    "topic": "cosmos",
-    "title": "NASA Science",
-    "summary": "Looking toward the north from Mullion, New South Wales, Australia, the Andromeda Galaxy never gets more than a few degrees above the horizon. During the southern hemisphere spring, Andromeda is highest in the sky around midnight though. And in this telephoto scene from October 10/11, multiple exposures were used to reveal the spiral galaxy in tantalizing…",
-    "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap261023.html",
-    "publishedAt": "2026-10-23T05:00:00.000Z"
+    "id": "0a8a9a96a6d82784",
+    "topic": "philosophy",
+    "title": "Kant’s Transcendental Arguments",
+    "summary": "[Revised entry by Derk Pereboom on October 24, 2026. Changes to: Main text, Bibliography] Among Immanuel Kant's (1724 - 1804) most influential contributions to philosophy is his development of the transcendental argument. In Kant's conception, an argument of this kind begins with a compelling premise about our thought, experience, or knowledge, and then…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/kant-transcendental/",
+    "publishedAt": "2026-10-25T01:07:48.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -44,10 +44,10 @@
       "id": "0a8a9a96a6d82784",
       "topic": "philosophy",
       "title": "Kant’s Transcendental Arguments",
-      "summary": "[Revised entry by Derk Pereboom on October 22, 2026. Changes to: Main text, Bibliography] Among Immanuel Kant's (1724 - 1804) most influential contributions to philosophy is his development of the transcendental argument. In Kant's conception, an argument of this kind begins with a compelling premise about our thought, experience, or knowledge, and then…",
+      "summary": "[Revised entry by Derk Pereboom on October 24, 2026. Changes to: Main text, Bibliography] Among Immanuel Kant's (1724 - 1804) most influential contributions to philosophy is his development of the transcendental argument. In Kant's conception, an argument of this kind begins with a compelling premise about our thought, experience, or knowledge, and then…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
       "sourceUrl": "https://plato.stanford.edu/entries/kant-transcendental/",
-      "publishedAt": "2026-10-23T04:55:04.000Z"
+      "publishedAt": "2026-10-25T01:07:48.000Z"
     },
     {
       "id": "118d61921a5260b6",
@@ -63,7 +63,6 @@
     "nist",
     "sep",
     "world-bank",
-    "pubmed",
-    "nasa-apod"
+    "pubmed"
   ]
 }

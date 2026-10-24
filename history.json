@@ -1,5 +1,6 @@
 {
   "seen": [
+    "0a8a9a96a6d82784",
     "118d61921a5260b6",
     "2caef66791e21beb",
     "2d4efaed49f9069f",
@@ -85,6 +86,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-25",
+      "id": "0a8a9a96a6d82784",
+      "sourceUrl": "https://plato.stanford.edu/entries/kant-transcendental/"
+    },
     {
       "date": "2026-10-24",
       "id": "118d61921a5260b6",
