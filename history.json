@@ -1,5 +1,6 @@
 {
   "seen": [
+    "f6b27f5494dfc239",
     "0b053acfc62f010c",
     "0a8a9a96a6d82784",
     "118d61921a5260b6",
@@ -87,6 +88,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-27",
+      "id": "f6b27f5494dfc239",
+      "sourceUrl": "https://plato.stanford.edu/entries/ibn-bajja/"
+    },
     {
       "date": "2026-10-26",
       "id": "0b053acfc62f010c",

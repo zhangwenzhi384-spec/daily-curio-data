@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-10-26",
-  "generatedAt": "2026-10-25T19:00:49.136Z",
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-26T21:00:02.161Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "0b053acfc62f010c",
-    "topic": "biology",
-    "title": "Molecular and environmental indicators of Listeria monocytogenes persistence in food processing facilities: a multi sector approach.",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42901679/",
-    "publishedAt": ""
+    "id": "f6b27f5494dfc239",
+    "topic": "philosophy",
+    "title": "Ibn Bâjja [Avempace]",
+    "summary": "[Revised entry by Josep Puig Montada on October 26, 2026. Changes to: Main text, Bibliography, notes.html] Philosophy in Al-Andalus developed later than in the East; it grew among Muslims and Jews, since both communities were nurtured by a common Arabic. The Muslim community was much larger and it defined the cultural space, a significant part of which was…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/ibn-bajja/",
+    "publishedAt": "2026-10-27T00:22:27.000Z"
   },
   "digest": [
     {
@@ -41,28 +41,27 @@
       "publishedAt": ""
     },
     {
-      "id": "0a8a9a96a6d82784",
+      "id": "f6b27f5494dfc239",
       "topic": "philosophy",
-      "title": "Kant’s Transcendental Arguments",
-      "summary": "[Revised entry by Derk Pereboom on October 24, 2026. Changes to: Main text, Bibliography] Among Immanuel Kant's (1724 - 1804) most influential contributions to philosophy is his development of the transcendental argument. In Kant's conception, an argument of this kind begins with a compelling premise about our thought, experience, or knowledge, and then…",
+      "title": "Ibn Bâjja [Avempace]",
+      "summary": "[Revised entry by Josep Puig Montada on October 26, 2026. Changes to: Main text, Bibliography, notes.html] Philosophy in Al-Andalus developed later than in the East; it grew among Muslims and Jews, since both communities were nurtured by a common Arabic. The Muslim community was much larger and it defined the cultural space, a significant part of which was…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/kant-transcendental/",
-      "publishedAt": "2026-10-25T01:07:48.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/ibn-bajja/",
+      "publishedAt": "2026-10-27T00:22:27.000Z"
     },
     {
-      "id": "2957e9a9657d18b1",
+      "id": "1f64f3810003863a",
       "topic": "cosmos",
       "title": "NASA Science",
-      "summary": "Is our universe haunted? It might look that way on this dark matter map. The gravity of unseen dark matter is the leading explanation for why galaxies rotate so fast, why galaxies orbit clusters so fast, why gravitational lenses so strongly deflect light, and how visible matter is distributed. The featured image from the American Museum of Natural History's…",
+      "summary": "The Great Nebula in Orion, an immense, nearby starbirth region, is one of the most famous of all astronomical nebulas. Here, glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away. In the featured deep image in assigned colors highlighted by emission in hydrogen, wisps and sheets of dust and…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap261025.html",
-      "publishedAt": "2026-10-25T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap261026.html",
+      "publishedAt": "2026-10-26T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
     "pubmed",
     "nasa-apod"
   ]
