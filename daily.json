@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-10-27",
-  "generatedAt": "2026-10-26T21:00:02.161Z",
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-27T20:40:21.562Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "f6b27f5494dfc239",
-    "topic": "philosophy",
-    "title": "Ibn Bâjja [Avempace]",
-    "summary": "[Revised entry by Josep Puig Montada on October 26, 2026. Changes to: Main text, Bibliography, notes.html] Philosophy in Al-Andalus developed later than in the East; it grew among Muslims and Jews, since both communities were nurtured by a common Arabic. The Muslim community was much larger and it defined the cultural space, a significant part of which was…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/ibn-bajja/",
-    "publishedAt": "2026-10-27T00:22:27.000Z"
+    "id": "02949f2655923588",
+    "topic": "cosmos",
+    "title": "NASA Science",
+    "summary": "Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises up from the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark. Normally too…",
+    "sourceName": "NASA · Astronomy Picture of the Day",
+    "sourceUrl": "https://apod.nasa.gov/apod/ap261027.html",
+    "publishedAt": "2026-10-27T05:00:00.000Z"
   },
   "digest": [
     {
-      "id": "b9ed39b8df84cdc8",
+      "id": "c4a14ef28eba6e28",
       "topic": "economy",
-      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
-      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
+      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
-      "publishedAt": "2025-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
+      "publishedAt": "2024-12-31T00:00:00.000Z"
     },
     {
-      "id": "8a15440ad451903b",
+      "id": "f1e62dad2dadab10",
       "topic": "technology",
-      "title": "New Chip-Based ‘Tape Measure’ for Light Could Revolutionize Mobile Timekeeping and Enhance National Security",
-      "summary": "The new device could help provide vital navigation signals when GPS is either unavailable or has been jammed.",
+      "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+      "summary": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing their quantum-readiness road maps.",
       "sourceName": "NIST",
-      "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/new-chip-based-tape-measure-light-could-revolutionize-mobile-timekeeping",
-      "publishedAt": "2026-10-16T12:00:00.000Z"
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+      "publishedAt": "2026-10-27T12:00:00.000Z"
     },
     {
       "id": "b7a3e768e7ea1e41",
@@ -50,18 +50,19 @@
       "publishedAt": "2026-10-27T00:22:27.000Z"
     },
     {
-      "id": "1f64f3810003863a",
+      "id": "02949f2655923588",
       "topic": "cosmos",
       "title": "NASA Science",
-      "summary": "The Great Nebula in Orion, an immense, nearby starbirth region, is one of the most famous of all astronomical nebulas. Here, glowing gas surrounds hot young stars at the edge of an immense interstellar molecular cloud only 1500 light-years away. In the featured deep image in assigned colors highlighted by emission in hydrogen, wisps and sheets of dust and…",
+      "summary": "Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises up from the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark. Normally too…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap261026.html",
-      "publishedAt": "2026-10-26T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap261027.html",
+      "publishedAt": "2026-10-27T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
+    "world-bank",
     "pubmed",
     "nasa-apod"
   ]
