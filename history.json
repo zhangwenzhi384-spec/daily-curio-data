@@ -1,5 +1,6 @@
 {
   "seen": [
+    "8f104f2336823a45",
     "02949f2655923588",
     "f6b27f5494dfc239",
     "0b053acfc62f010c",
@@ -89,6 +90,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-29",
+      "id": "8f104f2336823a45",
+      "sourceUrl": "https://plato.stanford.edu/entries/meaning-holism/"
+    },
     {
       "date": "2026-10-28",
       "id": "02949f2655923588",

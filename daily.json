@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-27T20:40:21.562Z",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-28T21:01:00.450Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "02949f2655923588",
-    "topic": "cosmos",
-    "title": "NASA Science",
-    "summary": "Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises up from the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark. Normally too…",
-    "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap261027.html",
-    "publishedAt": "2026-10-27T05:00:00.000Z"
+    "id": "8f104f2336823a45",
+    "topic": "philosophy",
+    "title": "Meaning Holism",
+    "summary": "[Revised entry by Henry Jackman on October 28, 2026. Changes to: Main text, Bibliography] The term \"meaning holism\" is generally applied to views that treat the meanings of all of the words in a language as interdependent. Holism draws much of its appeal from the way in which the usage of all our words seems interconnected, and runs into many problems…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/meaning-holism/",
+    "publishedAt": "2026-10-28T23:13:17.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
       "id": "f1e62dad2dadab10",
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "f6b27f5494dfc239",
+      "id": "8f104f2336823a45",
       "topic": "philosophy",
-      "title": "Ibn Bâjja [Avempace]",
-      "summary": "[Revised entry by Josep Puig Montada on October 26, 2026. Changes to: Main text, Bibliography, notes.html] Philosophy in Al-Andalus developed later than in the East; it grew among Muslims and Jews, since both communities were nurtured by a common Arabic. The Muslim community was much larger and it defined the cultural space, a significant part of which was…",
+      "title": "Meaning Holism",
+      "summary": "[Revised entry by Henry Jackman on October 28, 2026. Changes to: Main text, Bibliography] The term \"meaning holism\" is generally applied to views that treat the meanings of all of the words in a language as interdependent. Holism draws much of its appeal from the way in which the usage of all our words seems interconnected, and runs into many problems…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/ibn-bajja/",
-      "publishedAt": "2026-10-27T00:22:27.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/meaning-holism/",
+      "publishedAt": "2026-10-28T23:13:17.000Z"
     },
     {
-      "id": "02949f2655923588",
+      "id": "4f9a7a0c0dfe7cc1",
       "topic": "cosmos",
       "title": "NASA Science",
-      "summary": "Sometimes it's night on the ground but day in the air. As the Earth rotates to eclipse the Sun, sunset rises up from the ground. Therefore, at sunset on the ground, sunlight still shines on clouds above. Under usual circumstances, a pretty sunset might be visible, but unusual noctilucent clouds float so high up they can be seen well after dark. Normally too…",
+      "summary": "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 vide",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap261027.html",
-      "publishedAt": "2026-10-27T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap261028.html",
+      "publishedAt": "2026-10-28T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
