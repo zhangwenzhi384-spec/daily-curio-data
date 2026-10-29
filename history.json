@@ -1,5 +1,6 @@
 {
   "seen": [
+    "f1e62dad2dadab10",
     "8f104f2336823a45",
     "02949f2655923588",
     "f6b27f5494dfc239",
@@ -90,6 +91,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-10-30",
+      "id": "f1e62dad2dadab10",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography"
+    },
     {
       "date": "2026-10-29",
       "id": "8f104f2336823a45",

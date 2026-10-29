@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-10-29",
-  "generatedAt": "2026-10-28T21:01:00.450Z",
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-29T21:06:03.023Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "8f104f2336823a45",
-    "topic": "philosophy",
-    "title": "Meaning Holism",
-    "summary": "[Revised entry by Henry Jackman on October 28, 2026. Changes to: Main text, Bibliography] The term \"meaning holism\" is generally applied to views that treat the meanings of all of the words in a language as interdependent. Holism draws much of its appeal from the way in which the usage of all our words seems interconnected, and runs into many problems…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/meaning-holism/",
-    "publishedAt": "2026-10-28T23:13:17.000Z"
+    "id": "f1e62dad2dadab10",
+    "topic": "technology",
+    "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+    "summary": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing their quantum-readiness road maps.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
+    "publishedAt": "2026-10-27T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,13 +41,13 @@
       "publishedAt": ""
     },
     {
-      "id": "8f104f2336823a45",
+      "id": "553f6701a40cc3d4",
       "topic": "philosophy",
-      "title": "Meaning Holism",
-      "summary": "[Revised entry by Henry Jackman on October 28, 2026. Changes to: Main text, Bibliography] The term \"meaning holism\" is generally applied to views that treat the meanings of all of the words in a language as interdependent. Holism draws much of its appeal from the way in which the usage of all our words seems interconnected, and runs into many problems…",
+      "title": "Narrow Mental Content",
+      "summary": "[Revised entry by Curtis Brown on October 29, 2026. Changes to: Main text, Bibliography] Narrow mental content is a kind of mental content that does not depend on an individual's environment. Narrow content contrasts with \"broad\" or \"wide\" content, which depends on features of the individual's environment as well as on features of the individual. It is…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/meaning-holism/",
-      "publishedAt": "2026-10-28T23:13:17.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/content-narrow/",
+      "publishedAt": "2026-10-30T00:11:04.000Z"
     },
     {
       "id": "4f9a7a0c0dfe7cc1",
@@ -63,7 +63,6 @@
     "nist",
     "sep",
     "world-bank",
-    "pubmed",
-    "nasa-apod"
+    "pubmed"
   ]
 }
