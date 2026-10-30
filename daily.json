@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-10-30",
-  "generatedAt": "2026-10-29T21:06:03.023Z",
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-30T20:44:35.937Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "f1e62dad2dadab10",
-    "topic": "technology",
-    "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
-    "summary": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing their quantum-readiness road maps.",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
-    "publishedAt": "2026-10-27T12:00:00.000Z"
+    "id": "062806282b55a3fd",
+    "topic": "biology",
+    "title": "Microbial succession and genome-resolved metabolic functions shape flavor evolution during sauce-flavor Baijiu fermentation.",
+    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
+    "sourceName": "NIH · PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42901678/",
+    "publishedAt": ""
   },
   "digest": [
     {
-      "id": "37dbadf5bf452e08",
+      "id": "b9ed39b8df84cdc8",
       "topic": "economy",
-      "title": "全球人口的最新记录：2025 年 82.15 亿人",
-      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
+      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,13 +41,13 @@
       "publishedAt": ""
     },
     {
-      "id": "553f6701a40cc3d4",
+      "id": "891b59486efa280a",
       "topic": "philosophy",
-      "title": "Narrow Mental Content",
-      "summary": "[Revised entry by Curtis Brown on October 29, 2026. Changes to: Main text, Bibliography] Narrow mental content is a kind of mental content that does not depend on an individual's environment. Narrow content contrasts with \"broad\" or \"wide\" content, which depends on features of the individual's environment as well as on features of the individual. It is…",
+      "title": "Consequentializing",
+      "summary": "[Revised entry by Douglas W. Portmore on October 30, 2026. Changes to: Main text, Bibliography] Act-consequentialism is one of today's leading moral theories. Broadly construed, it holds that the ultimate right-making feature of an act is that its outcome is not evaluatively outranked by that of any available alternative. To evaluatively rank (hereafter,…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/content-narrow/",
-      "publishedAt": "2026-10-30T00:11:04.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/consequentializing/",
+      "publishedAt": "2026-10-30T10:22:51.000Z"
     },
     {
       "id": "4f9a7a0c0dfe7cc1",
