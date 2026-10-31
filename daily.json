@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-10-31",
-  "generatedAt": "2026-10-30T20:44:35.937Z",
+  "date": "2026-11-01",
+  "generatedAt": "2026-10-31T19:57:04.220Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "062806282b55a3fd",
-    "topic": "biology",
-    "title": "Microbial succession and genome-resolved metabolic functions shape flavor evolution during sauce-flavor Baijiu fermentation.",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42901678/",
-    "publishedAt": ""
+    "id": "9482dce84d6db56f",
+    "topic": "philosophy",
+    "title": "Philosophy of Linguistics",
+    "summary": "[Revised entry by Barbara C. Scholz, Francis Jeffry Pelletier, Geoffrey K. Pullum, and Ryan Nefdt on October 30, 2026. Changes to: Main text] Philosophy of linguistics is the philosophy of science as applied to linguistics. This differentiates it sharply from the philosophy of language, traditionally concerned with matters of meaning and reference. As with…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/linguistics/",
+    "publishedAt": "2026-10-31T05:40:32.000Z"
   },
   "digest": [
     {
@@ -41,13 +41,13 @@
       "publishedAt": ""
     },
     {
-      "id": "891b59486efa280a",
+      "id": "9482dce84d6db56f",
       "topic": "philosophy",
-      "title": "Consequentializing",
-      "summary": "[Revised entry by Douglas W. Portmore on October 30, 2026. Changes to: Main text, Bibliography] Act-consequentialism is one of today's leading moral theories. Broadly construed, it holds that the ultimate right-making feature of an act is that its outcome is not evaluatively outranked by that of any available alternative. To evaluatively rank (hereafter,…",
+      "title": "Philosophy of Linguistics",
+      "summary": "[Revised entry by Barbara C. Scholz, Francis Jeffry Pelletier, Geoffrey K. Pullum, and Ryan Nefdt on October 30, 2026. Changes to: Main text] Philosophy of linguistics is the philosophy of science as applied to linguistics. This differentiates it sharply from the philosophy of language, traditionally concerned with matters of meaning and reference. As with…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/consequentializing/",
-      "publishedAt": "2026-10-30T10:22:51.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/linguistics/",
+      "publishedAt": "2026-10-31T05:40:32.000Z"
     },
     {
       "id": "4f9a7a0c0dfe7cc1",
@@ -62,7 +62,6 @@
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
     "pubmed"
   ]
 }

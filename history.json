@@ -1,5 +1,6 @@
 {
   "seen": [
+    "9482dce84d6db56f",
     "062806282b55a3fd",
     "f1e62dad2dadab10",
     "8f104f2336823a45",
@@ -92,6 +93,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-01",
+      "id": "9482dce84d6db56f",
+      "sourceUrl": "https://plato.stanford.edu/entries/linguistics/"
+    },
     {
       "date": "2026-10-31",
       "id": "062806282b55a3fd",
