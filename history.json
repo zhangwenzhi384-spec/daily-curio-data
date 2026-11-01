@@ -1,5 +1,6 @@
 {
   "seen": [
+    "891b59486efa280a",
     "9482dce84d6db56f",
     "062806282b55a3fd",
     "f1e62dad2dadab10",
@@ -93,6 +94,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-02",
+      "id": "891b59486efa280a",
+      "sourceUrl": "https://plato.stanford.edu/entries/consequentializing/"
+    },
     {
       "date": "2026-11-01",
       "id": "9482dce84d6db56f",
