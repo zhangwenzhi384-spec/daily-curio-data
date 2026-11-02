@@ -1,5 +1,6 @@
 {
   "seen": [
+    "beb919276143333d",
     "891b59486efa280a",
     "9482dce84d6db56f",
     "062806282b55a3fd",
@@ -94,6 +95,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-03",
+      "id": "beb919276143333d",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you"
+    },
     {
       "date": "2026-11-02",
       "id": "891b59486efa280a",

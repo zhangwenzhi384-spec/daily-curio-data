@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-01T20:28:09.560Z",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-02T23:28:18.337Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "891b59486efa280a",
-    "topic": "philosophy",
-    "title": "Consequentializing",
-    "summary": "[Revised entry by Douglas W. Portmore on October 30, 2026. Changes to: Main text, Bibliography] Act-consequentialism is one of today's leading moral theories. Broadly construed, it holds that the ultimate right-making feature of an act is that its outcome is not evaluatively outranked by that of any available alternative. To evaluatively rank (hereafter,…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/consequentializing/",
-    "publishedAt": "2026-10-30T10:22:51.000Z"
+    "id": "beb919276143333d",
+    "topic": "technology",
+    "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+    "summary": "The guide is designed to help solopreneurs prioritize and implement a selection of actions from the NIST Cybersecurity Framework that would best help their businesses.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+    "publishedAt": "2026-11-02T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
-      "id": "f1e62dad2dadab10",
+      "id": "beb919276143333d",
       "topic": "technology",
-      "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
-      "summary": "This report describes the timelines and migration activities for federal agencies, and it can serve as a key resource for technology providers and organizations that are developing their quantum-readiness road maps.",
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "summary": "The guide is designed to help solopreneurs prioritize and implement a selection of actions from the NIST Cybersecurity Framework that would best help their businesses.",
       "sourceName": "NIST",
-      "sourceUrl": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography",
-      "publishedAt": "2026-10-27T12:00:00.000Z"
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "publishedAt": "2026-11-02T12:00:00.000Z"
     },
     {
       "id": "b7a3e768e7ea1e41",
