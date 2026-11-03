@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-11-03",
-  "generatedAt": "2026-11-02T23:28:18.337Z",
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-03T21:44:25.705Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "beb919276143333d",
-    "topic": "technology",
-    "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-    "summary": "The guide is designed to help solopreneurs prioritize and implement a selection of actions from the NIST Cybersecurity Framework that would best help their businesses.",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-    "publishedAt": "2026-11-02T12:00:00.000Z"
+    "id": "508ed9c7f0a2e391",
+    "topic": "cosmos",
+    "title": "NASA Science",
+    "summary": "Did this meteor come from that comet? Probably not. Although many meteors do originate from comets, there are thousands of comets that have visited the inner Solar System recently, and matching meteors to them can be tricky. And to be clear, the pictured comet is far behind the streaking meteor. Comet C/2025 R3 (PanSTARRS) was captured from Hautacam, France…",
+    "sourceName": "NASA · Astronomy Picture of the Day",
+    "sourceUrl": "https://apod.nasa.gov/apod/ap261103.html",
+    "publishedAt": "2026-11-03T05:00:00.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -50,19 +50,20 @@
       "publishedAt": "2026-10-31T05:40:32.000Z"
     },
     {
-      "id": "4f9a7a0c0dfe7cc1",
+      "id": "508ed9c7f0a2e391",
       "topic": "cosmos",
       "title": "NASA Science",
-      "summary": "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 vide",
+      "summary": "Did this meteor come from that comet? Probably not. Although many meteors do originate from comets, there are thousands of comets that have visited the inner Solar System recently, and matching meteors to them can be tricky. And to be clear, the pictured comet is far behind the streaking meteor. Comet C/2025 R3 (PanSTARRS) was captured from Hautacam, France…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap261028.html",
-      "publishedAt": "2026-10-28T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap261103.html",
+      "publishedAt": "2026-11-03T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
     "world-bank",
-    "pubmed"
+    "pubmed",
+    "nasa-apod"
   ]
 }
