@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-03T21:44:25.705Z",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-04T21:50:54.348Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "508ed9c7f0a2e391",
-    "topic": "cosmos",
-    "title": "NASA Science",
-    "summary": "Did this meteor come from that comet? Probably not. Although many meteors do originate from comets, there are thousands of comets that have visited the inner Solar System recently, and matching meteors to them can be tricky. And to be clear, the pictured comet is far behind the streaking meteor. Comet C/2025 R3 (PanSTARRS) was captured from Hautacam, France…",
-    "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap261103.html",
-    "publishedAt": "2026-11-03T05:00:00.000Z"
+    "id": "fe8a4820cc6c3ecd",
+    "topic": "biology",
+    "title": "Effects of indigenous microbiota in fresh produce on Salmonella survival and inactivation by oregano essential oil vapor.",
+    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
+    "sourceName": "NIH · PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42901677/",
+    "publishedAt": ""
   },
   "digest": [
     {
-      "id": "37dbadf5bf452e08",
+      "id": "b9ed39b8df84cdc8",
       "topic": "economy",
-      "title": "全球人口的最新记录：2025 年 82.15 亿人",
-      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
+      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,22 +41,22 @@
       "publishedAt": ""
     },
     {
-      "id": "9482dce84d6db56f",
+      "id": "85a1a10d7eb98416",
       "topic": "philosophy",
-      "title": "Philosophy of Linguistics",
-      "summary": "[Revised entry by Barbara C. Scholz, Francis Jeffry Pelletier, Geoffrey K. Pullum, and Ryan Nefdt on October 30, 2026. Changes to: Main text] Philosophy of linguistics is the philosophy of science as applied to linguistics. This differentiates it sharply from the philosophy of language, traditionally concerned with matters of meaning and reference. As with…",
+      "title": "Ayn Rand",
+      "summary": "[Revised entry by Neera K. Badhwar and Roderick T. Long on November 4, 2026. Changes to: Main text, Bibliography, notes.html] Ayn Rand (1905 - 1982) was a novelist-philosopher who outlined a comprehensive philosophy, including an epistemology and a theory of art, in her novels and essays. Early in her career she also wrote short stories, plays, and…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/linguistics/",
-      "publishedAt": "2026-10-31T05:40:32.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/ayn-rand/",
+      "publishedAt": "2026-11-04T23:51:05.000Z"
     },
     {
-      "id": "508ed9c7f0a2e391",
+      "id": "64d3922b59d72b4f",
       "topic": "cosmos",
       "title": "NASA Science",
-      "summary": "Did this meteor come from that comet? Probably not. Although many meteors do originate from comets, there are thousands of comets that have visited the inner Solar System recently, and matching meteors to them can be tricky. And to be clear, the pictured comet is far behind the streaking meteor. Comet C/2025 R3 (PanSTARRS) was captured from Hautacam, France…",
+      "summary": "“I see” IC 342, the Hidden Galaxy! Today’s image peers through the plane of the Milky Way, through all its gas, dust and stars, to unveil this spiral galaxy. IC 342 (or Caldwell 5) is one of the brightest members of the IC 342/Maffei group of galaxies. Located about 10 million light years away, this group is quite close to the Local Group that includes our…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap261103.html",
-      "publishedAt": "2026-11-03T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap261104.html",
+      "publishedAt": "2026-11-04T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
