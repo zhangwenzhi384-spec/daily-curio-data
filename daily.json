@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-11-05",
-  "generatedAt": "2026-11-04T21:50:54.348Z",
+  "date": "2026-11-06",
+  "generatedAt": "2026-11-05T21:58:01.902Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "fe8a4820cc6c3ecd",
-    "topic": "biology",
-    "title": "Effects of indigenous microbiota in fresh produce on Salmonella survival and inactivation by oregano essential oil vapor.",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42901677/",
-    "publishedAt": ""
+    "id": "cdc6b0471c6115f6",
+    "topic": "philosophy",
+    "title": "Herbert Spencer",
+    "summary": "[Revised entry by David Weinstein on November 5, 2026. Changes to: Main text, Bibliography, notes.html] Herbert Spencer (1820 - 1903) is typically, though quite wrongly, considered a coarse social Darwinist. After all, Spencer, and not Darwin, coined the infamous expression \"survival of the fittest\", leading G. E. Moore to conclude erroneously in Principia…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/spencer/",
+    "publishedAt": "2026-11-06T04:44:18.000Z"
   },
   "digest": [
     {
@@ -41,28 +41,27 @@
       "publishedAt": ""
     },
     {
-      "id": "85a1a10d7eb98416",
+      "id": "cdc6b0471c6115f6",
       "topic": "philosophy",
-      "title": "Ayn Rand",
-      "summary": "[Revised entry by Neera K. Badhwar and Roderick T. Long on November 4, 2026. Changes to: Main text, Bibliography, notes.html] Ayn Rand (1905 - 1982) was a novelist-philosopher who outlined a comprehensive philosophy, including an epistemology and a theory of art, in her novels and essays. Early in her career she also wrote short stories, plays, and…",
+      "title": "Herbert Spencer",
+      "summary": "[Revised entry by David Weinstein on November 5, 2026. Changes to: Main text, Bibliography, notes.html] Herbert Spencer (1820 - 1903) is typically, though quite wrongly, considered a coarse social Darwinist. After all, Spencer, and not Darwin, coined the infamous expression \"survival of the fittest\", leading G. E. Moore to conclude erroneously in Principia…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/ayn-rand/",
-      "publishedAt": "2026-11-04T23:51:05.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/spencer/",
+      "publishedAt": "2026-11-06T04:44:18.000Z"
     },
     {
-      "id": "64d3922b59d72b4f",
+      "id": "f2062c34336a514c",
       "topic": "cosmos",
       "title": "NASA Science",
-      "summary": "“I see” IC 342, the Hidden Galaxy! Today’s image peers through the plane of the Milky Way, through all its gas, dust and stars, to unveil this spiral galaxy. IC 342 (or Caldwell 5) is one of the brightest members of the IC 342/Maffei group of galaxies. Located about 10 million light years away, this group is quite close to the Local Group that includes our…",
+      "summary": "One of our Solar System's most tantalizing worlds, Enceladus is backlit by the Sun in this Cassini spacecraft image from November 1, 2009. The dramatic illumination reveals the plumes that continuously spew into space from the south pole of Saturn's 500 kilometer diameter moon. Discovered by Cassini in 2005, the icy plumes are likely connected to an ocean…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap261104.html",
-      "publishedAt": "2026-11-04T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap261105.html",
+      "publishedAt": "2026-11-05T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
     "pubmed",
     "nasa-apod"
   ]

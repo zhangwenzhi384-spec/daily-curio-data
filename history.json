@@ -1,5 +1,6 @@
 {
   "seen": [
+    "cdc6b0471c6115f6",
     "fe8a4820cc6c3ecd",
     "508ed9c7f0a2e391",
     "beb919276143333d",
@@ -97,6 +98,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-06",
+      "id": "cdc6b0471c6115f6",
+      "sourceUrl": "https://plato.stanford.edu/entries/spencer/"
+    },
     {
       "date": "2026-11-05",
       "id": "fe8a4820cc6c3ecd",
