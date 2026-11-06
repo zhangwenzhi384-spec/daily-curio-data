@@ -1,5 +1,6 @@
 {
   "seen": [
+    "b02633cd866a23f9",
     "cdc6b0471c6115f6",
     "fe8a4820cc6c3ecd",
     "508ed9c7f0a2e391",
@@ -98,6 +99,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-07",
+      "id": "b02633cd866a23f9",
+      "sourceUrl": "https://plato.stanford.edu/entries/emotion-Christian-tradition/"
+    },
     {
       "date": "2026-11-06",
       "id": "cdc6b0471c6115f6",
