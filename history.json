@@ -1,5 +1,6 @@
 {
   "seen": [
+    "4c17e4f2d3fea45f",
     "b02633cd866a23f9",
     "cdc6b0471c6115f6",
     "fe8a4820cc6c3ecd",
@@ -99,6 +100,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-08",
+      "id": "4c17e4f2d3fea45f",
+      "sourceUrl": "https://plato.stanford.edu/entries/bioethics-moral-reasoning/"
+    },
     {
       "date": "2026-11-07",
       "id": "b02633cd866a23f9",

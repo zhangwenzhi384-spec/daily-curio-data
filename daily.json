@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-11-07",
-  "generatedAt": "2026-11-06T21:28:02.931Z",
+  "date": "2026-11-08",
+  "generatedAt": "2026-11-07T20:12:39.709Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "b02633cd866a23f9",
+    "id": "4c17e4f2d3fea45f",
     "topic": "philosophy",
-    "title": "Emotions in the Christian Tradition",
-    "summary": "[Revised entry by Robert Roberts and Adam Pelser on November 6, 2026. Changes to: Main text, Bibliography] This article discusses several interrelated questions that philosophers, theologians, and psychologists address about religious emotions. Do they have some essence? Is there one emotion-type that warrants the title \"religious,\" or are there many…",
+    "title": "Bioethics and Moral Reasoning",
+    "summary": "[New Entry by Jennifer Flynn on November 5, 2026.] [Editor's Note: The following entry replaces and is based on the former entry titled Theory and Bioethics.] Bioethics refers to a branch of applied ethics that examines the...",
     "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/emotion-Christian-tradition/",
-    "publishedAt": "2026-11-07T00:40:32.000Z"
+    "sourceUrl": "https://plato.stanford.edu/entries/bioethics-moral-reasoning/",
+    "publishedAt": "2026-11-06T02:10:57.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
       "id": "beb919276143333d",
