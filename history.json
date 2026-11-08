@@ -1,5 +1,6 @@
 {
   "seen": [
+    "ae026761ac95277a",
     "4c17e4f2d3fea45f",
     "b02633cd866a23f9",
     "cdc6b0471c6115f6",
@@ -100,6 +101,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-09",
+      "id": "ae026761ac95277a",
+      "sourceUrl": "https://plato.stanford.edu/entries/berlin/"
+    },
     {
       "date": "2026-11-08",
       "id": "4c17e4f2d3fea45f",

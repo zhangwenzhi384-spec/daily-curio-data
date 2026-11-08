@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-11-08",
-  "generatedAt": "2026-11-07T20:12:39.709Z",
+  "date": "2026-11-09",
+  "generatedAt": "2026-11-08T20:27:16.954Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "4c17e4f2d3fea45f",
+    "id": "ae026761ac95277a",
     "topic": "philosophy",
-    "title": "Bioethics and Moral Reasoning",
-    "summary": "[New Entry by Jennifer Flynn on November 5, 2026.] [Editor's Note: The following entry replaces and is based on the former entry titled Theory and Bioethics.] Bioethics refers to a branch of applied ethics that examines the...",
+    "title": "Isaiah Berlin",
+    "summary": "[Revised entry by Joshua L. Cherniss and Henry Hardy on November 8, 2026. Changes to: Main text, Bibliography, notes.html] Isaiah Berlin (1909 - 97) was a naturalised British philosopher, historian of ideas, political theorist, educator, public intellectual and moralist, and essayist. He was renowned for his conversational brilliance, his defence of…",
     "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/bioethics-moral-reasoning/",
-    "publishedAt": "2026-11-06T02:10:57.000Z"
+    "sourceUrl": "https://plato.stanford.edu/entries/berlin/",
+    "publishedAt": "2026-11-09T03:26:12.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,28 +41,29 @@
       "publishedAt": ""
     },
     {
-      "id": "b02633cd866a23f9",
+      "id": "ae026761ac95277a",
       "topic": "philosophy",
-      "title": "Emotions in the Christian Tradition",
-      "summary": "[Revised entry by Robert Roberts and Adam Pelser on November 6, 2026. Changes to: Main text, Bibliography] This article discusses several interrelated questions that philosophers, theologians, and psychologists address about religious emotions. Do they have some essence? Is there one emotion-type that warrants the title \"religious,\" or are there many…",
+      "title": "Isaiah Berlin",
+      "summary": "[Revised entry by Joshua L. Cherniss and Henry Hardy on November 8, 2026. Changes to: Main text, Bibliography, notes.html] Isaiah Berlin (1909 - 97) was a naturalised British philosopher, historian of ideas, political theorist, educator, public intellectual and moralist, and essayist. He was renowned for his conversational brilliance, his defence of…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/emotion-Christian-tradition/",
-      "publishedAt": "2026-11-07T00:40:32.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/berlin/",
+      "publishedAt": "2026-11-09T03:26:12.000Z"
     },
     {
-      "id": "f2062c34336a514c",
+      "id": "f30ef10d1f9ec116",
       "topic": "cosmos",
       "title": "NASA Science",
-      "summary": "One of our Solar System's most tantalizing worlds, Enceladus is backlit by the Sun in this Cassini spacecraft image from November 1, 2009. The dramatic illumination reveals the plumes that continuously spew into space from the south pole of Saturn's 500 kilometer diameter moon. Discovered by Cassini in 2005, the icy plumes are likely connected to an ocean…",
+      "summary": "The sky glows with soft pinkish colors of fading twilight in this serendipitous mountaintop vista. Taken in subfreezing temperatures, the thoughtfully composed photo shows snowy, rugged peaks seen from a mountain pass on 2017 November 14. Below lies the village of La Villa, Alta Badia in Italy's Dolomite Alps. Above the nestled village lights, the…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap261105.html",
-      "publishedAt": "2026-11-05T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap261108.html",
+      "publishedAt": "2026-11-08T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
     "world-bank",
-    "pubmed"
+    "pubmed",
+    "nasa-apod"
   ]
 }
