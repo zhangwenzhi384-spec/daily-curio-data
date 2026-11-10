@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T00:13:59.330Z",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-10T21:47:18.774Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "c1fda445715cf636",
-    "topic": "biology",
-    "title": "Multi-omics and functional validation profiling reveals the regulatory mechanism of biofilm-forming Tetragenococcus halophilus JY1 in response to salt tolerance.",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/42901676/",
-    "publishedAt": ""
+    "id": "d2e208e1cb48b9ae",
+    "topic": "philosophy",
+    "title": "Porphyry",
+    "summary": "[Revised entry by Riccardo Chiaradonna and Eyjólfur Emilsson on November 10, 2026. Changes to: Main text, Bibliography] Porphyry (234? - 305? C.E.) was a Neoplatonist philosopher, born in Tyre in Phoenicia. He studied with Longinus in Athens and then, from 263 to 268 C.E., with Plotinus in Rome, whose version of Platonism he adopted. Although he wrote on…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/porphyry/",
+    "publishedAt": "2026-11-10T11:07:29.000Z"
   },
   "digest": [
     {
@@ -41,13 +41,13 @@
       "publishedAt": ""
     },
     {
-      "id": "8d4c4cfaf7867f88",
+      "id": "d2e208e1cb48b9ae",
       "topic": "philosophy",
-      "title": "Aristotle’s Psychology",
-      "summary": "[Revised entry by Christopher Shields on November 9, 2026. Changes to: Main text, Bibliography, notes.html, psychic-mereology.html] Judged in terms of its content, Aristotle's principal work in psychology, De Anima (On the Soul), likely dates to his most mature period: it reflects his most sophisticated physical and metaphysical theory; it makes free use of…",
+      "title": "Porphyry",
+      "summary": "[Revised entry by Riccardo Chiaradonna and Eyjólfur Emilsson on November 10, 2026. Changes to: Main text, Bibliography] Porphyry (234? - 305? C.E.) was a Neoplatonist philosopher, born in Tyre in Phoenicia. He studied with Longinus in Athens and then, from 263 to 268 C.E., with Plotinus in Rome, whose version of Platonism he adopted. Although he wrote on…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/aristotle-psychology/",
-      "publishedAt": "2026-11-10T01:10:33.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/porphyry/",
+      "publishedAt": "2026-11-10T11:07:29.000Z"
     },
     {
       "id": "f30ef10d1f9ec116",
@@ -62,7 +62,6 @@
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
     "pubmed"
   ]
 }

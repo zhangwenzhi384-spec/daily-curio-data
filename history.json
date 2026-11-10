@@ -1,5 +1,6 @@
 {
   "seen": [
+    "d2e208e1cb48b9ae",
     "c1fda445715cf636",
     "ae026761ac95277a",
     "4c17e4f2d3fea45f",
@@ -102,6 +103,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-11",
+      "id": "d2e208e1cb48b9ae",
+      "sourceUrl": "https://plato.stanford.edu/entries/porphyry/"
+    },
     {
       "date": "2026-11-10",
       "id": "c1fda445715cf636",
