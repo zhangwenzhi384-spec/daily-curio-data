@@ -1,5 +1,6 @@
 {
   "seen": [
+    "b326283f7a8125e1",
     "8d4c4cfaf7867f88",
     "d2e208e1cb48b9ae",
     "c1fda445715cf636",
@@ -104,6 +105,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-13",
+      "id": "b326283f7a8125e1",
+      "sourceUrl": "https://plato.stanford.edu/entries/saadya/"
+    },
     {
       "date": "2026-11-12",
       "id": "8d4c4cfaf7867f88",

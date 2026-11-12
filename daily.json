@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-11T22:40:06.388Z",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-12T22:13:42.188Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "8d4c4cfaf7867f88",
+    "id": "b326283f7a8125e1",
     "topic": "philosophy",
-    "title": "Aristotle’s Psychology",
-    "summary": "[Revised entry by Christopher Shields on November 9, 2026. Changes to: Main text, Bibliography, notes.html, psychic-mereology.html] Judged in terms of its content, Aristotle's principal work in psychology, De Anima (On the Soul), likely dates to his most mature period: it reflects his most sophisticated physical and metaphysical theory; it makes free use of…",
+    "title": "Saadya [Saadiah]",
+    "summary": "[New Entry by Gyongyi Hegedus on November 12, 2026.] [Editor's Note: The following new entry by Gyongyi Hegedus replaces the former entry on this topic by the previous author.]...",
     "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/aristotle-psychology/",
-    "publishedAt": "2026-11-10T01:10:33.000Z"
+    "sourceUrl": "https://plato.stanford.edu/entries/saadya/",
+    "publishedAt": "2026-11-12T23:27:01.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
       "id": "beb919276143333d",
@@ -41,13 +41,13 @@
       "publishedAt": ""
     },
     {
-      "id": "d2e208e1cb48b9ae",
+      "id": "b326283f7a8125e1",
       "topic": "philosophy",
-      "title": "Porphyry",
-      "summary": "[Revised entry by Riccardo Chiaradonna and Eyjólfur Emilsson on November 10, 2026. Changes to: Main text, Bibliography] Porphyry (234? - 305? C.E.) was a Neoplatonist philosopher, born in Tyre in Phoenicia. He studied with Longinus in Athens and then, from 263 to 268 C.E., with Plotinus in Rome, whose version of Platonism he adopted. Although he wrote on…",
+      "title": "Saadya [Saadiah]",
+      "summary": "[New Entry by Gyongyi Hegedus on November 12, 2026.] [Editor's Note: The following new entry by Gyongyi Hegedus replaces the former entry on this topic by the previous author.]...",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/porphyry/",
-      "publishedAt": "2026-11-10T11:07:29.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/saadya/",
+      "publishedAt": "2026-11-12T23:27:01.000Z"
     },
     {
       "id": "f30ef10d1f9ec116",
