@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-12T22:13:42.188Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-13T21:57:15.340Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "b326283f7a8125e1",
-    "topic": "philosophy",
-    "title": "Saadya [Saadiah]",
-    "summary": "[New Entry by Gyongyi Hegedus on November 12, 2026.] [Editor's Note: The following new entry by Gyongyi Hegedus replaces the former entry on this topic by the previous author.]...",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/saadya/",
-    "publishedAt": "2026-11-12T23:27:01.000Z"
+    "id": "23543e7202659b3a",
+    "topic": "cosmos",
+    "title": "NASA Science",
+    "summary": "The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's…",
+    "sourceName": "NASA · Astronomy Picture of the Day",
+    "sourceUrl": "https://apod.nasa.gov/apod/ap261113.html",
+    "publishedAt": "2026-11-13T05:00:00.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -50,19 +50,20 @@
       "publishedAt": "2026-11-12T23:27:01.000Z"
     },
     {
-      "id": "f30ef10d1f9ec116",
+      "id": "23543e7202659b3a",
       "topic": "cosmos",
       "title": "NASA Science",
-      "summary": "The sky glows with soft pinkish colors of fading twilight in this serendipitous mountaintop vista. Taken in subfreezing temperatures, the thoughtfully composed photo shows snowy, rugged peaks seen from a mountain pass on 2017 November 14. Below lies the village of La Villa, Alta Badia in Italy's Dolomite Alps. Above the nestled village lights, the…",
+      "summary": "The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap261108.html",
-      "publishedAt": "2026-11-08T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap261113.html",
+      "publishedAt": "2026-11-13T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
     "world-bank",
-    "pubmed"
+    "pubmed",
+    "nasa-apod"
   ]
 }
