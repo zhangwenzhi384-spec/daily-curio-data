@@ -1,5 +1,6 @@
 {
   "seen": [
+    "ed71d8c91d7064b3",
     "23543e7202659b3a",
     "b326283f7a8125e1",
     "8d4c4cfaf7867f88",
@@ -106,6 +107,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-15",
+      "id": "ed71d8c91d7064b3",
+      "sourceUrl": "https://plato.stanford.edu/entries/self-knowledge/"
+    },
     {
       "date": "2026-11-14",
       "id": "23543e7202659b3a",
