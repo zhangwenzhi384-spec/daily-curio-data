@@ -1,5 +1,6 @@
 {
   "seen": [
+    "c6c8a6e0e180e1ed",
     "ed71d8c91d7064b3",
     "23543e7202659b3a",
     "b326283f7a8125e1",
@@ -107,6 +108,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-16",
+      "id": "c6c8a6e0e180e1ed",
+      "sourceUrl": "https://plato.stanford.edu/entries/argument/"
+    },
     {
       "date": "2026-11-15",
       "id": "ed71d8c91d7064b3",
