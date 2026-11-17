@@ -1,5 +1,6 @@
 {
   "seen": [
+    "58ad0be308f595de",
     "c6c8a6e0e180e1ed",
     "ed71d8c91d7064b3",
     "23543e7202659b3a",
@@ -108,6 +109,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-17",
+      "id": "58ad0be308f595de",
+      "sourceUrl": "https://plato.stanford.edu/entries/horkheimer/"
+    },
     {
       "date": "2026-11-16",
       "id": "c6c8a6e0e180e1ed",
