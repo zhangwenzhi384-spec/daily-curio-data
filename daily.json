@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-11-17",
-  "generatedAt": "2026-11-17T00:12:42.234Z",
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-17T23:29:21.521Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "58ad0be308f595de",
+    "id": "f039a4794b028425",
     "topic": "philosophy",
-    "title": "Max Horkheimer",
-    "summary": "[Revised entry by J.C. Berendzen on November 16, 2026. Changes to: Bibliography] Max Horkheimer (1895 - 1973) was a leader of the \"Frankfurt School,\" a group of philosophers and social scientists associated with the Institut fur Sozialforschung (Institute of Social Research) in Frankfurt am Main. Horkheimer was the director of the Institute and Professor of…",
+    "title": "Incompatibilist (Nondeterministic) Theories of Free Will",
+    "summary": "[Revised entry by Randolph Clarke, Justin Capes, and Philip Swenson on November 17, 2026. Changes to: Main text, Bibliography] Incompatibilists hold that free will and determinism are mutually exclusive and, consequently, that we act freely (i.e., with free will) only if determinism is false. However, they disagree amongst themselves about what else,…",
     "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/horkheimer/",
-    "publishedAt": "2026-11-16T14:19:31.000Z"
+    "sourceUrl": "https://plato.stanford.edu/entries/incompatibilism-theories/",
+    "publishedAt": "2026-11-18T01:57:30.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
       "id": "beb919276143333d",
@@ -41,13 +41,13 @@
       "publishedAt": ""
     },
     {
-      "id": "58ad0be308f595de",
+      "id": "f039a4794b028425",
       "topic": "philosophy",
-      "title": "Max Horkheimer",
-      "summary": "[Revised entry by J.C. Berendzen on November 16, 2026. Changes to: Bibliography] Max Horkheimer (1895 - 1973) was a leader of the \"Frankfurt School,\" a group of philosophers and social scientists associated with the Institut fur Sozialforschung (Institute of Social Research) in Frankfurt am Main. Horkheimer was the director of the Institute and Professor of…",
+      "title": "Incompatibilist (Nondeterministic) Theories of Free Will",
+      "summary": "[Revised entry by Randolph Clarke, Justin Capes, and Philip Swenson on November 17, 2026. Changes to: Main text, Bibliography] Incompatibilists hold that free will and determinism are mutually exclusive and, consequently, that we act freely (i.e., with free will) only if determinism is false. However, they disagree amongst themselves about what else,…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/horkheimer/",
-      "publishedAt": "2026-11-16T14:19:31.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/incompatibilism-theories/",
+      "publishedAt": "2026-11-18T01:57:30.000Z"
     },
     {
       "id": "23543e7202659b3a",

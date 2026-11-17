@@ -1,5 +1,6 @@
 {
   "seen": [
+    "f039a4794b028425",
     "58ad0be308f595de",
     "c6c8a6e0e180e1ed",
     "ed71d8c91d7064b3",
@@ -109,6 +110,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-18",
+      "id": "f039a4794b028425",
+      "sourceUrl": "https://plato.stanford.edu/entries/incompatibilism-theories/"
+    },
     {
       "date": "2026-11-17",
       "id": "58ad0be308f595de",
