@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-17T23:29:21.521Z",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-18T22:55:59.704Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "f039a4794b028425",
-    "topic": "philosophy",
-    "title": "Incompatibilist (Nondeterministic) Theories of Free Will",
-    "summary": "[Revised entry by Randolph Clarke, Justin Capes, and Philip Swenson on November 17, 2026. Changes to: Main text, Bibliography] Incompatibilists hold that free will and determinism are mutually exclusive and, consequently, that we act freely (i.e., with free will) only if determinism is false. However, they disagree amongst themselves about what else,…",
-    "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/incompatibilism-theories/",
-    "publishedAt": "2026-11-18T01:57:30.000Z"
+    "id": "fe7d8a74781fc0e7",
+    "topic": "technology",
+    "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
+    "summary": "The technique offers the potential to protect infrastructure, safeguard financial institutions and prevent phishing.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
+    "publishedAt": "2026-11-18T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
-      "id": "beb919276143333d",
+      "id": "fe7d8a74781fc0e7",
       "topic": "technology",
-      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-      "summary": "The guide is designed to help solopreneurs prioritize and implement a selection of actions from the NIST Cybersecurity Framework that would best help their businesses.",
+      "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
+      "summary": "The technique offers the potential to protect infrastructure, safeguard financial institutions and prevent phishing.",
       "sourceName": "NIST",
-      "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-      "publishedAt": "2026-11-02T12:00:00.000Z"
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
+      "publishedAt": "2026-11-18T12:00:00.000Z"
     },
     {
       "id": "b7a3e768e7ea1e41",
@@ -41,13 +41,13 @@
       "publishedAt": ""
     },
     {
-      "id": "f039a4794b028425",
+      "id": "805438be0bc51196",
       "topic": "philosophy",
-      "title": "Incompatibilist (Nondeterministic) Theories of Free Will",
-      "summary": "[Revised entry by Randolph Clarke, Justin Capes, and Philip Swenson on November 17, 2026. Changes to: Main text, Bibliography] Incompatibilists hold that free will and determinism are mutually exclusive and, consequently, that we act freely (i.e., with free will) only if determinism is false. However, they disagree amongst themselves about what else,…",
+      "title": "Philosophy of History and Historiography",
+      "summary": "[New Entry by Jouni-Matti Kuukkanen on November 18, 2026.] [Editor's Note: The following new entry by Jouni-Matti Kuukkanen replaces the former entry on this topic by the previous author.]...",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/incompatibilism-theories/",
-      "publishedAt": "2026-11-18T01:57:30.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/history/",
+      "publishedAt": "2026-11-19T03:28:05.000Z"
     },
     {
       "id": "23543e7202659b3a",

@@ -1,5 +1,6 @@
 {
   "seen": [
+    "fe7d8a74781fc0e7",
     "f039a4794b028425",
     "58ad0be308f595de",
     "c6c8a6e0e180e1ed",
@@ -110,6 +111,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-19",
+      "id": "fe7d8a74781fc0e7",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show"
+    },
     {
       "date": "2026-11-18",
       "id": "f039a4794b028425",
