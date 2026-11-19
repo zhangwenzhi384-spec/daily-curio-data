@@ -1,35 +1,35 @@
 {
   "version": 1,
-  "date": "2026-11-19",
-  "generatedAt": "2026-11-18T22:55:59.704Z",
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-19T23:01:15.756Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "fe7d8a74781fc0e7",
-    "topic": "technology",
-    "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
-    "summary": "The technique offers the potential to protect infrastructure, safeguard financial institutions and prevent phishing.",
-    "sourceName": "NIST",
-    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
-    "publishedAt": "2026-11-18T12:00:00.000Z"
+    "id": "7ab7f3feb9eafebc",
+    "topic": "biology",
+    "title": "Micro-flow LC- drift tube IMS-MS with high-resolution demultiplexing for enhanced lipidome coverage of volume-limited biological samples.",
+    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
+    "sourceName": "NIH · PubMed",
+    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43019776/",
+    "publishedAt": ""
   },
   "digest": [
     {
-      "id": "37dbadf5bf452e08",
+      "id": "b9ed39b8df84cdc8",
       "topic": "economy",
-      "title": "全球人口的最新记录：2025 年 82.15 亿人",
-      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
+      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
+      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
-      "id": "fe7d8a74781fc0e7",
+      "id": "536fb2fb51d1c08a",
       "topic": "technology",
-      "title": "Quantum Physics Can Verify a Person’s Location, NIST Researchers Show",
-      "summary": "The technique offers the potential to protect infrastructure, safeguard financial institutions and prevent phishing.",
+      "title": "NIST Project Aims to Accelerate Mobile Driver’s License Adoption",
+      "summary": "Mobile driver’s licenses could help U.S. citizens do business more securely, but there are few ways to use them — an issue the project is designed to help address.",
       "sourceName": "NIST",
-      "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/quantum-physics-can-verify-persons-location-nist-researchers-show",
-      "publishedAt": "2026-11-18T12:00:00.000Z"
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption",
+      "publishedAt": "2026-11-19T12:00:00.000Z"
     },
     {
       "id": "b7a3e768e7ea1e41",
@@ -50,19 +50,20 @@
       "publishedAt": "2026-11-19T03:28:05.000Z"
     },
     {
-      "id": "23543e7202659b3a",
+      "id": "a756ed58200ff36f",
       "topic": "cosmos",
       "title": "NASA Science",
-      "summary": "The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's…",
+      "summary": "Today's image could have been a painting. But what do these colors mean? The brightest star, left of the center, is blue Alnitak (the Girdle): a triple star system best known for being the easternmost star in Orion's Belt. The instantly recognizable shape of a dark horse's head at the center is the aptly named Horsehead Nebula. It is about five light-years…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap261113.html",
-      "publishedAt": "2026-11-13T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap261119.html",
+      "publishedAt": "2026-11-19T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
     "world-bank",
-    "pubmed"
+    "pubmed",
+    "nasa-apod"
   ]
 }
