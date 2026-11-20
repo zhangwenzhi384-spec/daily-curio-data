@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-11-20",
-  "generatedAt": "2026-11-19T23:01:15.756Z",
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-20T22:39:07.770Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "7ab7f3feb9eafebc",
-    "topic": "biology",
-    "title": "Micro-flow LC- drift tube IMS-MS with high-resolution demultiplexing for enhanced lipidome coverage of volume-limited biological samples.",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43019776/",
-    "publishedAt": ""
+    "id": "c255816c66382ca6",
+    "topic": "philosophy",
+    "title": "Varieties of Modality",
+    "summary": "[Revised entry by Boris Kment on November 20, 2026. Changes to: Main text, Bibliography] Modal statements tell us something about what could be or must be the case. Such claims can come in many forms. Consider: No one can be both a bachelor and married. ('Bachelor' means 'unmarried man'.)...",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/modality-varieties/",
+    "publishedAt": "2026-11-21T03:05:26.000Z"
   },
   "digest": [
     {
@@ -41,13 +41,13 @@
       "publishedAt": ""
     },
     {
-      "id": "805438be0bc51196",
+      "id": "c255816c66382ca6",
       "topic": "philosophy",
-      "title": "Philosophy of History and Historiography",
-      "summary": "[New Entry by Jouni-Matti Kuukkanen on November 18, 2026.] [Editor's Note: The following new entry by Jouni-Matti Kuukkanen replaces the former entry on this topic by the previous author.]...",
+      "title": "Varieties of Modality",
+      "summary": "[Revised entry by Boris Kment on November 20, 2026. Changes to: Main text, Bibliography] Modal statements tell us something about what could be or must be the case. Such claims can come in many forms. Consider: No one can be both a bachelor and married. ('Bachelor' means 'unmarried man'.)...",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/history/",
-      "publishedAt": "2026-11-19T03:28:05.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/modality-varieties/",
+      "publishedAt": "2026-11-21T03:05:26.000Z"
     },
     {
       "id": "a756ed58200ff36f",
@@ -62,8 +62,6 @@
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
-    "pubmed",
-    "nasa-apod"
+    "pubmed"
   ]
 }
