@@ -1,5 +1,6 @@
 {
   "seen": [
+    "f23971c2709c1c80",
     "c255816c66382ca6",
     "7ab7f3feb9eafebc",
     "fe7d8a74781fc0e7",
@@ -113,6 +114,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-22",
+      "id": "f23971c2709c1c80",
+      "sourceUrl": "https://plato.stanford.edu/entries/embodied-cognition/"
+    },
     {
       "date": "2026-11-21",
       "id": "c255816c66382ca6",
