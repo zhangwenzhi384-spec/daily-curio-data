@@ -1,25 +1,25 @@
 {
   "version": 1,
-  "date": "2026-11-23",
-  "generatedAt": "2026-11-22T21:44:34.200Z",
+  "date": "2026-11-24",
+  "generatedAt": "2026-11-24T02:53:17.369Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "97d581707cb3ba43",
-    "topic": "cosmos",
-    "title": "NASA Science",
-    "summary": "What creates the colors in Jupiter's clouds? No one is sure. The thick atmosphere of Jupiter is mostly hydrogen and helium, elements which are colorless at the low temperatures of the Jovian cloud tops. Which trace molecules provide the colors remains a topic of research, although small amounts of ammonium hydrosulfide are one leading candidate. What is…",
-    "sourceName": "NASA · Astronomy Picture of the Day",
-    "sourceUrl": "https://apod.nasa.gov/apod/ap261122.html",
-    "publishedAt": "2026-11-22T05:00:00.000Z"
+    "id": "536fb2fb51d1c08a",
+    "topic": "technology",
+    "title": "NIST Project Aims to Accelerate Mobile Driver’s License Adoption",
+    "summary": "Mobile driver’s licenses could help U.S. citizens do business more securely, but there are few ways to use them — an issue the project is designed to help address.",
+    "sourceName": "NIST",
+    "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption",
+    "publishedAt": "2026-11-19T12:00:00.000Z"
   },
   "digest": [
     {
-      "id": "6f095f30744dc988",
+      "id": "37dbadf5bf452e08",
       "topic": "economy",
-      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
-      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球人口的最新记录：2025 年 82.15 亿人",
+      "summary": "这是世界银行全球指标（代码 SP.POP.TOTL）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "sourceUrl": "https://data.worldbank.org/indicator/SP.POP.TOTL",
       "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
@@ -41,13 +41,13 @@
       "publishedAt": ""
     },
     {
-      "id": "f23971c2709c1c80",
+      "id": "e8d8eddc28a9335d",
       "topic": "philosophy",
-      "title": "Embodied Cognition",
-      "summary": "[Revised entry by Lawrence Shapiro, Shannon Spaulding, and Guy Dove on November 21, 2026. Changes to: Main text, Bibliography] Embodied Cognition is a wide-ranging research program drawing from and inspiring work in psychology, neuroscience, ethology, philosophy, linguistics, robotics, and artificial intelligence. Whereas traditional cognitive science also…",
+      "title": "Deontic Logic",
+      "summary": "[Revised entry by Paul McNamara and Frederik Van De Putte on November 23, 2026. Changes to: Main text, Bibliography, fig-square-c.svg, fig-three-c.svg, figdesc.html, notes.html, supplement.html] Deontic logic[1] is a branch of logic that has been the most concerned with the contribution that the following sorts of notions make to what follows from what (or…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/embodied-cognition/",
-      "publishedAt": "2026-11-22T01:04:06.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/logic-deontic/",
+      "publishedAt": "2026-11-24T05:43:46.000Z"
     },
     {
       "id": "97d581707cb3ba43",
@@ -63,7 +63,6 @@
     "nist",
     "sep",
     "world-bank",
-    "pubmed",
-    "nasa-apod"
+    "pubmed"
   ]
 }

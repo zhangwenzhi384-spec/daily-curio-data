@@ -1,5 +1,6 @@
 {
   "seen": [
+    "536fb2fb51d1c08a",
     "97d581707cb3ba43",
     "f23971c2709c1c80",
     "c255816c66382ca6",
@@ -115,6 +116,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-24",
+      "id": "536fb2fb51d1c08a",
+      "sourceUrl": "https://www.nist.gov/news-events/news/2026/11/nist-project-aims-accelerate-mobile-drivers-license-adoption"
+    },
     {
       "date": "2026-11-23",
       "id": "97d581707cb3ba43",
