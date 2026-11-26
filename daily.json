@@ -1,16 +1,16 @@
 {
   "version": 1,
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T00:39:12.027Z",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T00:16:44.480Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "6f0ca3b95c9f49ff",
-    "topic": "biology",
-    "title": "Next-generation hyphenated analytical technologies in natural product research: From high-resolution separation and structural elucidation to dereplication, metabolomics and drug discovery.",
-    "summary": "来自 NIH PubMed 的最新生命科学文献索引。这里只展示论文题目与官方入口，不把论文标题夸大成已经确定的结论。",
-    "sourceName": "NIH · PubMed",
-    "sourceUrl": "https://pubmed.ncbi.nlm.nih.gov/43008372/",
-    "publishedAt": ""
+    "id": "5ed161b78d38a172",
+    "topic": "philosophy",
+    "title": "Rationalism vs. Empiricism",
+    "summary": "[Revised entry by Peter Markie and M. Folescu on November 25, 2026. Changes to: Main text, Bibliography] In its most general terms, the distinction between rationalism and empiricism has been taken to concern the extent to which we are dependent upon experience in our effort to gain knowledge of the external world. Experience includes both sense experience,…",
+    "sourceName": "Stanford Encyclopedia of Philosophy",
+    "sourceUrl": "https://plato.stanford.edu/entries/rationalism-empiricism/",
+    "publishedAt": "2026-11-26T04:32:47.000Z"
   },
   "digest": [
     {
@@ -41,28 +41,28 @@
       "publishedAt": ""
     },
     {
-      "id": "ae8616eb27851573",
+      "id": "5ed161b78d38a172",
       "topic": "philosophy",
-      "title": "Retributive Justice",
-      "summary": "[Revised entry by Leora Dahan-Katz and Alec Walen on November 24, 2026. Changes to: Main text, Bibliography, challenges.html] Retributive justice is best understood as the form of justice committed to the following three principles: that those who culpably commit certain kinds of wrongful acts, paradigmatically serious crimes, morally deserve to suffer…",
+      "title": "Rationalism vs. Empiricism",
+      "summary": "[Revised entry by Peter Markie and M. Folescu on November 25, 2026. Changes to: Main text, Bibliography] In its most general terms, the distinction between rationalism and empiricism has been taken to concern the extent to which we are dependent upon experience in our effort to gain knowledge of the external world. Experience includes both sense experience,…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/justice-retributive/",
-      "publishedAt": "2026-11-25T00:40:44.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/rationalism-empiricism/",
+      "publishedAt": "2026-11-26T04:32:47.000Z"
     },
     {
-      "id": "97d581707cb3ba43",
+      "id": "7f13b6b099af37ea",
       "topic": "cosmos",
       "title": "NASA Science",
-      "summary": "What creates the colors in Jupiter's clouds? No one is sure. The thick atmosphere of Jupiter is mostly hydrogen and helium, elements which are colorless at the low temperatures of the Jovian cloud tops. Which trace molecules provide the colors remains a topic of research, although small amounts of ammonium hydrosulfide are one leading candidate. What is…",
+      "summary": "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 vide",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap261122.html",
-      "publishedAt": "2026-11-22T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap261126.html",
+      "publishedAt": "2026-11-26T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
-    "world-bank",
-    "pubmed"
+    "pubmed",
+    "nasa-apod"
   ]
 }

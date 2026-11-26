@@ -1,5 +1,6 @@
 {
   "seen": [
+    "5ed161b78d38a172",
     "6f0ca3b95c9f49ff",
     "536fb2fb51d1c08a",
     "97d581707cb3ba43",
@@ -117,6 +118,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-26",
+      "id": "5ed161b78d38a172",
+      "sourceUrl": "https://plato.stanford.edu/entries/rationalism-empiricism/"
+    },
     {
       "date": "2026-11-25",
       "id": "6f0ca3b95c9f49ff",
