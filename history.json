@@ -1,5 +1,6 @@
 {
   "seen": [
+    "824bc9be5bc9cc19",
     "5ed161b78d38a172",
     "6f0ca3b95c9f49ff",
     "536fb2fb51d1c08a",
@@ -118,6 +119,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-27",
+      "id": "824bc9be5bc9cc19",
+      "sourceUrl": "https://plato.stanford.edu/entries/perception-contents/"
+    },
     {
       "date": "2026-11-26",
       "id": "5ed161b78d38a172",

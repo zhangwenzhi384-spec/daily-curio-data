@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-11-26",
-  "generatedAt": "2026-11-26T00:16:44.480Z",
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T00:33:11.105Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "5ed161b78d38a172",
+    "id": "824bc9be5bc9cc19",
     "topic": "philosophy",
-    "title": "Rationalism vs. Empiricism",
-    "summary": "[Revised entry by Peter Markie and M. Folescu on November 25, 2026. Changes to: Main text, Bibliography] In its most general terms, the distinction between rationalism and empiricism has been taken to concern the extent to which we are dependent upon experience in our effort to gain knowledge of the external world. Experience includes both sense experience,…",
+    "title": "The Contents of Perception",
+    "summary": "[Revised entry by Susanna Siegel on November 26, 2026. Changes to: Main text, Bibliography, supplement.html] In contemporary philosophy, the phrase 'the contents of perception' means, roughly, what is conveyed to the subject by her perceptual experience. For example, suppose you are looking into a piano at the array of hammers and strings. There will be a…",
     "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/rationalism-empiricism/",
-    "publishedAt": "2026-11-26T04:32:47.000Z"
+    "sourceUrl": "https://plato.stanford.edu/entries/perception-contents/",
+    "publishedAt": "2026-11-27T07:15:28.000Z"
   },
   "digest": [
     {
-      "id": "b9ed39b8df84cdc8",
+      "id": "c4a14ef28eba6e28",
       "topic": "economy",
-      "title": "全球互联网使用率的最新记录：2025 年 73.6%",
-      "summary": "这是世界银行全球指标（代码 IT.NET.USER.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
+      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/IT.NET.USER.ZS",
-      "publishedAt": "2025-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
+      "publishedAt": "2024-12-31T00:00:00.000Z"
     },
     {
       "id": "536fb2fb51d1c08a",
@@ -41,13 +41,13 @@
       "publishedAt": ""
     },
     {
-      "id": "5ed161b78d38a172",
+      "id": "824bc9be5bc9cc19",
       "topic": "philosophy",
-      "title": "Rationalism vs. Empiricism",
-      "summary": "[Revised entry by Peter Markie and M. Folescu on November 25, 2026. Changes to: Main text, Bibliography] In its most general terms, the distinction between rationalism and empiricism has been taken to concern the extent to which we are dependent upon experience in our effort to gain knowledge of the external world. Experience includes both sense experience,…",
+      "title": "The Contents of Perception",
+      "summary": "[Revised entry by Susanna Siegel on November 26, 2026. Changes to: Main text, Bibliography, supplement.html] In contemporary philosophy, the phrase 'the contents of perception' means, roughly, what is conveyed to the subject by her perceptual experience. For example, suppose you are looking into a piano at the array of hammers and strings. There will be a…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/rationalism-empiricism/",
-      "publishedAt": "2026-11-26T04:32:47.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/perception-contents/",
+      "publishedAt": "2026-11-27T07:15:28.000Z"
     },
     {
       "id": "7f13b6b099af37ea",
@@ -62,7 +62,7 @@
   "sourcesOnline": [
     "nist",
     "sep",
-    "pubmed",
-    "nasa-apod"
+    "world-bank",
+    "pubmed"
   ]
 }
