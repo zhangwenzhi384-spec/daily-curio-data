@@ -1,26 +1,26 @@
 {
   "version": 1,
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T00:33:11.105Z",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T00:01:10.057Z",
   "mode": "official-sources-no-paid-api-no-ai",
   "spotlight": {
-    "id": "824bc9be5bc9cc19",
+    "id": "f0861ba5535fdf96",
     "topic": "philosophy",
-    "title": "The Contents of Perception",
-    "summary": "[Revised entry by Susanna Siegel on November 26, 2026. Changes to: Main text, Bibliography, supplement.html] In contemporary philosophy, the phrase 'the contents of perception' means, roughly, what is conveyed to the subject by her perceptual experience. For example, suppose you are looking into a piano at the array of hammers and strings. There will be a…",
+    "title": "Carl Stumpf",
+    "summary": "[Revised entry by Denis Fisette on November 27, 2026. Changes to: Main text, Bibliography] The name Carl Friedrich Stumpf (1848 - 1936) is historically associated with one of the most important philosophical trends in the early twentieth century, phenomenology. Stumpf supervised Husserl's habilitation thesis in Halle in 1887 and the latter's seminal work on…",
     "sourceName": "Stanford Encyclopedia of Philosophy",
-    "sourceUrl": "https://plato.stanford.edu/entries/perception-contents/",
-    "publishedAt": "2026-11-27T07:15:28.000Z"
+    "sourceUrl": "https://plato.stanford.edu/entries/stumpf/",
+    "publishedAt": "2026-11-28T06:16:55.000Z"
   },
   "digest": [
     {
-      "id": "c4a14ef28eba6e28",
+      "id": "6f095f30744dc988",
       "topic": "economy",
-      "title": "全球通电人口比例的最新记录：2024 年 91.9%",
-      "summary": "这是世界银行全球指标（代码 EG.ELC.ACCS.ZS）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
+      "title": "全球 GDP（现价美元）的最新记录：2025 年 118.35 万亿美元",
+      "summary": "这是世界银行全球指标（代码 NY.GDP.MKTP.CD）目前返回的最近一个非空年度值。指标会随各国补报与统计修订而更新，点击原始数据页可核验定义与时间序列。",
       "sourceName": "World Bank Open Data",
-      "sourceUrl": "https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS",
-      "publishedAt": "2024-12-31T00:00:00.000Z"
+      "sourceUrl": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "publishedAt": "2025-12-31T00:00:00.000Z"
     },
     {
       "id": "536fb2fb51d1c08a",
@@ -41,28 +41,29 @@
       "publishedAt": ""
     },
     {
-      "id": "824bc9be5bc9cc19",
+      "id": "f0861ba5535fdf96",
       "topic": "philosophy",
-      "title": "The Contents of Perception",
-      "summary": "[Revised entry by Susanna Siegel on November 26, 2026. Changes to: Main text, Bibliography, supplement.html] In contemporary philosophy, the phrase 'the contents of perception' means, roughly, what is conveyed to the subject by her perceptual experience. For example, suppose you are looking into a piano at the array of hammers and strings. There will be a…",
+      "title": "Carl Stumpf",
+      "summary": "[Revised entry by Denis Fisette on November 27, 2026. Changes to: Main text, Bibliography] The name Carl Friedrich Stumpf (1848 - 1936) is historically associated with one of the most important philosophical trends in the early twentieth century, phenomenology. Stumpf supervised Husserl's habilitation thesis in Halle in 1887 and the latter's seminal work on…",
       "sourceName": "Stanford Encyclopedia of Philosophy",
-      "sourceUrl": "https://plato.stanford.edu/entries/perception-contents/",
-      "publishedAt": "2026-11-27T07:15:28.000Z"
+      "sourceUrl": "https://plato.stanford.edu/entries/stumpf/",
+      "publishedAt": "2026-11-28T06:16:55.000Z"
     },
     {
-      "id": "7f13b6b099af37ea",
+      "id": "9b9decc1d5f11214",
       "topic": "cosmos",
       "title": "NASA Science",
-      "summary": "To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 vide",
+      "summary": "On November 24, all denizens of our fair planet could watch the Moon rise opposite the setting Sun. Easy to spot in twilight skies above fields, fences, backyards, and even stone walls, the Moon was big and bright, and at its full phase. Known to some as a Beaver Moon, November's Full Moon was also near perigee, the closest point in its elliptical orbit…",
       "sourceName": "NASA · Astronomy Picture of the Day",
-      "sourceUrl": "https://apod.nasa.gov/apod/ap261126.html",
-      "publishedAt": "2026-11-26T05:00:00.000Z"
+      "sourceUrl": "https://apod.nasa.gov/apod/ap261128.html",
+      "publishedAt": "2026-11-28T05:00:00.000Z"
     }
   ],
   "sourcesOnline": [
     "nist",
     "sep",
     "world-bank",
-    "pubmed"
+    "pubmed",
+    "nasa-apod"
   ]
 }

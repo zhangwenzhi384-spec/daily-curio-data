@@ -1,5 +1,6 @@
 {
   "seen": [
+    "f0861ba5535fdf96",
     "824bc9be5bc9cc19",
     "5ed161b78d38a172",
     "6f0ca3b95c9f49ff",
@@ -119,6 +120,11 @@
     "d98507a48f3b8415"
   ],
   "days": [
+    {
+      "date": "2026-11-28",
+      "id": "f0861ba5535fdf96",
+      "sourceUrl": "https://plato.stanford.edu/entries/stumpf/"
+    },
     {
       "date": "2026-11-27",
       "id": "824bc9be5bc9cc19",
